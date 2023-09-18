@@ -542,9 +542,9 @@ http://hidra.live:80/fmfukngo/Z395trjb2A/34511.ts
 http://hidra.live:80/fmfukngo/Z395trjb2A/34512.ts
 #EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 37" tvg-logo="https://img.tvcl.xyz/ppvcine/ppvcinema.png" group-title="PPV Cine",PPV: Cinema 37
 http://hidra.live:80/fmfukngo/Z395trjb2A/34513.ts
-#EXTINF:-1 tvg-id="CartoonNetworkMexico.mx" tvg-name="Cartoon Network SD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BXgGW3gzd8rBUa8e8fB529v.png" group-title="Infantiles",Cartoon Network SD (CL*)
+#EXTINF:-1 tvg-id="CartoonNetworkMexico.mx" tvg-name="Cartoon Network SD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BXgGW3gzd8rBUa8e8fB529v.png" group-title="caricaturas naomi",Cartoon Network SD (CL*)
 http://hidra.live:80/fmfukngo/Z395trjb2A/313159.ts
-#EXTINF:-1 tvg-id="CartoonNetworkPacific.us" tvg-name="Cartoon Network FHD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BXgGW3gzd8rBUa8e8fB529v.png" group-title="Infantiles",Cartoon Network FHD (CL*)
+#EXTINF:-1 tvg-id="CartoonNetworkPacific.us" tvg-name="Cartoon Network FHD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BXgGW3gzd8rBUa8e8fB529v.png" group-title="caricaturas naomi",Cartoon Network FHD (CL*)
 EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema Accion Classics FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 VIP Cinema Accion Classics FHD
@@ -1089,136 +1089,136 @@ http://hidra.live:80/fmfukngo/Z395trjb2A/34511.ts
 http://hidra.live:80/fmfukngo/Z395trjb2A/34512.ts
 #EXTINF:-1 tvg-id="" tvg-name="PPV: Cinema 37" tvg-logo="https://img.tvcl.xyz/ppvcine/ppvcinema.png" group-title="PPV Cine",PPV: Cinema 37
 http://hidra.live:80/fmfukngo/Z395trjb2A/34513.ts
-#EXTINF:-1 tvg-id="CartoonNetworkMexico.mx" tvg-name="Cartoon Network SD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BXgGW3gzd8rBUa8e8fB529v.png" group-title="Infantiles",Cartoon Network SD (CL*)
+#EXTINF:-1 tvg-id="CartoonNetworkMexico.mx" tvg-name="Cartoon Network SD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BXgGW3gzd8rBUa8e8fB529v.png" group-title="caricaturas naomi",Cartoon Network SD (CL*)
 http://hidra.live:80/fmfukngo/Z395trjb2A/313159.ts
-#EXTINF:-1 tvg-id="CartoonNetworkPacific.us" tvg-name="Cartoon Network FHD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BXgGW3gzd8rBUa8e8fB529v.png" group-title="Infantiles",Cartoon Network FHD (CL*)
+#EXTINF:-1 tvg-id="CartoonNetworkPacific.us" tvg-name="Cartoon Network FHD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BXgGW3gzd8rBUa8e8fB529v.png" group-title="caricaturas naomi",Cartoon Network FHD (CL*)
 http://hidra.live:80/fmfukngo/Z395trjb2A/313150.ts
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Cartoon Network HD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/cn.png" group-title="Infantiles",Cartoon Network HD (MX)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Cartoon Network HD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/cn.png" group-title="caricaturas naomi",Cartoon Network HD (MX)
 http://hidra.live:80/fmfukngo/Z395trjb2A/302621.ts
-#EXTINF:-1 tvg-id="CO - Cartoon Network" tvg-name="Cartoon Network SD (LAT)" tvg-logo="https://img.tvcl.xyz/infantiles/cn.png" group-title="Infantiles",Cartoon Network SD (LAT)
+#EXTINF:-1 tvg-id="CO - Cartoon Network" tvg-name="Cartoon Network SD (LAT)" tvg-logo="https://img.tvcl.xyz/infantiles/cn.png" group-title="caricaturas naomi",Cartoon Network SD (LAT)
 http://hidra.live:80/fmfukngo/Z395trjb2A/34754.ts
-#EXTINF:-1 tvg-id="CO - Cartoon Network" tvg-name="Cartoon Network FHD (LAT)" tvg-logo="https://img.tvcl.xyz/infantiles/cn.png" group-title="Infantiles",Cartoon Network FHD (LAT)
+#EXTINF:-1 tvg-id="CO - Cartoon Network" tvg-name="Cartoon Network FHD (LAT)" tvg-logo="https://img.tvcl.xyz/infantiles/cn.png" group-title="caricaturas naomi",Cartoon Network FHD (LAT)
 http://hidra.live:80/fmfukngo/Z395trjb2A/34756.ts
-#EXTINF:-1 tvg-id="DisneyChannelSouth.us" tvg-name="Disney Channel SD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BU7vgzqVupa-gcdqOcZsRaq.png" group-title="Infantiles",Disney Channel SD (CL*)
+#EXTINF:-1 tvg-id="DisneyChannelSouth.us" tvg-name="Disney Channel SD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BU7vgzqVupa-gcdqOcZsRaq.png" group-title="caricaturas naomi",Disney Channel SD (CL*)
 http://hidra.live:80/fmfukngo/Z395trjb2A/313157.ts
-#EXTINF:-1 tvg-id="DisneyChannelSouth.us" tvg-name="Disney Channel FHD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BU7vgzqVupa-gcdqOcZsRaq.png" group-title="Infantiles",Disney Channel FHD (CL*)
+#EXTINF:-1 tvg-id="DisneyChannelSouth.us" tvg-name="Disney Channel FHD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BU7vgzqVupa-gcdqOcZsRaq.png" group-title="caricaturas naomi",Disney Channel FHD (CL*)
 http://hidra.live:80/fmfukngo/Z395trjb2A/313152.ts
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Disney Channel HD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/dc.png" group-title="Infantiles",Disney Channel HD (MX)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Disney Channel HD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/dc.png" group-title="caricaturas naomi",Disney Channel HD (MX)
 http://hidra.live:80/fmfukngo/Z395trjb2A/302631.ts
-#EXTINF:-1 tvg-id="DisneyChannelSouth.us" tvg-name="Disney Channel SD (LAT)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BU7vgzqVupa-gcdqOcZsRaq.png" group-title="Infantiles",Disney Channel SD (LAT)
+#EXTINF:-1 tvg-id="DisneyChannelSouth.us" tvg-name="Disney Channel SD (LAT)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BU7vgzqVupa-gcdqOcZsRaq.png" group-title="caricaturas naomi",Disney Channel SD (LAT)
 http://hidra.live:80/fmfukngo/Z395trjb2A/34759.ts
-#EXTINF:-1 tvg-id="DisneyChannelSouth.us" tvg-name="Disney Channel FHD (LAT)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BU7vgzqVupa-gcdqOcZsRaq.png" group-title="Infantiles",Disney Channel FHD (LAT)
+#EXTINF:-1 tvg-id="DisneyChannelSouth.us" tvg-name="Disney Channel FHD (LAT)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BU7vgzqVupa-gcdqOcZsRaq.png" group-title="caricaturas naomi",Disney Channel FHD (LAT)
 http://hidra.live:80/fmfukngo/Z395trjb2A/34761.ts
-#EXTINF:-1 tvg-id="DisneyJuniorSouth.us" tvg-name="Disney Junior SD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An8FVAWecthl7SVKpXd70v02uTr7zWbpHYZEYUPdGVyNg.png" group-title="Infantiles",Disney Junior SD (CL*)
+#EXTINF:-1 tvg-id="DisneyJuniorSouth.us" tvg-name="Disney Junior SD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An8FVAWecthl7SVKpXd70v02uTr7zWbpHYZEYUPdGVyNg.png" group-title="caricaturas naomi",Disney Junior SD (CL*)
 http://hidra.live:80/fmfukngo/Z395trjb2A/313158.ts
-#EXTINF:-1 tvg-id="MX - Disney Junior" tvg-name="Disney Junior HD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/dj.png" group-title="Infantiles",Disney Junior HD (MX)
+#EXTINF:-1 tvg-id="MX - Disney Junior" tvg-name="Disney Junior HD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/dj.png" group-title="caricaturas naomi",Disney Junior HD (MX)
 http://hidra.live:80/fmfukngo/Z395trjb2A/302632.ts
-#EXTINF:-1 tvg-id="DisneyJuniorSouth.us" tvg-name="Disney Junior SD (LAT)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BXzhG1aZcqC7D5To9pYSG7Z.png" group-title="Infantiles",Disney Junior SD (LAT)
+#EXTINF:-1 tvg-id="DisneyJuniorSouth.us" tvg-name="Disney Junior SD (LAT)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BXzhG1aZcqC7D5To9pYSG7Z.png" group-title="caricaturas naomi",Disney Junior SD (LAT)
 http://hidra.live:80/fmfukngo/Z395trjb2A/34767.ts
-#EXTINF:-1 tvg-id="MX - Disney Junior" tvg-name="Disney Junior FHD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/dj.png" group-title="Infantiles",Disney Junior FHD (MX)
+#EXTINF:-1 tvg-id="MX - Disney Junior" tvg-name="Disney Junior FHD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/dj.png" group-title="caricaturas naomi",Disney Junior FHD (MX)
 http://hidra.live:80/fmfukngo/Z395trjb2A/34766.ts
-#EXTINF:-1 tvg-id="CL - Nickelodeon" tvg-name="Nickelodeon SD (CL*)" tvg-logo="https://img.tvcl.xyz/infantiles/nick.png" group-title="Infantiles",Nickelodeon SD (CL*)
+#EXTINF:-1 tvg-id="CL - Nickelodeon" tvg-name="Nickelodeon SD (CL*)" tvg-logo="https://img.tvcl.xyz/infantiles/nick.png" group-title="caricaturas naomi",Nickelodeon SD (CL*)
 http://hidra.live:80/fmfukngo/Z395trjb2A/313163.ts
-#EXTINF:-1 tvg-id="CL - Nickelodeon" tvg-name="Nickelodeon FHD (CL*)" tvg-logo="https://img.tvcl.xyz/infantiles/nick.png" group-title="Infantiles",Nickelodeon FHD (CL*)
+#EXTINF:-1 tvg-id="CL - Nickelodeon" tvg-name="Nickelodeon FHD (CL*)" tvg-logo="https://img.tvcl.xyz/infantiles/nick.png" group-title="caricaturas naomi",Nickelodeon FHD (CL*)
 http://hidra.live:80/fmfukngo/Z395trjb2A/313153.ts
-#EXTINF:-1 tvg-id="MX - Nick" tvg-name="Nickelodeon HD (MX)" tvg-logo="https://img.tvcl.xyz/brasil/nick.png" group-title="Infantiles",Nickelodeon HD (MX)
+#EXTINF:-1 tvg-id="MX - Nick" tvg-name="Nickelodeon HD (MX)" tvg-logo="https://img.tvcl.xyz/brasil/nick.png" group-title="caricaturas naomi",Nickelodeon HD (MX)
 http://hidra.live:80/fmfukngo/Z395trjb2A/302710.ts
-#EXTINF:-1 tvg-id="CO - Nick" tvg-name="Nickelodeon SD (LAT)" tvg-logo="https://img.tvcl.xyz/infantiles/nick.png" group-title="Infantiles",Nickelodeon SD (LAT)
+#EXTINF:-1 tvg-id="CO - Nick" tvg-name="Nickelodeon SD (LAT)" tvg-logo="https://img.tvcl.xyz/infantiles/nick.png" group-title="caricaturas naomi",Nickelodeon SD (LAT)
 http://hidra.live:80/fmfukngo/Z395trjb2A/34770.ts
-#EXTINF:-1 tvg-id="CO - Nick" tvg-name="Nickelodeon FHD (LAT)" tvg-logo="https://img.tvcl.xyz/infantiles/nick.png" group-title="Infantiles",Nickelodeon FHD (LAT)
+#EXTINF:-1 tvg-id="CO - Nick" tvg-name="Nickelodeon FHD (LAT)" tvg-logo="https://img.tvcl.xyz/infantiles/nick.png" group-title="caricaturas naomi",Nickelodeon FHD (LAT)
 http://hidra.live:80/fmfukngo/Z395trjb2A/34772.ts
-#EXTINF:-1 tvg-id="CL - Nick Jr." tvg-name="Nick JR SD (CL*)" tvg-logo="https://img.tvcl.xyz/brasil/nickjr.png" group-title="Infantiles",Nick JR SD (CL*)
+#EXTINF:-1 tvg-id="CL - Nick Jr." tvg-name="Nick JR SD (CL*)" tvg-logo="https://img.tvcl.xyz/brasil/nickjr.png" group-title="caricaturas naomi",Nick JR SD (CL*)
 http://hidra.live:80/fmfukngo/Z395trjb2A/313155.ts
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Nick JR HD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/nickjr.png" group-title="Infantiles",Nick JR HD (MX)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Nick JR HD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/nickjr.png" group-title="caricaturas naomi",Nick JR HD (MX)
 http://hidra.live:80/fmfukngo/Z395trjb2A/302712.ts
-#EXTINF:-1 tvg-id="MX - Nick Jr." tvg-name="Nick JR SD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/nickjr.png" group-title="Infantiles",Nick JR SD (MX)
+#EXTINF:-1 tvg-id="MX - Nick Jr." tvg-name="Nick JR SD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/nickjr.png" group-title="caricaturas naomi",Nick JR SD (MX)
 http://hidra.live:80/fmfukngo/Z395trjb2A/34778.ts
-#EXTINF:-1 tvg-id="MX - Nick Jr." tvg-name="Nick JR FHD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/nickjr.png" group-title="Infantiles",Nick JR FHD (MX)
+#EXTINF:-1 tvg-id="MX - Nick Jr." tvg-name="Nick JR FHD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/nickjr.png" group-title="caricaturas naomi",Nick JR FHD (MX)
 http://hidra.live:80/fmfukngo/Z395trjb2A/34779.ts
-#EXTINF:-1 tvg-id="TeenNickLatinAmerica.us" tvg-name="TeenNick SD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An1pgVWRgWdia13pI8fG4nEdGzyWannNyY2PucjzJbqvM.png" group-title="Infantiles",TeenNick SD (CL*)
+#EXTINF:-1 tvg-id="TeenNickLatinAmerica.us" tvg-name="TeenNick SD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An1pgVWRgWdia13pI8fG4nEdGzyWannNyY2PucjzJbqvM.png" group-title="caricaturas naomi",TeenNick SD (CL*)
 http://hidra.live:80/fmfukngo/Z395trjb2A/313168.ts
-#EXTINF:-1 tvg-id="" tvg-name="TeenNick (MX)" tvg-logo="https://img.tvcl.xyz/usa/teennick.png" group-title="Infantiles",TeenNick (MX)
+#EXTINF:-1 tvg-id="" tvg-name="TeenNick (MX)" tvg-logo="https://img.tvcl.xyz/usa/teennick.png" group-title="caricaturas naomi",TeenNick (MX)
 http://hidra.live:80/fmfukngo/Z395trjb2A/313028.ts
-#EXTINF:-1 tvg-id="A.and.E.cl" tvg-name="TeenNick FHD (LAT)" tvg-logo="https://img.tvcl.xyz/usa/teennick.png" group-title="Infantiles",TeenNick FHD (LAT)
+#EXTINF:-1 tvg-id="A.and.E.cl" tvg-name="TeenNick FHD (LAT)" tvg-logo="https://img.tvcl.xyz/usa/teennick.png" group-title="caricaturas naomi",TeenNick FHD (LAT)
 http://hidra.live:80/fmfukngo/Z395trjb2A/34777.ts
-#EXTINF:-1 tvg-id="" tvg-name="Nick Music SD (LAT)" tvg-logo="" group-title="Infantiles",Nick Music SD (LAT)
+#EXTINF:-1 tvg-id="" tvg-name="Nick Music SD (LAT)" tvg-logo="" group-title="caricaturas naomi",Nick Music SD (LAT)
 http://hidra.live:80/fmfukngo/Z395trjb2A/312756.ts
-#EXTINF:-1 tvg-id="" tvg-name="DreamWorks HD (MX)" tvg-logo="" group-title="Infantiles",DreamWorks HD (MX)
+#EXTINF:-1 tvg-id="" tvg-name="DreamWorks HD (MX)" tvg-logo="" group-title="caricaturas naomi",DreamWorks HD (MX)
 http://hidra.live:80/fmfukngo/Z395trjb2A/304507.ts
-#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV SD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BXCkcbidQhfffzInLUnNGsd.png" group-title="Infantiles",Baby TV SD (CL*)
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV SD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BXCkcbidQhfffzInLUnNGsd.png" group-title="caricaturas naomi",Baby TV SD (CL*)
 http://hidra.live:80/fmfukngo/Z395trjb2A/313160.ts
-#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV HD (MX)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BXCkcbidQhfffzInLUnNGsd.png" group-title="Infantiles",Baby TV HD (MX)
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV HD (MX)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BXCkcbidQhfffzInLUnNGsd.png" group-title="caricaturas naomi",Baby TV HD (MX)
 http://hidra.live:80/fmfukngo/Z395trjb2A/312755.ts
-#EXTINF:-1 tvg-id="Canal BabyFirst TV" tvg-name="Baby First HD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/babyfirst.png" group-title="Infantiles",Baby First HD (MX)
+#EXTINF:-1 tvg-id="Canal BabyFirst TV" tvg-name="Baby First HD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/babyfirst.png" group-title="caricaturas naomi",Baby First HD (MX)
 http://hidra.live:80/fmfukngo/Z395trjb2A/34792.ts
-#EXTINF:-1 tvg-id="" tvg-name="Bitme HD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/bitme.png" group-title="Infantiles",Bitme HD (MX)
+#EXTINF:-1 tvg-id="" tvg-name="Bitme HD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/bitme.png" group-title="caricaturas naomi",Bitme HD (MX)
 http://hidra.live:80/fmfukngo/Z395trjb2A/302617.ts
-#EXTINF:-1 tvg-id="CartoonitoArgentina.ar" tvg-name="Cartoonito SD (CL*)" tvg-logo="" group-title="Infantiles",Cartoonito SD (CL*)
+#EXTINF:-1 tvg-id="CartoonitoArgentina.ar" tvg-name="Cartoonito SD (CL*)" tvg-logo="" group-title="caricaturas naomi",Cartoonito SD (CL*)
 http://hidra.live:80/fmfukngo/Z395trjb2A/313154.ts
-#EXTINF:-1 tvg-id="CartoonitoArgentina.ar" tvg-name="Cartoonito SD (LAT)" tvg-logo="" group-title="Infantiles",Cartoonito SD (LAT)
+#EXTINF:-1 tvg-id="CartoonitoArgentina.ar" tvg-name="Cartoonito SD (LAT)" tvg-logo="" group-title="caricaturas naomi",Cartoonito SD (LAT)
 http://hidra.live:80/fmfukngo/Z395trjb2A/312753.ts
-#EXTINF:-1 tvg-id="CartoonitoArgentina.ar" tvg-name="Cartoonito FHD (LAT)" tvg-logo="" group-title="Infantiles",Cartoonito FHD (LAT)
+#EXTINF:-1 tvg-id="CartoonitoArgentina.ar" tvg-name="Cartoonito FHD (LAT)" tvg-logo="" group-title="caricaturas naomi",Cartoonito FHD (LAT)
 http://hidra.live:80/fmfukngo/Z395trjb2A/312751.ts
-#EXTINF:-1 tvg-id="ETCTV.cl" tvg-name="ETC TV SD (CL)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BWhhbmpFobM5LGktooNPjS9.png" group-title="Infantiles",ETC TV SD (CL)
+#EXTINF:-1 tvg-id="ETCTV.cl" tvg-name="ETC TV SD (CL)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BWhhbmpFobM5LGktooNPjS9.png" group-title="caricaturas naomi",ETC TV SD (CL)
 http://hidra.live:80/fmfukngo/Z395trjb2A/34798.ts
-#EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast SD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BXUVlIeGUHxakgxzJdHiFRN.png" group-title="Infantiles",Tooncast SD (CL*)
+#EXTINF:-1 tvg-id="Tooncast.us" tvg-name="Tooncast SD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BXUVlIeGUHxakgxzJdHiFRN.png" group-title="caricaturas naomi",Tooncast SD (CL*)
 http://hidra.live:80/fmfukngo/Z395trjb2A/313161.ts
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Tooncast HD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/tooncast.png" group-title="Infantiles",Tooncast HD (MX)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Tooncast HD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/tooncast.png" group-title="caricaturas naomi",Tooncast HD (MX)
 http://hidra.live:80/fmfukngo/Z395trjb2A/302735.ts
-#EXTINF:-1 tvg-id="" tvg-name="ZooMoo FHD (LAT)" tvg-logo="" group-title="Infantiles",ZooMoo FHD (LAT)
+#EXTINF:-1 tvg-id="" tvg-name="ZooMoo FHD (LAT)" tvg-logo="" group-title="caricaturas naomi",ZooMoo FHD (LAT)
 http://hidra.live:80/fmfukngo/Z395trjb2A/312760.ts
-#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-name="Paka Paka HD (ARG)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BWRfDr_IjvU38CP6RJEeZhl.png" group-title="Infantiles",Paka Paka HD (ARG)
+#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-name="Paka Paka HD (ARG)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BWRfDr_IjvU38CP6RJEeZhl.png" group-title="caricaturas naomi",Paka Paka HD (ARG)
 http://hidra.live:80/fmfukngo/Z395trjb2A/34795.ts
-#EXTINF:-1 tvg-id="" tvg-name="Lolly Kids SD (CL*)" tvg-logo="" group-title="Infantiles",Lolly Kids SD (CL*)
+#EXTINF:-1 tvg-id="" tvg-name="Lolly Kids SD (CL*)" tvg-logo="" group-title="caricaturas naomi",Lolly Kids SD (CL*)
 http://hidra.live:80/fmfukngo/Z395trjb2A/313167.ts￼Enterhttp://hidra.live:80/fmfukngo/Z395trjb2A/313150.ts
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Cartoon Network HD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/cn.png" group-title="Infantiles",Cartoon Network HD (MX)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Cartoon Network HD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/cn.png" group-title="caricaturas naomi",Cartoon Network HD (MX)
 http://hidra.live:80/fmfukngo/Z395trjb2A/302621.ts
-#EXTINF:-1 tvg-id="CO - Cartoon Network" tvg-name="Cartoon Network SD (LAT)" tvg-logo="https://img.tvcl.xyz/infantiles/cn.png" group-title="Infantiles",Cartoon Network SD (LAT)
+#EXTINF:-1 tvg-id="CO - Cartoon Network" tvg-name="Cartoon Network SD (LAT)" tvg-logo="https://img.tvcl.xyz/infantiles/cn.png" group-title="caricaturas naomi",Cartoon Network SD (LAT)
 http://hidra.live:80/fmfukngo/Z395trjb2A/34754.ts
-#EXTINF:-1 tvg-id="CO - Cartoon Network" tvg-name="Cartoon Network FHD (LAT)" tvg-logo="https://img.tvcl.xyz/infantiles/cn.png" group-title="Infantiles",Cartoon Network FHD (LAT)
+#EXTINF:-1 tvg-id="CO - Cartoon Network" tvg-name="Cartoon Network FHD (LAT)" tvg-logo="https://img.tvcl.xyz/infantiles/cn.png" group-title="caricaturas naomi",Cartoon Network FHD (LAT)
 http://hidra.live:80/fmfukngo/Z395trjb2A/34756.ts
-#EXTINF:-1 tvg-id="DisneyChannelSouth.us" tvg-name="Disney Channel SD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BU7vgzqVupa-gcdqOcZsRaq.png" group-title="Infantiles",Disney Channel SD (CL*)
+#EXTINF:-1 tvg-id="DisneyChannelSouth.us" tvg-name="Disney Channel SD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BU7vgzqVupa-gcdqOcZsRaq.png" group-title="caricaturas naomi",Disney Channel SD (CL*)
 http://hidra.live:80/fmfukngo/Z395trjb2A/313157.ts
-#EXTINF:-1 tvg-id="DisneyChannelSouth.us" tvg-name="Disney Channel FHD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BU7vgzqVupa-gcdqOcZsRaq.png" group-title="Infantiles",Disney Channel FHD (CL*)
+#EXTINF:-1 tvg-id="DisneyChannelSouth.us" tvg-name="Disney Channel FHD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BU7vgzqVupa-gcdqOcZsRaq.png" group-title="caricaturas naomi",Disney Channel FHD (CL*)
 http://hidra.live:80/fmfukngo/Z395trjb2A/313152.ts
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Disney Channel HD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/dc.png" group-title="Infantiles",Disney Channel HD (MX)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Disney Channel HD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/dc.png" group-title="caricaturas naomi",Disney Channel HD (MX)
 http://hidra.live:80/fmfukngo/Z395trjb2A/302631.ts
-#EXTINF:-1 tvg-id="DisneyChannelSouth.us" tvg-name="Disney Channel SD (LAT)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BU7vgzqVupa-gcdqOcZsRaq.png" group-title="Infantiles",Disney Channel SD (LAT)
+#EXTINF:-1 tvg-id="DisneyChannelSouth.us" tvg-name="Disney Channel SD (LAT)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BU7vgzqVupa-gcdqOcZsRaq.png" group-title="caricaturas naomi",Disney Channel SD (LAT)
 http://hidra.live:80/fmfukngo/Z395trjb2A/34759.ts
-#EXTINF:-1 tvg-id="DisneyChannelSouth.us" tvg-name="Disney Channel FHD (LAT)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BU7vgzqVupa-gcdqOcZsRaq.png" group-title="Infantiles",Disney Channel FHD (LAT)
+#EXTINF:-1 tvg-id="DisneyChannelSouth.us" tvg-name="Disney Channel FHD (LAT)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BU7vgzqVupa-gcdqOcZsRaq.png" group-title="caricaturas naomi",Disney Channel FHD (LAT)
 http://hidra.live:80/fmfukngo/Z395trjb2A/34761.ts
-#EXTINF:-1 tvg-id="DisneyJuniorSouth.us" tvg-name="Disney Junior SD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An8FVAWecthl7SVKpXd70v02uTr7zWbpHYZEYUPdGVyNg.png" group-title="Infantiles",Disney Junior SD (CL*)
+#EXTINF:-1 tvg-id="DisneyJuniorSouth.us" tvg-name="Disney Junior SD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An8FVAWecthl7SVKpXd70v02uTr7zWbpHYZEYUPdGVyNg.png" group-title="caricaturas naomi",Disney Junior SD (CL*)
 http://hidra.live:80/fmfukngo/Z395trjb2A/313158.ts
-#EXTINF:-1 tvg-id="MX - Disney Junior" tvg-name="Disney Junior HD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/dj.png" group-title="Infantiles",Disney Junior HD (MX)
+#EXTINF:-1 tvg-id="MX - Disney Junior" tvg-name="Disney Junior HD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/dj.png" group-title="caricaturas naomi",Disney Junior HD (MX)
 http://hidra.live:80/fmfukngo/Z395trjb2A/302632.ts
-#EXTINF:-1 tvg-id="DisneyJuniorSouth.us" tvg-name="Disney Junior SD (LAT)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BXzhG1aZcqC7D5To9pYSG7Z.png" group-title="Infantiles",Disney Junior SD (LAT)
+#EXTINF:-1 tvg-id="DisneyJuniorSouth.us" tvg-name="Disney Junior SD (LAT)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BXzhG1aZcqC7D5To9pYSG7Z.png" group-title="caricaturas naomi",Disney Junior SD (LAT)
 http://hidra.live:80/fmfukngo/Z395trjb2A/34767.ts
-#EXTINF:-1 tvg-id="MX - Disney Junior" tvg-name="Disney Junior FHD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/dj.png" group-title="Infantiles",Disney Junior FHD (MX)
+#EXTINF:-1 tvg-id="MX - Disney Junior" tvg-name="Disney Junior FHD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/dj.png" group-title="caricaturas naomi",Disney Junior FHD (MX)
 http://hidra.live:80/fmfukngo/Z395trjb2A/34766.ts
-#EXTINF:-1 tvg-id="CL - Nickelodeon" tvg-name="Nickelodeon SD (CL*)" tvg-logo="https://img.tvcl.xyz/infantiles/nick.png" group-title="Infantiles",Nickelodeon SD (CL*)
+#EXTINF:-1 tvg-id="CL - Nickelodeon" tvg-name="Nickelodeon SD (CL*)" tvg-logo="https://img.tvcl.xyz/infantiles/nick.png" group-title="caricaturas naomi",Nickelodeon SD (CL*)
 /hidra.live:80/fmfukngo/Z395trjb2A/313163.ts
-#EXTINF:-1 tvg-id="CL - Nickelodeon" tvg-name="Nickelodeon FHD (CL*)" tvg-logo="https://img.tvcl.xyz/infantiles/nick.png" group-title="Infantiles",Nickelodeon FHD (CL*)
+#EXTINF:-1 tvg-id="CL - Nickelodeon" tvg-name="Nickelodeon FHD (CL*)" tvg-logo="https://img.tvcl.xyz/infantiles/nick.png" group-title="caricaturas naomi",Nickelodeon FHD (CL*)
 http://hidra.live:80/fmfukngo/Z395trjb2A/313153.ts
-#EXTINF:-1 tvg-id="MX - Nick" tvg-name="Nickelodeon HD (MX)" tvg-logo="https://img.tvcl.xyz/brasil/nick.png" group-title="Infantiles",Nickelodeon HD (MX)
+#EXTINF:-1 tvg-id="MX - Nick" tvg-name="Nickelodeon HD (MX)" tvg-logo="https://img.tvcl.xyz/brasil/nick.png" group-title="caricaturas naomi",Nickelodeon HD (MX)
 http://hidra.live:80/fmfukngo/Z395trjb2A/302710.ts
-#EXTINF:-1 tvg-id="CO - Nick" tvg-name="Nickelodeon SD (LAT)" tvg-logo="https://img.tvcl.xyz/infantiles/nick.png" group-title="Infantiles",Nickelodeon SD (LAT)
+#EXTINF:-1 tvg-id="CO - Nick" tvg-name="Nickelodeon SD (LAT)" tvg-logo="https://img.tvcl.xyz/infantiles/nick.png" group-title="caricaturas naomi",Nickelodeon SD (LAT)
 http://hidra.live:80/fmfukngo/Z395trjb2A/34770.ts
-#EXTINF:-1 tvg-id="CO - Nick" tvg-name="Nickelodeon FHD (LAT)" tvg-logo="https://img.tvcl.xyz/infantiles/nick.png" group-title="Infantiles",Nickelodeon FHD (LAT)
+#EXTINF:-1 tvg-id="CO - Nick" tvg-name="Nickelodeon FHD (LAT)" tvg-logo="https://img.tvcl.xyz/infantiles/nick.png" group-title="caricaturas naomi",Nickelodeon FHD (LAT)
 http://hidra.live:80/fmfukngo/Z395trjb2A/34772.ts
-#EXTINF:-1 tvg-id="CL - Nick Jr." tvg-name="Nick JR SD (CL*)" tvg-logo="https://img.tvcl.xyz/brasil/nickjr.png" group-title="Infantiles",Nick JR SD (CL*)
+#EXTINF:-1 tvg-id="CL - Nick Jr." tvg-name="Nick JR SD (CL*)" tvg-logo="https://img.tvcl.xyz/brasil/nickjr.png" group-title="caricaturas naomi",Nick JR SD (CL*)
 http://hidra.live:80/fmfukngo/Z395trjb2A/313155.ts
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Nick JR HD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/nickjr.png" group-title="Infantiles",Nick JR HD (MX)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Nick JR HD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/nickjr.png" group-title="caricaturas naomi",Nick JR HD (MX)
 http://hidra.live:80/fmfukngo/Z395trjb2A/302712.ts
-#EXTINF:-1 tvg-id="MX - Nick Jr." tvg-name="Nick JR SD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/nickjr.png" group-title="Infantiles",Nick JR SD (MX)
+#EXTINF:-1 tvg-id="MX - Nick Jr." tvg-name="Nick JR SD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/nickjr.png" group-title="caricaturas naomi",Nick JR SD (MX)
 http://hidra.live:80/fmfukngo/Z395trjb2A/34778.ts
-#EXTINF:-1 tvg-id="MX - Nick Jr." tvg-name="Nick JR FHD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/nickjr.png" group-title="Infantiles",Nick JR FHD (MX)
+#EXTINF:-1 tvg-id="MX - Nick Jr." tvg-name="Nick JR FHD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/nickjr.png" group-title="caricaturas naomi",Nick JR FHD (MX)
 http://hidra.live:80/fmfukngo/Z395trjb2A/34779.ts
-#EXTINF:-1 tvg-id="TeenNickLatinAmerica.us" tvg-name="TeenNick SD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An1pgVWRgWdia13pI8fG4nEdGzyWannNyY2PucjzJbqvM.png" group-title="Infantiles",TeenNick SD (CL*)
+#EXTINF:-1 tvg-id="TeenNickLatinAmerica.us" tvg-name="TeenNick SD (CL*)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An1pgVWRgWdia13pI8fG4nEdGzyWannNyY2PucjzJbqvM.png" group-title="caricaturas naomi",TeenNick SD (CL*)
 http://hidra.live:80/fmfukngo/Z395trjb2A/313168.ts
-#EXTINF:-1 tvg-id="" tvg-name="TeenNick (MX)" tvg-logo="https://img.tvcl.xyz/usa/teennick.png" group-title="Infantiles",TeenNick (MX)
+#EXTINF:-1 tvg-id="" tvg-name="TeenNick (MX)" tvg-logo="https://img.tvcl.xyz/usa/teennick.png" group-title="caricaturas naomi",TeenNick (MX)
 http://hidra.live:80/fmfukngo/Z395trjb2A/313028.ts
-#EXTINF:-1 tvg-id="A.and.E.cl" tvg-name="TeenNick FHD (LAT)" tvg-logo="https://img.tvcl.xyz/usa/teennick.png" group-title="Infantiles",TeenNick FHD (LAT)
+#EXTINF:-1 tvg-id="A.and.E.cl" tvg-name="TeenNick FHD (LAT)" tvg-logo="https://img.tvcl.xyz/usa/teennick.png" group-title="caricaturas naomi",TeenNick FHD (LAT)
 http://hidra.live:80/fmfukngo/Z395trjb2A/34777.ts
 #EXTINF:-1 tvg-id="" tvg-name="Nick Music SD (LAT)" tvg-logo="" group-title="caricaturas,naomi",Nick Music SD (LAT)
 http://hidra.live:80/fmfukngo/Z395trjb2A/312756.ts
-#EXTINF:-1 tvg-id="" tvg-name="DreamWorks HD (MX)" tvg-logo="" group-title="Infantiles",DreamWorks HD (MX)
+#EXTINF:-1 tvg-id="" tvg-name="DreamWorks HD (MX)" tvg-logo="" group-title="caricaturas naomi",DreamWorks HD (MX)
