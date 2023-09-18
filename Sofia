@@ -4,3 +4,5 @@ EXTM3U
 http://hidra.live:80/kupnwxyh/56y0SsYae2/333161.ts
 #EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Bandamax HD (MX)" tvg-logo="" group-title="isr",Bandamax HD (MX)
 http://hidra.live:80/kupnwxyh/56y0SsYae2/302616.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Princesa Sofia" tvg-logo="https://dl.dropboxusercontent.com/s/0ch19r1ui75k10j/sofia.png" group-title="Canales 24/7",24/7 Princesa Sofia
+http://hidra.live:80/kupnwxyh/56y0SsYae2/333161.ts
