@@ -1,8 +1,1025 @@
-EXTM3U
+#EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Princesa Sofia" tvg-logo="https://dl.dropboxusercontent.com/s/0ch19r1ui75k10j/sofia.png" group-title="isr",24/7 Princesa Sofia
-http://hidra.live:80/kupnwxyh/56y0SsYae2/333161.ts
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Bandamax HD (MX)" tvg-logo="" group-title="isr",Bandamax HD (MX)
-http://hidra.live:80/kupnwxyh/56y0SsYae2/302616.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Princesa Sofia" tvg-logo="https://dl.dropboxusercontent.com/s/0ch19r1ui75k10j/sofia.png" group-title="Canales 24/7",24/7 Princesa Sofia
-http://hidra.live:80/kupnwxyh/56y0SsYae2/333161.ts
+#EXTINF:-1 tvg-id="" tvg-name="▂ ▄ ▅ ▆  ENTRETENIMIENTO  ▆ ▅ ▄ ▂" tvg-logo="" group-title="LAT - Entretenimiento",▂ ▄ ▅ ▆  ENTRETENIMIENTO  ▆ ▅ ▄ ▂
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/31942.ts
+#EXTINF:-1 tvg-id="investigationdiscovery.co" tvg-name="LAT: Investigation Discovery (MOVIL)" tvg-logo="http://swedtv.vip/logos/entretenimiento/InvestigationDiscovery.png" group-title="LAT - Entretenimiento",LAT: Investigation Discovery (MOVIL)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/65793.ts
+#EXTINF:-1 tvg-id="investigationdiscovery.co" tvg-name="LAT: Investigation Discovery (CO)" tvg-logo="http://swedtv.vip/logos/entretenimiento/InvestigationDiscovery.png" group-title="LAT - Entretenimiento",LAT: Investigation Discovery (CO)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/2027.ts
+#EXTINF:-1 tvg-id="investigationdiscovery.co" tvg-name="LAT: Investigation Discovery HD (CO)" tvg-logo="http://swedtv.vip/logos/entretenimiento/InvestigationDiscovery.png" group-title="LAT - Entretenimiento",LAT: Investigation Discovery HD (CO)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/32255.ts
+#EXTINF:-1 tvg-id="investigationdiscovery.co" tvg-name="LAT: Investigation Discovery FHD (CO)" tvg-logo="http://swedtv.vip/logos/entretenimiento/InvestigationDiscovery.png" group-title="LAT - Entretenimiento",LAT: Investigation Discovery FHD (CO)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/4578.ts
+#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="LAT: Investigation Discovery (MX)" tvg-logo="http://swedtv.vip/logos/entretenimiento/InvestigationDiscovery.png" group-title="LAT - Entretenimiento",LAT: Investigation Discovery (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/7087.ts
+#EXTINF:-1 tvg-id="investigationdiscovery.mx" tvg-name="LAT: Investigation Discovery FHD (MX)" tvg-logo="http://swedtv.vip/logos/entretenimiento/InvestigationDiscovery.png" group-title="LAT - Entretenimiento",LAT: Investigation Discovery FHD (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/7088.ts
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="LAT: Investigation Discovery (PY)" tvg-logo="http://swedtv.vip/logos/entretenimiento/InvestigationDiscovery.png" group-title="LAT - Entretenimiento",LAT: Investigation Discovery (PY)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/40834.ts
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="LAT: Investigation Discovery HD (PY) (h265)" tvg-logo="http://swedtv.vip/logos/entretenimiento/InvestigationDiscovery.png" group-title="LAT - Entretenimiento",LAT: Investigation Discovery HD (PY) (h265)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/40833.ts
+#EXTINF:-1 tvg-id="historychannel.co" tvg-name="LAT: History (CO)" tvg-logo="http://swedtv.vip/logos/entretenimiento/History_Channel.png" group-title="LAT - Entretenimiento",LAT: History (CO)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/2028.ts
+#EXTINF:-1 tvg-id="historychannel.co" tvg-name="LAT: History HD (CO)" tvg-logo="http://swedtv.vip/logos/entretenimiento/History_Channel.png" group-title="LAT - Entretenimiento",LAT: History HD (CO)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/32258.ts
+#EXTINF:-1 tvg-id="history.co" tvg-name="LAT: History FHD (CO)" tvg-logo="http://swedtv.vip/logos/entretenimiento/History_Channel.png" group-title="LAT - Entretenimiento",LAT: History FHD (CO)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/4579.ts
+#EXTINF:-1 tvg-id="historychannel.mx" tvg-name="LAT: History (MX)" tvg-logo="http://swedtv.vip/logos/entretenimiento/History_Channel.png" group-title="LAT - Entretenimiento",LAT: History (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/7369.ts
+#EXTINF:-1 tvg-id="historyhd.mx" tvg-name="LAT: History FHD (MX)" tvg-logo="http://swedtv.vip/logos/entretenimiento/History_Channel.png" group-title="LAT - Entretenimiento",LAT: History FHD (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/7091.ts
+#EXTINF:-1 tvg-id="history2.co.co" tvg-name="LAT: History 2 (MOVIL)" tvg-logo="http://swedtv.vip/logos/entretenimiento/History2.png" group-title="LAT - Entretenimiento",LAT: History 2 (MOVIL)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/65792.ts
+#EXTINF:-1 tvg-id="history2.co.co" tvg-name="LAT: History 2 SD" tvg-logo="http://swedtv.vip/logos/entretenimiento/History2.png" group-title="LAT - Entretenimiento",LAT: History 2 SD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/233954.ts
+#EXTINF:-1 tvg-id="history2.co" tvg-name="LAT: History 2 HD" tvg-logo="http://swedtv.vip/logos/entretenimiento/History2.png" group-title="LAT - Entretenimiento",LAT: History 2 HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/7092.ts
+#EXTINF:-1 tvg-id="history2.co.co" tvg-name="LAT: History 2 FHD" tvg-logo="http://swedtv.vip/logos/entretenimiento/History2.png" group-title="LAT - Entretenimiento",LAT: History 2 FHD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/15183.ts
+#EXTINF:-1 tvg-id="discoverychannel.co" tvg-name="LAT: Discovery Channel (MOVIL)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_Channel.png" group-title="LAT - Entretenimiento",LAT: Discovery Channel (MOVIL)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/65790.ts
+#EXTINF:-1 tvg-id="discoveryscience.co" tvg-name="LAT: Discovery Channel (CO)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_Channel.png" group-title="LAT - Entretenimiento",LAT: Discovery Channel (CO)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/2013.ts
+#EXTINF:-1 tvg-id="discoverychannel.co" tvg-name="LAT: Discovery Channel HD (CO)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_Channel.png" group-title="LAT - Entretenimiento",LAT: Discovery Channel HD (CO)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/32256.ts
+#EXTINF:-1 tvg-id="discoverychannel.co" tvg-name="LAT: Discovery Channel FHD (CO)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_Channel.png" group-title="LAT - Entretenimiento",LAT: Discovery Channel FHD (CO)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/4568.ts
+#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="LAT: Discovery Channel (MX)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_Channel.png" group-title="LAT - Entretenimiento",LAT: Discovery Channel (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/7090.ts
+#EXTINF:-1 tvg-id="discoverychannel.mx" tvg-name="LAT: Discovery Channel FHD (MX)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_Channel.png" group-title="LAT - Entretenimiento",LAT: Discovery Channel FHD (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/7089.ts
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="LAT: Discovery Channel (PY)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_Channel.png" group-title="LAT - Entretenimiento",LAT: Discovery Channel (PY)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/40836.ts
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="LAT: Discovery Channel HD (PY) (h265)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_Channel.png" group-title="LAT - Entretenimiento",LAT: Discovery Channel HD (PY) (h265)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/40835.ts
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="LAT: Discovery Familia HD" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_Familia.png" group-title="LAT - Entretenimiento",LAT: Discovery Familia HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/27243.ts
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.co" tvg-name="LAT: Discovery H&H (MOVIL)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_hyh.png" group-title="LAT - Entretenimiento",LAT: Discovery H&H (MOVIL)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/65087.ts
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.co" tvg-name="LAT: Discovery H&H SD (CO)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_hyh.png" group-title="LAT - Entretenimiento",LAT: Discovery H&H SD (CO)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/2014.ts
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.co" tvg-name="LAT: Discovery H&H HD (CO)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_hyh.png" group-title="LAT - Entretenimiento",LAT: Discovery H&H HD (CO)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/32257.ts
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.co" tvg-name="LAT: Discovery H&H FHD (CO)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_hyh.png" group-title="LAT - Entretenimiento",LAT: Discovery H&H FHD (CO)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/4569.ts
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.mx" tvg-name="LAT: Discovery H&H SD (MX)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_hyh.png" group-title="LAT - Entretenimiento",LAT: Discovery H&H SD (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/7095.ts
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.mx" tvg-name="LAT: Discovery H&H HD (MX)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_hyh.png" group-title="LAT - Entretenimiento",LAT: Discovery H&H HD (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/127266.ts
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.mx" tvg-name="LAT: Discovery H&H FHD (MX)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_hyh.png" group-title="LAT - Entretenimiento",LAT: Discovery H&H FHD (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/7094.ts
+#EXTINF:-1 tvg-id="DiscoveryHomeHealth.mx" tvg-name="LAT: Discovery H&H HD (PY) (h265)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_hyh.png" group-title="LAT - Entretenimiento",LAT: Discovery H&H HD (PY) (h265)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/40837.ts
+#EXTINF:-1 tvg-id="discoveryscience.co" tvg-name="LAT: Discovery Science (MOVIL)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_Science.png" group-title="LAT - Entretenimiento",LAT: Discovery Science (MOVIL)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/65791.ts
+#EXTINF:-1 tvg-id="discoveryscience.co" tvg-name="LAT: Discovery Science" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_Science.png" group-title="LAT - Entretenimiento",LAT: Discovery Science
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/2015.ts
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="LAT: Discovery Theater (CO)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_Theater.png" group-title="LAT - Entretenimiento",LAT: Discovery Theater (CO)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/2016.ts
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="LAT: Discovery Theater FHD (CO)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_Theater.png" group-title="LAT - Entretenimiento",LAT: Discovery Theater FHD (CO)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/4571.ts
+#EXTINF:-1 tvg-id="discoveryhdtheater.mx" tvg-name="LAT: Discovery Theater (MX)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_Theater.png" group-title="LAT - Entretenimiento",LAT: Discovery Theater (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/7105.ts
+#EXTINF:-1 tvg-id="discoveryhdtheater.mx" tvg-name="LAT: Discovery Theater FHD (MX)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_Theater.png" group-title="LAT - Entretenimiento",LAT: Discovery Theater FHD (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/7104.ts
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="LAT: Discovery Theater HD (PY) (h265)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_Theater.png" group-title="LAT - Entretenimiento",LAT: Discovery Theater HD (PY) (h265)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/40841.ts
+#EXTINF:-1 tvg-id="discoveryturbo.co" tvg-name="LAT: Discovery Turbo (MOVIL)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_Turbo.png" group-title="LAT - Entretenimiento",LAT: Discovery Turbo (MOVIL)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/65089.ts
+#EXTINF:-1 tvg-id="discoveryturbo.co" tvg-name="LAT: Discovery Turbo" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_Turbo.png" group-title="LAT - Entretenimiento",LAT: Discovery Turbo
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/2017.ts
+#EXTINF:-1 tvg-id="discoveryturbo.co" tvg-name="LAT: Discovery Turbo FHD" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_Turbo.png" group-title="LAT - Entretenimiento",LAT: Discovery Turbo FHD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/15100.ts
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="LAT: Discovery Turbo HD (PY) (h265)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_Turbo.png" group-title="LAT - Entretenimiento",LAT: Discovery Turbo HD (PY) (h265)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/40843.ts
+#EXTINF:-1 tvg-id="discoveryworld.mx" tvg-name="LAT: Discovery World" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_World.png" group-title="LAT - Entretenimiento",LAT: Discovery World
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/2018.ts
+#EXTINF:-1 tvg-id="discoveryworld.mx" tvg-name="LAT: Discovery World FHD" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_World.png" group-title="LAT - Entretenimiento",LAT: Discovery World FHD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/4572.ts
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="LAT: Discovery World HD (PY) (h265)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_World.png" group-title="LAT - Entretenimiento",LAT: Discovery World HD (PY) (h265)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/40845.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT: AFV en Español SD" tvg-logo="http://swedtv.vip/logos/entretenimiento/AFV_TV.png" group-title="LAT - Entretenimiento",LAT: AFV en Español SD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/228839.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT: AFV en Español HD" tvg-logo="http://swedtv.vip/logos/entretenimiento/AFV_TV.png" group-title="LAT - Entretenimiento",LAT: AFV en Español HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/228840.ts
+#EXTINF:-1 tvg-id="animalplanet.co" tvg-name="LAT: Animal Planet (MOVIL)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Animal_Planet.png" group-title="LAT - Entretenimiento",LAT: Animal Planet (MOVIL)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/65789.ts
+#EXTINF:-1 tvg-id="animalplanet.co" tvg-name="LAT: Animal Planet SD (CO)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Animal_Planet.png" group-title="LAT - Entretenimiento",LAT: Animal Planet SD (CO)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/233951.ts
+#EXTINF:-1 tvg-id="animalplanet.co" tvg-name="LAT: Animal Planet HD (CO)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Animal_Planet.png" group-title="LAT - Entretenimiento",LAT: Animal Planet HD (CO)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/233952.ts
+#EXTINF:-1 tvg-id="animalplanet.co" tvg-name="LAT: Animal Planet FHD (CO)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Animal_Planet.png" group-title="LAT - Entretenimiento",LAT: Animal Planet FHD (CO)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/233953.ts
+#EXTINF:-1 tvg-id="animalplanet.mx" tvg-name="LAT: Animal Planet SD (MX)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Animal_Planet.png" group-title="LAT - Entretenimiento",LAT: Animal Planet SD (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24087.ts
+#EXTINF:-1 tvg-id="animalplanet.mx" tvg-name="LAT: Animal Planet HD (MX)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Animal_Planet.png" group-title="LAT - Entretenimiento",LAT: Animal Planet HD (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/112991.ts
+#EXTINF:-1 tvg-id="animalplanet.mx" tvg-name="LAT: Animal Planet FHD (MX)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Animal_Planet.png" group-title="LAT - Entretenimiento",LAT: Animal Planet FHD (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24088.ts
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="LAT: Animal Planet (PY)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Animal_Planet.png" group-title="LAT - Entretenimiento",LAT: Animal Planet (PY)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/40832.ts
+#EXTINF:-1 tvg-id="nationalgeographic.co" tvg-name="LAT: NatGeo (MOVIL)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Nat_Geo_Wild.png" group-title="LAT - Entretenimiento",LAT: NatGeo (MOVIL)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/65795.ts
+#EXTINF:-1 tvg-id="nationalgeographic.co" tvg-name="LAT: NatGeo (CO)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Nat_Geo.png" group-title="LAT - Entretenimiento",LAT: NatGeo (CO)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/2023.ts
+#EXTINF:-1 tvg-id="nationalgeographic.co" tvg-name="LAT: NatGeo HD (CO)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Nat_Geo.png" group-title="LAT - Entretenimiento",LAT: NatGeo HD (CO)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/32265.ts
+#EXTINF:-1 tvg-id="nationalgeographic.co" tvg-name="LAT: NatGeo FHD (CO)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Nat_Geo.png" group-title="LAT - Entretenimiento",LAT: NatGeo FHD (CO)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/4575.ts
+#EXTINF:-1 tvg-id="natgeo.mx" tvg-name="LAT: NatGeo SD (MX)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Nat_Geo.png" group-title="LAT - Entretenimiento",LAT: NatGeo SD (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/2024.ts
+#EXTINF:-1 tvg-id="natgeo.mx" tvg-name="LAT: NatGeo HD (MX)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Nat_Geo.png" group-title="LAT - Entretenimiento",LAT: NatGeo HD (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/127267.ts
+#EXTINF:-1 tvg-id="natgeo.mx" tvg-name="LAT: NatGeo FHD (MX)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Nat_Geo.png" group-title="LAT - Entretenimiento",LAT: NatGeo FHD (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/7093.ts
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="LAT: NatGeo HD (PY) (h265)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Nat_Geo.png" group-title="LAT - Entretenimiento",LAT: NatGeo HD (PY) (h265)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/40838.ts
+#EXTINF:-1 tvg-id="EL: NAT GEO MUNDO" tvg-name="LAT: NatGeo Mundo" tvg-logo="http://swedtv.vip/logos/entretenimiento/Nat_Geo_Mundo.png" group-title="LAT - Entretenimiento",LAT: NatGeo Mundo
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/105941.ts
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="LAT: Comedy Central (MOVIL)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Comedy_Central.png" group-title="LAT - Entretenimiento",LAT: Comedy Central (MOVIL)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/65081.ts
+#EXTINF:-1 tvg-id="comedycentral.co" tvg-name="LAT: Comedy Central (CO)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Comedy_Central.png" group-title="LAT - Entretenimiento",LAT: Comedy Central (CO)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/2011.ts
+#EXTINF:-1 tvg-id="comedycentral.co" tvg-name="LAT: Comedy Central HD (CO)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Comedy_Central.png" group-title="LAT - Entretenimiento",LAT: Comedy Central HD (CO)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/40847.ts
+#EXTINF:-1 tvg-id="comedycentral.co" tvg-name="LAT: Comedy Central FHD (CO)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Comedy_Central.png" group-title="LAT - Entretenimiento",LAT: Comedy Central FHD (CO)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/4582.ts
+#EXTINF:-1 tvg-id="comedycentral.mx" tvg-name="LAT: Comedy Central (MX)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Comedy_Central.png" group-title="LAT - Entretenimiento",LAT: Comedy Central (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/7107.ts
+#EXTINF:-1 tvg-id="comedycentral.mx" tvg-name="LAT: Comedy Central FHD (MX)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Comedy_Central.png" group-title="LAT - Entretenimiento",LAT: Comedy Central FHD (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/7106.ts
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="LAT: Comedy Central HD (PY) (h265)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Comedy_Central.png" group-title="LAT - Entretenimiento",LAT: Comedy Central HD (PY) (h265)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/40848.ts
+#EXTINF:-1 tvg-id="tlc.co" tvg-name="LAT: TLC (CO)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_TLC.png" group-title="LAT - Entretenimiento",LAT: TLC (CO)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/2010.ts
+#EXTINF:-1 tvg-id="tlc.co" tvg-name="LAT: TLC HD (CO)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_TLC.png" group-title="LAT - Entretenimiento",LAT: TLC HD (CO)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/4573.ts
+#EXTINF:-1 tvg-id="tlc.mx" tvg-name="LAT: TLC SD (MX)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_TLC.png" group-title="LAT - Entretenimiento",LAT: TLC SD (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/7103.ts
+#EXTINF:-1 tvg-id="tlc.mx" tvg-name="LAT: TLC FHD (MX)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Discovery_TLC.png" group-title="LAT - Entretenimiento",LAT: TLC FHD (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/7102.ts
+#EXTINF:-1 tvg-id="trutv.mx" tvg-name="LAT: Tru TV HD (MX)" tvg-logo="http://swedtv.vip/logos/entretenimiento/TruTV.png" group-title="LAT - Entretenimiento",LAT: Tru TV HD (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26548.ts
+#EXTINF:-1 tvg-id="trutv.mx" tvg-name="LAT: Tru TV SD (MX)" tvg-logo="http://swedtv.vip/logos/entretenimiento/TruTV.png" group-title="LAT - Entretenimiento",LAT: Tru TV SD (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26549.ts
+#EXTINF:-1 tvg-id="eentertainmentandes.co" tvg-name="LAT: E! Entertainment" tvg-logo="http://swedtv.vip/logos/entretenimiento/E!_Entertainment.png" group-title="LAT - Entretenimiento",LAT: E! Entertainment
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/2020.ts
+#EXTINF:-1 tvg-id="eentertainmentandes.co" tvg-name="LAT: E! Entertaiment FHD" tvg-logo="http://swedtv.vip/logos/entretenimiento/E!_Entertainment.png" group-title="LAT - Entretenimiento",LAT: E! Entertaiment FHD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26937.ts
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="LAT: El Gourmet SD (CO)" tvg-logo="http://swedtv.vip/logos/entretenimiento/El_Gourmet.png" group-title="LAT - Entretenimiento",LAT: El Gourmet SD (CO)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/2019.ts
+#EXTINF:-1 tvg-id="CO: ELGOURMET" tvg-name="LAT: El Gourmet HD (CO)" tvg-logo="http://swedtv.vip/logos/entretenimiento/El_Gourmet.png" group-title="LAT - Entretenimiento",LAT: El Gourmet HD (CO)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/40849.ts
+#EXTINF:-1 tvg-id="elgourmet.mx" tvg-name="LAT: El Gourmet FHD (CO)" tvg-logo="http://swedtv.vip/logos/entretenimiento/El_Gourmet.png" group-title="LAT - Entretenimiento",LAT: El Gourmet FHD (CO)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/4570.ts
+#EXTINF:-1 tvg-id="estrellatv.us" tvg-name="LAT: Estrella TV East SD" tvg-logo="http://swedtv.vip/logos/entretenimiento/Estrella_TV.png" group-title="LAT - Entretenimiento",LAT: Estrella TV East SD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/228851.ts
+#EXTINF:-1 tvg-id="estrellatv.us" tvg-name="LAT: Estrella TV East HD" tvg-logo="http://swedtv.vip/logos/entretenimiento/Estrella_TV.png" group-title="LAT - Entretenimiento",LAT: Estrella TV East HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/228852.ts
+#EXTINF:-1 tvg-id="estrellatv.us" tvg-name="LAT: Estrella TV East FHD" tvg-logo="http://swedtv.vip/logos/entretenimiento/Estrella_TV.png" group-title="LAT - Entretenimiento",LAT: Estrella TV East FHD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/228853.ts
+#EXTINF:-1 tvg-id="MX: ESTRELLA TV" tvg-name="LAT: Estrella TV HD" tvg-logo="http://swedtv.vip/logos/entretenimiento/Estrella_TV.png" group-title="LAT - Entretenimiento",LAT: Estrella TV HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/27240.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Estrella TV News" tvg-logo="http://swedtv.vip/logos/entretenimiento/Estrella_TV.png" group-title="LAT - Entretenimiento",LAT: Estrella TV News
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/178027.ts
+#EXTINF:-1 tvg-id="foodnetwork.mx" tvg-name="LAT: Food Network (MX)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Food_Network.png" group-title="LAT - Entretenimiento",LAT: Food Network (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24629.ts
+#EXTINF:-1 tvg-id="foodnetwork.mx" tvg-name="LAT: Food Network HD (MX)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Food_Network.png" group-title="LAT - Entretenimiento",LAT: Food Network HD (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/27203.ts
+#EXTINF:-1 tvg-id="CARIB: HGTV" tvg-name="LAT: HGTV en Español SD" tvg-logo="http://swedtv.vip/logos/entretenimiento/HGTV.png" group-title="LAT - Entretenimiento",LAT: HGTV en Español SD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/132185.ts
+#EXTINF:-1 tvg-id="CARIB: HGTV" tvg-name="LAT: HGTV en Español SD" tvg-logo="http://swedtv.vip/logos/entretenimiento/HGTV.png" group-title="LAT - Entretenimiento",LAT: HGTV en Español SD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/115651.ts
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="LAT: HGTV en Español HD" tvg-logo="http://swedtv.vip/logos/entretenimiento/HGTV.png" group-title="LAT - Entretenimiento",LAT: HGTV en Español HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/115650.ts
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="LAT: Hola TV FHD" tvg-logo="http://swedtv.vip/logos/entretenimiento/%c2%a1HOLA!TV.png" group-title="LAT - Entretenimiento",LAT: Hola TV FHD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/2029.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Kanal D en Español" tvg-logo="http://swedtv.vip/logos/entretenimiento/Kanal_D_Drama.png" group-title="LAT - Entretenimiento",LAT: Kanal D en Español
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/162328.ts
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="LAT: Las Estrellas (MOVIL)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Las_Estrellas.png" group-title="LAT - Entretenimiento",LAT: Las Estrellas (MOVIL)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/65737.ts
+#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="LAT: Las Estrellas SD (MX)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Las_Estrellas.png" group-title="LAT - Entretenimiento",LAT: Las Estrellas SD (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/4641.ts
+#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="LAT: Las Estrellas HD (MX)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Las_Estrellas.png" group-title="LAT - Entretenimiento",LAT: Las Estrellas HD (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/176534.ts
+#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="LAT: Las Estrellas FHD (MX)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Las_Estrellas.png" group-title="LAT - Entretenimiento",LAT: Las Estrellas FHD (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/16827.ts
+#EXTINF:-1 tvg-id="estrella.us" tvg-name="LAT: Las Estrellas SD (EU)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Las_Estrellas.png" group-title="LAT - Entretenimiento",LAT: Las Estrellas SD (EU)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/176537.ts
+#EXTINF:-1 tvg-id="estrella.us" tvg-name="LAT: Las Estrellas FHD (EU)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Las_Estrellas.png" group-title="LAT - Entretenimiento",LAT: Las Estrellas FHD (EU)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/16826.ts
+#EXTINF:-1 tvg-id="MX: CANAL DE LAS ESTRELLAS +2" tvg-name="LAT: Las Estrellas SD -2hr (MX)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Las_Estrellas-2hrs.png" group-title="LAT - Entretenimiento",LAT: Las Estrellas SD -2hr (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/176539.ts
+#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="LAT: Las Estrellas FHD -2hr (MX)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Las_Estrellas-2hrs.png" group-title="LAT - Entretenimiento",LAT: Las Estrellas FHD -2hr (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/176538.ts
+#EXTINF:-1 tvg-id="lifetime.co" tvg-name="LAT: Lifetime (CO)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Lifetime.png" group-title="LAT - Entretenimiento",LAT: Lifetime (CO)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/2025.ts
+#EXTINF:-1 tvg-id="lifetime.mx" tvg-name="LAT: Lifetime (MX)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Lifetime.png" group-title="LAT - Entretenimiento",LAT: Lifetime (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/40850.ts
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="LAT: Love Nature HD" tvg-logo="http://swedtv.vip/logos/entretenimiento/Love_Nature.png" group-title="LAT - Entretenimiento",LAT: Love Nature HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/11132.ts
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="LAT: Mega TV" tvg-logo="http://swedtv.vip/logos/entretenimiento/Megatv.png" group-title="LAT - Entretenimiento",LAT: Mega TV
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/32093.ts
+#EXTINF:-1 tvg-id="nbcuniverso.us" tvg-name="LAT: NBC Universo" tvg-logo="http://swedtv.vip/logos/entretenimiento/NBC_Universo.png" group-title="LAT - Entretenimiento",LAT: NBC Universo
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/73922.ts
+#EXTINF:-1 tvg-id="nbcuniverso.us" tvg-name="LAT: NBC Universo HD" tvg-logo="http://swedtv.vip/logos/entretenimiento/NBC_Universo.png" group-title="LAT - Entretenimiento",LAT: NBC Universo HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/31133.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Smithsonian Channel" tvg-logo="http://swedtv.vip/logos/entretenimiento/SmithsonianChannellogo.png" group-title="LAT - Entretenimiento",LAT: Smithsonian Channel
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/163533.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Tastemade en Español SD" tvg-logo="http://swedtv.vip/logos/entretenimiento/Tastemade.png" group-title="LAT - Entretenimiento",LAT: Tastemade en Español SD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/228606.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Tastemade en Español HD" tvg-logo="http://swedtv.vip/logos/entretenimiento/Tastemade.png" group-title="LAT - Entretenimiento",LAT: Tastemade en Español HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/228607.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Tastemade en Español FHD" tvg-logo="http://swedtv.vip/logos/entretenimiento/Tastemade.png" group-title="LAT - Entretenimiento",LAT: Tastemade en Español FHD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/228608.ts
+#EXTINF:-1 tvg-id="tbs.co" tvg-name="LAT: TBS (MOVIL)" tvg-logo="http://swedtv.vip/logos/entretenimiento/TBS.png" group-title="LAT - Entretenimiento",LAT: TBS (MOVIL)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/65812.ts
+#EXTINF:-1 tvg-id="" tvg-name="•●★-- USA Latino Telemundo --★●•" tvg-logo="https://download.logo.wine/logo/Telemundo/Telemundo-Logo.wine.png" group-title="LAT - Entretenimiento USA",•●★-- USA Latino Telemundo --★●•
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/281181.ts
+#EXTINF:-1 tvg-id="EL: TELEMUNDO" tvg-name="LAT: Telemundo Internacional SD" tvg-logo="https://download.logo.wine/logo/Telemundo/Telemundo-Logo.wine.png" group-title="LAT - Entretenimiento USA",LAT: Telemundo Internacional SD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/232179.ts
+#EXTINF:-1 tvg-id="EL: TELEMUNDO" tvg-name="LAT: Telemundo Internacional HD" tvg-logo="https://download.logo.wine/logo/Telemundo/Telemundo-Logo.wine.png" group-title="LAT - Entretenimiento USA",LAT: Telemundo Internacional HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/2009.ts
+#EXTINF:-1 tvg-id="EL: TELEMUNDO" tvg-name="LAT: Telemundo Internacional FHD" tvg-logo="https://download.logo.wine/logo/Telemundo/Telemundo-Logo.wine.png" group-title="LAT - Entretenimiento USA",LAT: Telemundo Internacional FHD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/32267.ts
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="LAT: Telemundo New York" tvg-logo="https://download.logo.wine/logo/Telemundo/Telemundo-Logo.wine.png" group-title="LAT - Entretenimiento USA",LAT: Telemundo New York
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1565.ts
+#EXTINF:-1 tvg-id="La1.TV" tvg-name="LAT: Telemundo Miami" tvg-logo="https://download.logo.wine/logo/Telemundo/Telemundo-Logo.wine.png" group-title="LAT - Entretenimiento USA",LAT: Telemundo Miami
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1566.ts
+#EXTINF:-1 tvg-id="telemundokvea.us" tvg-name="LAT: Telemundo Los Angeles" tvg-logo="https://download.logo.wine/logo/Telemundo/Telemundo-Logo.wine.png" group-title="LAT - Entretenimiento USA",LAT: Telemundo Los Angeles
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1567.ts
+#EXTINF:-1 tvg-id="telemundowrmd.us" tvg-name="LAT: Telemundo Tampa" tvg-logo="https://download.logo.wine/logo/Telemundo/Telemundo-Logo.wine.png" group-title="LAT - Entretenimiento USA",LAT: Telemundo Tampa
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/41445.ts
+#EXTINF:-1 tvg-id="telemundowsns.us" tvg-name="LAT: Telemundo Chicago" tvg-logo="https://download.logo.wine/logo/Telemundo/Telemundo-Logo.wine.png" group-title="LAT - Entretenimiento USA",LAT: Telemundo Chicago
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1574.ts
+#EXTINF:-1 tvg-id="telemundowrdq.us" tvg-name="LAT: Telemundo Orlando Florida" tvg-logo="https://download.logo.wine/logo/Telemundo/Telemundo-Logo.wine.png" group-title="LAT - Entretenimiento USA",LAT: Telemundo Orlando Florida
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/119999.ts
+#EXTINF:-1 tvg-id="telemundowzdc.us" tvg-name="LAT: Telemundo Washington" tvg-logo="https://download.logo.wine/logo/Telemundo/Telemundo-Logo.wine.png" group-title="LAT - Entretenimiento USA",LAT: Telemundo Washington
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/127414.ts
+#EXTINF:-1 tvg-id="EL: TELEMUNDO WASHINGTON DC WZDC" tvg-name="LAT: Telemundo Washington DC" tvg-logo="https://download.logo.wine/logo/Telemundo/Telemundo-Logo.wine.png" group-title="LAT - Entretenimiento USA",LAT: Telemundo Washington DC
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/153858.ts
+#EXTINF:-1 tvg-id="telemundowktb.us" tvg-name="LAT: Telemundo Atlanta" tvg-logo="https://download.logo.wine/logo/Telemundo/Telemundo-Logo.wine.png" group-title="LAT - Entretenimiento USA",LAT: Telemundo Atlanta
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/160606.ts
+#EXTINF:-1 tvg-id="telemundokhrr.us" tvg-name="LAT: Telemundo Tucson" tvg-logo="https://download.logo.wine/logo/Telemundo/Telemundo-Logo.wine.png" group-title="LAT - Entretenimiento USA",LAT: Telemundo Tucson
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1560.ts
+#EXTINF:-1 tvg-id="telemundokvea.us" tvg-name="LAT: Telemundo San francisco" tvg-logo="https://download.logo.wine/logo/Telemundo/Telemundo-Logo.wine.png" group-title="LAT - Entretenimiento USA",LAT: Telemundo San francisco
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1561.ts
+#EXTINF:-1 tvg-id="telemundokvda.us" tvg-name="LAT: Telemundo San Antonio" tvg-logo="https://download.logo.wine/logo/Telemundo/Telemundo-Logo.wine.png" group-title="LAT - Entretenimiento USA",LAT: Telemundo San Antonio
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1562.ts
+#EXTINF:-1 tvg-id="telemundoktaz.us" tvg-name="LAT: Telemundo Phoenix" tvg-logo="https://download.logo.wine/logo/Telemundo/Telemundo-Logo.wine.png" group-title="LAT - Entretenimiento USA",LAT: Telemundo Phoenix
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1563.ts
+#EXTINF:-1 tvg-id="telemundowwsi.us" tvg-name="LAT: Telemundo Philadelphia" tvg-logo="https://download.logo.wine/logo/Telemundo/Telemundo-Logo.wine.png" group-title="LAT - Entretenimiento USA",LAT: Telemundo Philadelphia
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1564.ts
+#EXTINF:-1 tvg-id="telemundokblr.us" tvg-name="LAT: Telemundo Las Vegas" tvg-logo="https://download.logo.wine/logo/Telemundo/Telemundo-Logo.wine.png" group-title="LAT - Entretenimiento USA",LAT: Telemundo Las Vegas
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1568.ts
+#EXTINF:-1 tvg-id="telemundoktmd.us" tvg-name="LAT: Telemundo Houston" tvg-logo="https://download.logo.wine/logo/Telemundo/Telemundo-Logo.wine.png" group-title="LAT - Entretenimiento USA",LAT: Telemundo Houston
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1569.ts
+#EXTINF:-1 tvg-id="telemundoknso.us" tvg-name="LAT: Telemundo Fresno" tvg-logo="https://download.logo.wine/logo/Telemundo/Telemundo-Logo.wine.png" group-title="LAT - Entretenimiento USA",LAT: Telemundo Fresno
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1571.ts
+#EXTINF:-1 tvg-id="telemundokmasld.us" tvg-name="LAT: Telemundo Denver" tvg-logo="https://download.logo.wine/logo/Telemundo/Telemundo-Logo.wine.png" group-title="LAT - Entretenimiento USA",LAT: Telemundo Denver
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1572.ts
+#EXTINF:-1 tvg-id="telemundokxtx.us" tvg-name="LAT: Telemundo Dallas" tvg-logo="https://download.logo.wine/logo/Telemundo/Telemundo-Logo.wine.png" group-title="LAT - Entretenimiento USA",LAT: Telemundo Dallas
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1573.ts
+#EXTINF:-1 tvg-id="telemundowneu.us" tvg-name="LAT: Telemundo Boston" tvg-logo="https://download.logo.wine/logo/Telemundo/Telemundo-Logo.wine.png" group-title="LAT - Entretenimiento USA",LAT: Telemundo Boston
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1575.ts
+#EXTINF:-1 tvg-id="" tvg-name="•●★-- USA Latino Galavision --★●•" tvg-logo="https://logodix.com/logo/2014739.png" group-title="LAT - Entretenimiento USA",•●★-- USA Latino Galavision --★●•
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/233627.ts
+#EXTINF:-1 tvg-id="canal11.cr" tvg-name="LAT: Galavision Atlanta HD" tvg-logo="https://logodix.com/logo/2014739.png" group-title="LAT - Entretenimiento USA",LAT: Galavision Atlanta HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26794.ts
+#EXTINF:-1 tvg-id="EL: GALAVISION EAST" tvg-name="LAT: Galavision East HD" tvg-logo="https://logodix.com/logo/2014739.png" group-title="LAT - Entretenimiento USA",LAT: Galavision East HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26798.ts
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="LAT: Galavision Fresno HD" tvg-logo="https://logodix.com/logo/2014739.png" group-title="LAT - Entretenimiento USA",LAT: Galavision Fresno HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26799.ts
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="LAT: Galavision Houston HD" tvg-logo="https://logodix.com/logo/2014739.png" group-title="LAT - Entretenimiento USA",LAT: Galavision Houston HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26800.ts
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="LAT: Galavision Las Vegas HD" tvg-logo="https://logodix.com/logo/2014739.png" group-title="LAT - Entretenimiento USA",LAT: Galavision Las Vegas HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26802.ts
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="LAT: Galavision Miami HD" tvg-logo="https://logodix.com/logo/2014739.png" group-title="LAT - Entretenimiento USA",LAT: Galavision Miami HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26803.ts
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="LAT: Galavision NY HD" tvg-logo="https://logodix.com/logo/2014739.png" group-title="LAT - Entretenimiento USA",LAT: Galavision NY HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26804.ts
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="LAT: Galavision Philadelphia HD" tvg-logo="https://logodix.com/logo/2014739.png" group-title="LAT - Entretenimiento USA",LAT: Galavision Philadelphia HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26805.ts
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="LAT: Galavision Sacramento HD" tvg-logo="https://logodix.com/logo/2014739.png" group-title="LAT - Entretenimiento USA",LAT: Galavision Sacramento HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26808.ts
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="LAT: Galavision Sat Lake HD" tvg-logo="https://logodix.com/logo/2014739.png" group-title="LAT - Entretenimiento USA",LAT: Galavision Sat Lake HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26809.ts
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="LAT: Galavision San Antonio HD" tvg-logo="https://logodix.com/logo/2014739.png" group-title="LAT - Entretenimiento USA",LAT: Galavision San Antonio HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26810.ts
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="LAT: Galavision San Francisco HD" tvg-logo="https://logodix.com/logo/2014739.png" group-title="LAT - Entretenimiento USA",LAT: Galavision San Francisco HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26811.ts
+#EXTINF:-1 tvg-id="EL: GALAVISION WEST" tvg-name="LAT: Galavision West HD" tvg-logo="https://logodix.com/logo/2014739.png" group-title="LAT - Entretenimiento USA",LAT: Galavision West HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26812.ts
+#EXTINF:-1 tvg-id="EL: GALAVISION EAST" tvg-name="LAT: Galavision Phoenix HD" tvg-logo="https://logodix.com/logo/2014739.png" group-title="LAT - Entretenimiento USA",LAT: Galavision Phoenix HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/272749.ts
+#EXTINF:-1 tvg-id="" tvg-name="•●★-- USA Latino Univisión --★●•" tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="LAT - Entretenimiento USA",•●★-- USA Latino Univisión --★●•
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/233625.ts
+#EXTINF:-1 tvg-id="univisiontlnovelas.us" tvg-name="LAT: Univision TV Novelas" tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="LAT - Entretenimiento USA",LAT: Univision TV Novelas
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/31145.ts
+#EXTINF:-1 tvg-id="univision34kmex.us" tvg-name="LAT: Univision Los Angeles" tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="LAT - Entretenimiento USA",LAT: Univision Los Angeles
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/31153.ts
+#EXTINF:-1 tvg-id="EL: NOTICIAS UNIVISION 24X7" tvg-name="LAT: Univision Noticias HD" tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="LAT - Entretenimiento USA",LAT: Univision Noticias HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26861.ts
+#EXTINF:-1 tvg-id="univision34wuvg.us" tvg-name="LAT: Univision Atlanta HD" tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="LAT - Entretenimiento USA",LAT: Univision Atlanta HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26862.ts
+#EXTINF:-1 tvg-id="univision62kakw.us" tvg-name="LAT: Univision Austin HD" tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="LAT - Entretenimiento USA",LAT: Univision Austin HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26863.ts
+#EXTINF:-1 tvg-id="univision61wqhs.us" tvg-name="LAT: Univision Cleveland HD" tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="LAT - Entretenimiento USA",LAT: Univision Cleveland HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26864.ts
+#EXTINF:-1 tvg-id="EL: UNIVISION PHILADELPHIA PA WUVP" tvg-name="LAT: Univision Philadelphia HD" tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="LAT - Entretenimiento USA",LAT: Univision Philadelphia HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26866.ts
+#EXTINF:-1 tvg-id="univision33ktvw.us" tvg-name="LAT: Univision Phoenix HD" tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="LAT - Entretenimiento USA",LAT: Univision Phoenix HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26867.ts
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="LAT: Univision Raleigh HD" tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="LAT - Entretenimiento USA",LAT: Univision Raleigh HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26868.ts
+#EXTINF:-1 tvg-id="EL: UNIVISION SALT LAKE CITY UT KUTH" tvg-name="LAT: Univision Salt Lake HD" tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="LAT - Entretenimiento USA",LAT: Univision Salt Lake HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26870.ts
+#EXTINF:-1 tvg-id="univision41kwex.us" tvg-name="LAT: Univision San Antonio HD" tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="LAT - Entretenimiento USA",LAT: Univision San Antonio HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26871.ts
+#EXTINF:-1 tvg-id="univision14kdtv.us" tvg-name="LAT: Univision San Francisco HD" tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="LAT - Entretenimiento USA",LAT: Univision San Francisco HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26872.ts
+#EXTINF:-1 tvg-id="univision66wgbo.us" tvg-name="LAT: Univision Chicago HD" tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="LAT - Entretenimiento USA",LAT: Univision Chicago HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26875.ts
+#EXTINF:-1 tvg-id="univision23wltv.us" tvg-name="LAT: Univision Miami HD" tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="LAT - Entretenimiento USA",LAT: Univision Miami HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26876.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Univision Denver" tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="LAT - Entretenimiento USA",LAT: Univision Denver
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/301074.ts
+#EXTINF:-1 tvg-id="univision23kuvn.us" tvg-name="LAT: Univision Dallas HD" tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="LAT - Entretenimiento USA",LAT: Univision Dallas HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26877.ts
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="LAT: Univision East HD" tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="LAT - Entretenimiento USA",LAT: Univision East HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26878.ts
+#EXTINF:-1 tvg-id="univision45kxln.us" tvg-name="LAT: Univision Houston HD" tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="LAT - Entretenimiento USA",LAT: Univision Houston HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26879.ts
+#EXTINF:-1 tvg-id="univision34kmex.us" tvg-name="LAT: Univision Los Angeles HD" tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="LAT - Entretenimiento USA",LAT: Univision Los Angeles HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26880.ts
+#EXTINF:-1 tvg-id="univision41wxtv.us" tvg-name="LAT: Univision NY HD" tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="LAT - Entretenimiento USA",LAT: Univision NY HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26881.ts
+#EXTINF:-1 tvg-id="univisionwlii.us" tvg-name="LAT: Univision Puerto Rico HD" tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="LAT - Entretenimiento USA",LAT: Univision Puerto Rico HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26883.ts
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="LAT: Univision West HD" tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="LAT - Entretenimiento USA",LAT: Univision West HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26882.ts
+#EXTINF:-1 tvg-id="EL: UNIVISION MIAMI FL WLTV" tvg-name="LAT: Univision Fort Lauderdale HD" tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="LAT - Entretenimiento USA",LAT: Univision Fort Lauderdale HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/27326.ts
+#EXTINF:-1 tvg-id="univision21kftv.us" tvg-name="LAT: Univision (21-Fresno)" tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="LAT - Entretenimiento USA",LAT: Univision (21-Fresno)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/31142.ts
+#EXTINF:-1 tvg-id="" tvg-name="•●★-- USA Latino Unimas --★●•" tvg-logo="https://www.watchnextgentv.com/wp-content/uploads/2020/10/wng-markets-dallas-KSTR.png" group-title="LAT - Entretenimiento USA",•●★-- USA Latino Unimas --★●•
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/233626.ts
+#EXTINF:-1 tvg-id="unimas46kftr.us" tvg-name="LAT: Unimas Los Angeles" tvg-logo="https://www.watchnextgentv.com/wp-content/uploads/2020/10/wng-markets-dallas-KSTR.png" group-title="LAT - Entretenimiento USA",LAT: Unimas Los Angeles
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/31122.ts
+#EXTINF:-1 tvg-id="unimas41ktfq.us" tvg-name="LAT: Unimas Albuquerque Santa Fe HD" tvg-logo="https://www.watchnextgentv.com/wp-content/uploads/2020/10/wng-markets-dallas-KSTR.png" group-title="LAT - Entretenimiento USA",LAT: Unimas Albuquerque Santa Fe HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26884.ts
+#EXTINF:-1 tvg-id="unimas17knic.us" tvg-name="LAT: Unimas San Antonio HD" tvg-logo="https://www.watchnextgentv.com/wp-content/uploads/2020/10/wng-markets-dallas-KSTR.png" group-title="LAT - Entretenimiento USA",LAT: Unimas San Antonio HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26885.ts
+#EXTINF:-1 tvg-id="EL: UNIMAS ATLANTA GA WUVGDT2" tvg-name="LAT: Unimas Atlanta HD" tvg-logo="https://www.watchnextgentv.com/wp-content/uploads/2020/10/wng-markets-dallas-KSTR.png" group-title="LAT - Entretenimiento USA",LAT: Unimas Atlanta HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26886.ts
+#EXTINF:-1 tvg-id="unimas61ktff.us" tvg-name="LAT: Unimas Fresno HD" tvg-logo="https://www.watchnextgentv.com/wp-content/uploads/2020/10/wng-markets-dallas-KSTR.png" group-title="LAT - Entretenimiento USA",LAT: Unimas Fresno HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26887.ts
+#EXTINF:-1 tvg-id="unimas28wfpa.us" tvg-name="LAT: Unimas Philadelphia HD" tvg-logo="https://www.watchnextgentv.com/wp-content/uploads/2020/10/wng-markets-dallas-KSTR.png" group-title="LAT - Entretenimiento USA",LAT: Unimas Philadelphia HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26889.ts
+#EXTINF:-1 tvg-id="EL: UNIMAS PHOENIX AZ KDOS" tvg-name="LAT: Unimas Phoenix HD" tvg-logo="https://www.watchnextgentv.com/wp-content/uploads/2020/10/wng-markets-dallas-KSTR.png" group-title="LAT - Entretenimiento USA",LAT: Unimas Phoenix HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26890.ts
+#EXTINF:-1 tvg-id="unimas64ktfk.us" tvg-name="LAT: Unimas Sacramento HD" tvg-logo="https://www.watchnextgentv.com/wp-content/uploads/2020/10/wng-markets-dallas-KSTR.png" group-title="LAT - Entretenimiento USA",LAT: Unimas Sacramento HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26891.ts
+#EXTINF:-1 tvg-id="EL: UNIMAS CLEVELAND OH WQHS" tvg-name="LAT: Unimas Cleveland HD" tvg-logo="https://www.watchnextgentv.com/wp-content/uploads/2020/10/wng-markets-dallas-KSTR.png" group-title="LAT - Entretenimiento USA",LAT: Unimas Cleveland HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26892.ts
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="LAT: Unimas Salt Lake HD" tvg-logo="https://www.watchnextgentv.com/wp-content/uploads/2020/10/wng-markets-dallas-KSTR.png" group-title="LAT - Entretenimiento USA",LAT: Unimas Salt Lake HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26893.ts
+#EXTINF:-1 tvg-id="EL: UNIMAS SAN FRANCISCO CA KFSF" tvg-name="LAT: Unimas San Francisco HD" tvg-logo="https://www.watchnextgentv.com/wp-content/uploads/2020/10/wng-markets-dallas-KSTR.png" group-title="LAT - Entretenimiento USA",LAT: Unimas San Francisco HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26894.ts
+#EXTINF:-1 tvg-id="EL: UNIMAS LAS VEGAS NV KNTL" tvg-name="LAT: Unimas Las Vegas HD" tvg-logo="https://www.watchnextgentv.com/wp-content/uploads/2020/10/wng-markets-dallas-KSTR.png" group-title="LAT - Entretenimiento USA",LAT: Unimas Las Vegas HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26895.ts
+#EXTINF:-1 tvg-id="unimas31ktfo.us" tvg-name="LAT: Unimas Austin HD" tvg-logo="https://www.watchnextgentv.com/wp-content/uploads/2020/10/wng-markets-dallas-KSTR.png" group-title="LAT - Entretenimiento USA",LAT: Unimas Austin HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26896.ts
+#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="LAT: Unimas East HD" tvg-logo="https://www.watchnextgentv.com/wp-content/uploads/2020/10/wng-markets-dallas-KSTR.png" group-title="LAT - Entretenimiento USA",LAT: Unimas East HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26899.ts
+#EXTINF:-1 tvg-id="unimas67kfth.us" tvg-name="LAT: Unimas Houston HD" tvg-logo="https://www.watchnextgentv.com/wp-content/uploads/2020/10/wng-markets-dallas-KSTR.png" group-title="LAT - Entretenimiento USA",LAT: Unimas Houston HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26900.ts
+#EXTINF:-1 tvg-id="unimas68wfut.us" tvg-name="LAT: Unimas NY HD" tvg-logo="https://www.watchnextgentv.com/wp-content/uploads/2020/10/wng-markets-dallas-KSTR.png" group-title="LAT - Entretenimiento USA",LAT: Unimas NY HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26902.ts
+#EXTINF:-1 tvg-id="EL: UNIMAS WEST" tvg-name="LAT: Unimas West HD" tvg-logo="https://www.watchnextgentv.com/wp-content/uploads/2020/10/wng-markets-dallas-KSTR.png" group-title="LAT - Entretenimiento USA",LAT: Unimas West HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26903.ts
+#EXTINF:-1 tvg-id="UniMas.us" tvg-name="LAT: Unimas East" tvg-logo="https://www.watchnextgentv.com/wp-content/uploads/2020/10/wng-markets-dallas-KSTR.png" group-title="LAT - Entretenimiento USA",LAT: Unimas East
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/31124.ts
+#EXTINF:-1 tvg-id="megatv.us" tvg-name="LAT: Mega TV Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Mega_TV_logo_2016.svg/2560px-Mega_TV_logo_2016.svg.png" group-title="LAT - Entretenimiento USA",LAT: Mega TV Miami
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/309393.ts
+#EXTINF:-1 tvg-id="" tvg-name="LAT: Univision CA Modesto KUVS" tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="LAT - Entretenimiento USA",LAT: Univision CA Modesto KUVS
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/310822.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="▂ ▄ ▅ ▆  INFANTIL  ▆ ▅ ▄ ▂" tvg-logo="https://i.pinimg.com/originals/d3/46/1a/d3461acc65927eb159ef30b69bdaccbf.png" group-title="LAT - Infantil",▂ ▄ ▅ ▆  INFANTIL  ▆ ▅ ▄ ▂
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/31944.ts
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Baby First" tvg-logo="https://w7.pngwing.com/pngs/779/170/png-transparent-babyfirst-television-channel-satellite-television-at-t-u-verse-child-television-child-text.png" group-title="LAT - Infantil",Infantil: Baby First
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/998.ts
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Baby TV (MOVIL)" tvg-logo="https://www.kindpng.com/picc/m/312-3126414_buy-buy-baby-logo-png-transparent-png.png" group-title="LAT - Infantil",Infantil: Baby TV (MOVIL)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/65052.ts
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Baby TV SD" tvg-logo="https://www.kindpng.com/picc/m/312-3126414_buy-buy-baby-logo-png-transparent-png.png" group-title="LAT - Infantil",Infantil: Baby TV SD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1793.ts
+#EXTINF:-1 tvg-id="babytv.co" tvg-name="Infantil: Baby TV HD" tvg-logo="https://www.babytv.com/app/uploads/2019/12/Babytvs-World_3d_1Small.png" group-title="LAT - Infantil",Infantil: Baby TV HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/234174.ts
+#EXTINF:-1 tvg-id="boomerang.mx" tvg-name="Infantil: Boomerang (MX)" tvg-logo="https://w7.pngwing.com/pngs/1020/812/png-transparent-boomerang-logo-bumper-cartoonito-boomerang-logo-blue-text-trademark.png" group-title="LAT - Infantil",Infantil: Boomerang (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/7353.ts
+#EXTINF:-1 tvg-id="boomerang.mx" tvg-name="Infantil: Boomerang Full HD (MX)" tvg-logo="https://w7.pngwing.com/pngs/1020/812/png-transparent-boomerang-logo-bumper-cartoonito-boomerang-logo-blue-text-trademark.png" group-title="LAT - Infantil",Infantil: Boomerang Full HD (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/7352.ts
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Chu Chu TV" tvg-logo="https://im4.ezgif.com/tmp/ezgif-4-1965acdeb0.png" group-title="LAT - Infantil",Infantil: Chu Chu TV
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/126042.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.co" tvg-name="Infantil: Cartoon Network (MOVIL)" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/cartoon-network-2010-png-logo-0.png" group-title="LAT - Infantil",Infantil: Cartoon Network (MOVIL)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/65067.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.co" tvg-name="Infantil: Cartoon Network (CO)" tvg-logo="https://static.epg.best/tr/CartoonNetwork.tr.png" group-title="LAT - Infantil",Infantil: Cartoon Network (CO)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1789.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.co" tvg-name="Infantil: Cartoon Network HD (CO)" tvg-logo="https://static.epg.best/tr/CartoonNetwork.tr.png" group-title="LAT - Infantil",Infantil: Cartoon Network HD (CO)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1783.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.mx" tvg-name="Infantil: Cartoon Network SD (MX)" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/cartoon-network-2010-png-logo-0.png" group-title="LAT - Infantil",Infantil: Cartoon Network SD (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/994.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.mx" tvg-name="Infantil: Cartoon Network HD (MX)" tvg-logo="https://static.epg.best/tr/CartoonNetwork.tr.png" group-title="LAT - Infantil",Infantil: Cartoon Network HD (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/7345.ts
+#EXTINF:-1 tvg-id="disneyjunior.co" tvg-name="Infantil: Disney Junior (MOVIL)" tvg-logo="https://findvectorlogo.com/wp-content/uploads/2019/08/disneynow-vector-logo.png" group-title="LAT - Infantil",Infantil: Disney Junior (MOVIL)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/65091.ts
+#EXTINF:-1 tvg-id="disneyjunior.mx" tvg-name="Infantil: Disney Junior (MX)" tvg-logo="https://w7.pngwing.com/pngs/734/762/png-transparent-disney-junior-disney-channel-the-walt-disney-company-logo-television-others-television-text-logo.png" group-title="LAT - Infantil",Infantil: Disney Junior (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/7347.ts
+#EXTINF:-1 tvg-id="disneyjunior.mx" tvg-name="Infantil: Disney Junior Full HD (MX)" tvg-logo="https://static.epg.best/br/DisneyJunior.br.png" group-title="LAT - Infantil",Infantil: Disney Junior Full HD (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/7356.ts
+#EXTINF:-1 tvg-id="disneychannel.co" tvg-name="Infantil: Disney Channel (MOVIL)" tvg-logo="https://findvectorlogo.com/wp-content/uploads/2019/08/disneynow-vector-logo.png" group-title="LAT - Infantil",Infantil: Disney Channel (MOVIL)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/65090.ts
+#EXTINF:-1 tvg-id="disneychannel.co" tvg-name="Infantil: Disney Channel (CO)" tvg-logo="https://w7.pngwing.com/pngs/223/1022/png-transparent-disney-channel-television-show-television-channel-the-walt-disney-company-pixel-disney-television-blue-text.png" group-title="LAT - Infantil",Infantil: Disney Channel (CO)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1791.ts
+#EXTINF:-1 tvg-id="disneychannel.co" tvg-name="Infantil: Disney Channel Full HD (CO)" tvg-logo="https://w7.pngwing.com/pngs/223/1022/png-transparent-disney-channel-television-show-television-channel-the-walt-disney-company-pixel-disney-television-blue-text.png" group-title="LAT - Infantil",Infantil: Disney Channel Full HD (CO)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1781.ts
+#EXTINF:-1 tvg-id="disneychannel.mx" tvg-name="Infantil: Disney Channel SD (MX)" tvg-logo="https://static.epg.best/tr/DisneyChannel.tr.png" group-title="LAT - Infantil",Infantil: Disney Channel SD (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/7349.ts
+#EXTINF:-1 tvg-id="disneychannel.mx" tvg-name="Infantil: Disney Channel HD (MX)" tvg-logo="https://static.epg.best/tr/DisneyChannel.tr.png" group-title="LAT - Infantil",Infantil: Disney Channel HD (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/7348.ts
+#EXTINF:-1 tvg-id="disneychannel.co" tvg-name="Infantil: Disney Channel" tvg-logo="https://e7.pngegg.com/pngimages/564/507/png-clipart-disney-channel-television-channel-the-walt-disney-company-disney-junior-disney-channel-ears-television-blue.png" group-title="LAT - Infantil",Infantil: Disney Channel
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26427.ts
+#EXTINF:-1 tvg-id="discoverykids.co" tvg-name="Infantil: Discovery Kids (CO)" tvg-logo="https://static.epg.best/br/DiscoveryKids.br.png" group-title="LAT - Infantil",Infantil: Discovery Kids (CO)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1790.ts
+#EXTINF:-1 tvg-id="discoverykids.mx" tvg-name="Infantil: Discovery Kids HD (MX)" tvg-logo="https://static.epg.best/br/DiscoveryKids.br.png" group-title="LAT - Infantil",Infantil: Discovery Kids HD (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1782.ts
+#EXTINF:-1 tvg-id="natgeokids.mx" tvg-name="Infantil: Nat Geo Kids (MX)" tvg-logo="https://static.epg.best/br/NatGeoKids.br.png" group-title="LAT - Infantil",Infantil: Nat Geo Kids (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1795.ts
+#EXTINF:-1 tvg-id="discoverykids.co" tvg-name="Infantil: Nat Geo Kids (CO)" tvg-logo="https://static.epg.best/br/NatGeoKids.br.png" group-title="LAT - Infantil",Infantil: Nat Geo Kids (CO)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1784.ts
+#EXTINF:-1 tvg-id="nickelodeon.mx" tvg-name="Infantil: Nickelodeon HD (MX)" tvg-logo="https://static.epg.best/mx/Nickelodeon.mx.png" group-title="LAT - Infantil",Infantil: Nickelodeon HD (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/7359.ts
+#EXTINF:-1 tvg-id="nickelodeon.co" tvg-name="Infantil: Nickelodeon SD (Dual Audio)" tvg-logo="https://es.logodownload.org/wp-content/uploads/2018/11/nick-jr-logo1-1024x287.png" group-title="LAT - Infantil",Infantil: Nickelodeon SD (Dual Audio)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1788.ts
+#EXTINF:-1 tvg-id="nickelodeon.mx" tvg-name="Infantil: Nickelodeon SD (MX)" tvg-logo="https://static.epg.best/mx/Nickelodeon.mx.png" group-title="LAT - Infantil",Infantil: Nickelodeon SD (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1780.ts
+#EXTINF:-1 tvg-id="nickjr.co" tvg-name="Infantil: Nick Jr (MOVIL)" tvg-logo="https://es.logodownload.org/wp-content/uploads/2018/11/nick-jr-logo1-1024x287.png" group-title="LAT - Infantil",Infantil: Nick Jr (MOVIL)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/65799.ts
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Nick Jr SD (ARG)" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="LAT - Infantil",Infantil: Nick Jr SD (ARG)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/115726.ts
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Nick Jr HD (ARG)" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="LAT - Infantil",Infantil: Nick Jr HD (ARG)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/115727.ts
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Nick Jr FHD (ARG)" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="LAT - Infantil",Infantil: Nick Jr FHD (ARG)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/115728.ts
+#EXTINF:-1 tvg-id="Nick2.mx" tvg-name="Infantil: TeenNick" tvg-logo="https://static.epg.best/co/Nickelodeon2.co.png" group-title="LAT - Infantil",Infantil: TeenNick
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1786.ts
+#EXTINF:-1 tvg-id="Nickelodeon2.co" tvg-name="Infantil: TeenNick Full HD" tvg-logo="https://static.epg.best/co/Nickelodeon2.co.png" group-title="LAT - Infantil",Infantil: TeenNick Full HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1777.ts
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Nick Toons (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Nicktoons.png" group-title="LAT - Infantil",Infantil: Nick Toons (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/7360.ts
+#EXTINF:-1 tvg-id="tooncast.co" tvg-name="Infantil: Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/ToonCast_logo.png" group-title="LAT - Infantil",Infantil: Tooncast
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/7363.ts
+#EXTINF:-1 tvg-id="tooncast.co" tvg-name="Infantil: Tooncast (MOVIL)" tvg-logo="http://swedtv.net:8080/images/3c16800903ff348a414329205ca7b82f.png" group-title="LAT - Infantil",Infantil: Tooncast (MOVIL)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/65796.ts
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Happy Halloween Kids HD" tvg-logo="https://w7.pngwing.com/pngs/157/777/png-transparent-zoo-animal-grass-cdr-food-animals.png" group-title="LAT - Infantil",Infantil: Happy Halloween Kids HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/80923.ts
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Semillitas" tvg-logo="https://im4.ezgif.com/tmp/ezgif-4-6fa576a077.png" group-title="LAT - Infantil",Infantil: Semillitas
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/114132.ts
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Ultra Familia" tvg-logo="https://w7.pngwing.com/pngs/274/46/png-transparent-family-heart-child-love-symbol-family-day-love-text-people-thumbnail.png" group-title="LAT - Infantil",Infantil: Ultra Familia
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/126040.ts
+#EXTINF:-1 tvg-id="" tvg-name="Infantil: Ultra Kids" tvg-logo="https://p.kindpng.com/picc/s/61-614052_gorilla-kids-logo-logo-kids-png-transparent-png.png" group-title="LAT - Infantil",Infantil: Ultra Kids
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/126041.ts
+#EXTINF:-1 tvg-id="" tvg-name="▂ ▄ ▅ ▆  MUSICA  ▆ ▅ ▄ ▂" tvg-logo="https://www.freepnglogos.com/uploads/apple-music-logo-circle-png-28.png" group-title="LAT - Musica",▂ ▄ ▅ ▆  MUSICA  ▆ ▅ ▄ ▂
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/32232.ts
+#EXTINF:-1 tvg-id="zonalatina.cl" tvg-name="Music: Zona Latina (CL)" tvg-logo="https://cdn.mitvstatic.com/channels/cl_zona-latina_m.png" group-title="LAT - Musica",Music: Zona Latina (CL)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/36562.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music: Classic Project 1 (90s Reloaded 2008)" tvg-logo="https://flyclipart.com/thumb2/music-icon-489129.png" group-title="LAT - Musica",Music: Classic Project 1 (90s Reloaded 2008)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/132169.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music: Classic Project 2 (Pop eurodance 90s)" tvg-logo="https://flyclipart.com/thumb2/music-icon-489129.png" group-title="LAT - Musica",Music: Classic Project 2 (Pop eurodance 90s)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/132170.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music: Classic Project 3 (Pop 2000-2004)" tvg-logo="https://w7.pngwing.com/pngs/7/98/png-transparent-pop-music-music-genre-youtube-song-youtube-purple-text-logo.png" group-title="LAT - Musica",Music: Classic Project 3 (Pop 2000-2004)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/132171.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music: Classic Project 4 (90s)" tvg-logo="https://flyclipart.com/thumb2/music-icon-489129.png" group-title="LAT - Musica",Music: Classic Project 4 (90s)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/132172.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music: Classic Project 5 (Rock Pop 90s)" tvg-logo="https://w7.pngwing.com/pngs/7/98/png-transparent-pop-music-music-genre-youtube-song-youtube-purple-text-logo.png" group-title="LAT - Musica",Music: Classic Project 5 (Rock Pop 90s)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/132173.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music: Classic Project 6 (Pop 2004-2006)" tvg-logo="https://w7.pngwing.com/pngs/7/98/png-transparent-pop-music-music-genre-youtube-song-youtube-purple-text-logo.png" group-title="LAT - Musica",Music: Classic Project 6 (Pop 2004-2006)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/132174.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music: Classic Project 7 (Reggaeton)" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/6c/d0/119491/3/c300.png" group-title="LAT - Musica",Music: Classic Project 7 (Reggaeton)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/132175.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music: Classic Project 8 (Español)" tvg-logo="https://im5.ezgif.com/tmp/ezgif-5-ac0e8d38ad.png" group-title="LAT - Musica",Music: Classic Project 8 (Español)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/132176.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music: Classic Project 9 (90s)" tvg-logo="https://flyclipart.com/thumb2/music-icon-489129.png" group-title="LAT - Musica",Music: Classic Project 9 (90s)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/132177.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music: Classic Project 10 (Soundtrack)" tvg-logo="https://www.seekpng.com/png/detail/15-154312_apple-music-logo-png-png-available-on-tidal.png" group-title="LAT - Musica",Music: Classic Project 10 (Soundtrack)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/132178.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music: Classic Project 11 (Rock latino)" tvg-logo="https://www.radio.es/images/broadcasts/dc/13/126544/1/c175.png" group-title="LAT - Musica",Music: Classic Project 11 (Rock latino)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/132179.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music: Classic Project 12 (Onda disco)" tvg-logo="https://im5.ezgif.com/tmp/ezgif-5-8fc92a9d2d.png" group-title="LAT - Musica",Music: Classic Project 12 (Onda disco)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/132180.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music: Classic Project 13 (Exitos en español)" tvg-logo="https://im5.ezgif.com/tmp/ezgif-5-ac0e8d38ad.png" group-title="LAT - Musica",Music: Classic Project 13 (Exitos en español)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/132181.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music: Classic Project 14-1 (Rock edition CD 1)" tvg-logo="https://w7.pngwing.com/pngs/608/349/png-transparent-rock-hand-gesture-illustration-rock-music-classic-rock-sign-of-the-horns-bar-poster-rock-rock-text-boxing-glove-hand.png" group-title="LAT - Musica",Music: Classic Project 14-1 (Rock edition CD 1)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/132182.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music: Classic Project 14-2 (Rock edition CD 2)" tvg-logo="https://w7.pngwing.com/pngs/608/349/png-transparent-rock-hand-gesture-illustration-rock-music-classic-rock-sign-of-the-horns-bar-poster-rock-rock-text-boxing-glove-hand.png" group-title="LAT - Musica",Music: Classic Project 14-2 (Rock edition CD 2)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/132183.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music: Concert Channel (CO)" tvg-logo="https://w7.pngwing.com/pngs/204/456/png-transparent-logo-concert-music-brand-music-venue-text-logo-fm-broadcasting.png" group-title="LAT - Musica",Music: Concert Channel (CO)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/36571.ts
+#EXTINF:-1 tvg-id="concertchannel.ar" tvg-name="Music: Concert Channel HD (CO)" tvg-logo="https://w7.pngwing.com/pngs/204/456/png-transparent-logo-concert-music-brand-music-venue-text-logo-fm-broadcasting.png" group-title="LAT - Musica",Music: Concert Channel HD (CO)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/36573.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music: HTV (ARG)" tvg-logo="https://cdn-profiles.tunein.com/p1121454/images/logod.png" group-title="LAT - Musica",Music: HTV (ARG)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/36574.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music: MC: 90's" tvg-logo="https://pbs.twimg.com/profile_images/889498947902984194/TgmDJT_f_400x400.jpg" group-title="LAT - Musica",Music: MC: 90's
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1952.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music: MC: Alternative" tvg-logo="https://pbs.twimg.com/profile_images/889498947902984194/TgmDJT_f_400x400.jpg" group-title="LAT - Musica",Music: MC: Alternative
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1946.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music: MC: Brits Hits" tvg-logo="https://pbs.twimg.com/profile_images/889498947902984194/TgmDJT_f_400x400.jpg" group-title="LAT - Musica",Music: MC: Brits Hits
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1947.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music: MC: Dance HD" tvg-logo="https://pbs.twimg.com/profile_images/889498947902984194/TgmDJT_f_400x400.jpg" group-title="LAT - Musica",Music: MC: Dance HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1948.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music: MC: Hip Hop & RnB HD" tvg-logo="https://pbs.twimg.com/profile_images/889498947902984194/TgmDJT_f_400x400.jpg" group-title="LAT - Musica",Music: MC: Hip Hop & RnB HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1949.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music: MC: Hit List" tvg-logo="https://pbs.twimg.com/profile_images/889498947902984194/TgmDJT_f_400x400.jpg" group-title="LAT - Musica",Music: MC: Hit List
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1954.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music: MC: Indie" tvg-logo="https://www.pngkit.com/png/full/192-1925397_mc-music-choice-logo.png" group-title="LAT - Musica",Music: MC: Indie
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1950.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music: MC: Metal" tvg-logo="https://www.pngkit.com/png/full/192-1925397_mc-music-choice-logo.png" group-title="LAT - Musica",Music: MC: Metal
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1960.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music: MC: Mexicana" tvg-logo="https://pbs.twimg.com/profile_images/889498947902984194/TgmDJT_f_400x400.jpg" group-title="LAT - Musica",Music: MC: Mexicana
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1953.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music: MC: Musica Urbana HD" tvg-logo="https://pbs.twimg.com/profile_images/889498947902984194/TgmDJT_f_400x400.jpg" group-title="LAT - Musica",Music: MC: Musica Urbana HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1951.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music: MC: Pop Hits" tvg-logo="https://www.pngkit.com/png/full/192-1925397_mc-music-choice-logo.png" group-title="LAT - Musica",Music: MC: Pop Hits
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1959.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music: MC: Pop Latino" tvg-logo="https://www.pngkit.com/png/full/192-1925397_mc-music-choice-logo.png" group-title="LAT - Musica",Music: MC: Pop Latino
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/14734.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music: MC: R&B/Soul HD" tvg-logo="https://www.pngkit.com/png/full/192-1925397_mc-music-choice-logo.png" group-title="LAT - Musica",Music: MC: R&B/Soul HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1958.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music: MC: Rap" tvg-logo="https://www.pngkit.com/png/full/192-1925397_mc-music-choice-logo.png" group-title="LAT - Musica",Music: MC: Rap
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1963.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music: MC: Rock" tvg-logo="https://pbs.twimg.com/profile_images/889498947902984194/TgmDJT_f_400x400.jpg" group-title="LAT - Musica",Music: MC: Rock
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1955.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music: MC: Teen Beats" tvg-logo="https://www.pngkit.com/png/full/192-1925397_mc-music-choice-logo.png" group-title="LAT - Musica",Music: MC: Teen Beats
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1957.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music: MC: Todays Country" tvg-logo="https://www.pngkit.com/png/full/192-1925397_mc-music-choice-logo.png" group-title="LAT - Musica",Music: MC: Todays Country
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1962.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music: MC: Toddler Tunes" tvg-logo="https://www.pngkit.com/png/full/192-1925397_mc-music-choice-logo.png" group-title="LAT - Musica",Music: MC: Toddler Tunes
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1964.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music: MC: Tropicales" tvg-logo="https://www.pngkit.com/png/full/192-1925397_mc-music-choice-logo.png" group-title="LAT - Musica",Music: MC: Tropicales
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/14733.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music: MC: Y2K" tvg-logo="https://w7.pngwing.com/pngs/286/71/png-transparent-y2k-hd-logo-thumbnail.png" group-title="LAT - Musica",Music: MC: Y2K
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/14735.ts
+#EXTINF:-1 tvg-id="mtv.co" tvg-name="Music: MTV (CO)" tvg-logo="https://w7.pngwing.com/pngs/182/465/png-transparent-mtv-logo-tv-television-music-video-others-miscellaneous-television-text-thumbnail.png" group-title="LAT - Musica",Music: MTV (CO)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/36565.ts
+#EXTINF:-1 tvg-id="mtv.mx" tvg-name="Music: MTV (MX)" tvg-logo="https://w7.pngwing.com/pngs/182/465/png-transparent-mtv-logo-tv-television-music-video-others-miscellaneous-television-text-thumbnail.png" group-title="LAT - Musica",Music: MTV (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/36563.ts
+#EXTINF:-1 tvg-id="mtv.co" tvg-name="Music: MTV FHD (CO)" tvg-logo="https://w7.pngwing.com/pngs/182/465/png-transparent-mtv-logo-tv-television-music-video-others-miscellaneous-television-text-thumbnail.png" group-title="LAT - Musica",Music: MTV FHD (CO)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/36567.ts
+#EXTINF:-1 tvg-id="mtv.mx" tvg-name="Music: MTV FHD (MX)" tvg-logo="https://w7.pngwing.com/pngs/182/465/png-transparent-mtv-logo-tv-television-music-video-others-miscellaneous-television-text-thumbnail.png" group-title="LAT - Musica",Music: MTV FHD (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/36564.ts
+#EXTINF:-1 tvg-id="mtv.co" tvg-name="Music: MTV HD (CO)" tvg-logo="https://w7.pngwing.com/pngs/182/465/png-transparent-mtv-logo-tv-television-music-video-others-miscellaneous-television-text-thumbnail.png" group-title="LAT - Musica",Music: MTV HD (CO)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/36566.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music: MTV Hits (MX)" tvg-logo="https://w7.pngwing.com/pngs/182/465/png-transparent-mtv-logo-tv-television-music-video-others-miscellaneous-television-text-thumbnail.png" group-title="LAT - Musica",Music: MTV Hits (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/36568.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music: MTV Live (MX)" tvg-logo="https://w7.pngwing.com/pngs/182/465/png-transparent-mtv-logo-tv-television-music-video-others-miscellaneous-television-text-thumbnail.png" group-title="LAT - Musica",Music: MTV Live (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/36569.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music: MTV Live FHD (MX)" tvg-logo="https://w7.pngwing.com/pngs/182/465/png-transparent-mtv-logo-tv-television-music-video-others-miscellaneous-television-text-thumbnail.png" group-title="LAT - Musica",Music: MTV Live FHD (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/36570.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music: RMS (MX)" tvg-logo="https://rms-austria.at/RMS%20%C3%96sterreich/Logos/RMS%20Logos/RMS-Markenzeichen-72dpi-A4-rot.png" group-title="LAT - Musica",Music: RMS (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/36578.ts
+#EXTINF:-1 tvg-id="telehit.mx" tvg-name="Music: Telehit (MX)" tvg-logo="https://seeklogo.com/images/T/telehit-logo-FC28C74E85-seeklogo.com.png" group-title="LAT - Musica",Music: Telehit (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/36579.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music: Telehit Plus" tvg-logo="https://im4.ezgif.com/tmp/ezgif-4-714cbcd807.png" group-title="LAT - Musica",Music: Telehit Plus
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/32272.ts
+#EXTINF:-1 tvg-id="telehithd.mx" tvg-name="Music: Telehit Plus HD" tvg-logo="https://im4.ezgif.com/tmp/ezgif-4-714cbcd807.png" group-title="LAT - Musica",Music: Telehit Plus HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/32273.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music: VEVO Hip-Hop" tvg-logo="https://pngset.com/images/vevo-logos-text-dynamite-bomb-weapon-transparent-png-2009143.png" group-title="LAT - Musica",Music: VEVO Hip-Hop
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/115723.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music: VEVO Latin Pop" tvg-logo="https://pngset.com/images/vevo-logos-text-dynamite-bomb-weapon-transparent-png-2009143.png" group-title="LAT - Musica",Music: VEVO Latin Pop
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/115722.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music: VEVO 70'S" tvg-logo="https://pngset.com/images/vevo-logos-text-dynamite-bomb-weapon-transparent-png-2009143.png" group-title="LAT - Musica",Music: VEVO 70'S
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/115724.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music: VEVO Reggaton Trap" tvg-logo="https://pngset.com/images/vevo-logos-text-dynamite-bomb-weapon-transparent-png-2009143.png" group-title="LAT - Musica",Music: VEVO Reggaton Trap
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/115706.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music: VEVO 80'S" tvg-logo="https://pngset.com/images/vevo-logos-text-dynamite-bomb-weapon-transparent-png-2009143.png" group-title="LAT - Musica",Music: VEVO 80'S
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/115707.ts
+#EXTINF:-1 tvg-id="vh1.mx" tvg-name="Music: VH1 FHD (MX)" tvg-logo="https://e7.pngegg.com/pngimages/229/530/png-clipart-vh1-logo-tv-television-channel-tv-program-logo-television-angle.png" group-title="LAT - Musica",Music: VH1 FHD (MX)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/36584.ts
+#EXTINF:-1 tvg-id="" tvg-name="Music: Tributo a la Cumbia Boliviana HD" tvg-logo="" group-title="LAT - Musica",Music: Tributo a la Cumbia Boliviana HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332204.ts
+#EXTINF:-1 tvg-id="" tvg-name="▂ ▄ ▅ ▆  NOTICIERO  ▆ ▅ ▄ ▂" tvg-logo="http://assets.stickpng.com/images/5c091bf52c6641059597e376.png" group-title="LAT - Noticiero",▂ ▄ ▅ ▆  NOTICIERO  ▆ ▅ ▄ ▂
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/32238.ts
+#EXTINF:-1 tvg-id="bbcworldnewsnorthamerica.us" tvg-name="Noticiero: BBC World (MOVIL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/240px-BBC_World_News_2019.svg.png" group-title="LAT - Noticiero",Noticiero: BBC World (MOVIL)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/65053.ts
+#EXTINF:-1 tvg-id="cnnenespañol.co" tvg-name="Noticiero: CNN en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png/120px-Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png" group-title="LAT - Noticiero",Noticiero: CNN en Español
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1059.ts
+#EXTINF:-1 tvg-id="" tvg-name="Noticiero: CNN en Espanol (MOVIL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png/120px-Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png" group-title="LAT - Noticiero",Noticiero: CNN en Espanol (MOVIL)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/65079.ts
+#EXTINF:-1 tvg-id="" tvg-name="Noticiero: CNN en Español HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png/120px-Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png" group-title="LAT - Noticiero",Noticiero: CNN en Español HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/102401.ts
+#EXTINF:-1 tvg-id="cnn.mx" tvg-name="Noticiero: CNN Internacional (MOVIL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png/120px-Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png" group-title="LAT - Noticiero",Noticiero: CNN Internacional (MOVIL)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/65080.ts
+#EXTINF:-1 tvg-id="" tvg-name="Noticiero: DW En Español" tvg-logo="http://vaktar.vip:8080/images/8086ccadef9075f25412275d876493fe.png" group-title="LAT - Noticiero",Noticiero: DW En Español
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/4643.ts
+#EXTINF:-1 tvg-id="" tvg-name="Noticiero: DW En Español FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="LAT - Noticiero",Noticiero: DW En Español FHD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/178030.ts
+#EXTINF:-1 tvg-id="dwdeutschplus.mx" tvg-name="Noticiero: DW En Español HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png" group-title="LAT - Noticiero",Noticiero: DW En Español HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/178029.ts
+#EXTINF:-1 tvg-id="" tvg-name="Noticiero: France 24 en Español FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/125px-France24.png" group-title="LAT - Noticiero",Noticiero: France 24 en Español FHD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/228611.ts
+#EXTINF:-1 tvg-id="" tvg-name="Noticiero: France 24 en Español HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/125px-France24.png" group-title="LAT - Noticiero",Noticiero: France 24 en Español HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/228610.ts
+#EXTINF:-1 tvg-id="" tvg-name="Noticiero: France 24 en Español SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/France24.png/125px-France24.png" group-title="LAT - Noticiero",Noticiero: France 24 en Español SD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/60392.ts
+#EXTINF:-1 tvg-id="" tvg-name="Noticiero: RT en Español" tvg-logo="http://titanicos.net:8080/images/a54cc36afb21adebdb7679cb4f10d10b.png" group-title="LAT - Noticiero",Noticiero: RT en Español
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/9979.ts
+#EXTINF:-1 tvg-id="" tvg-name="▂ ▄ ▅ ▆  MEXICO  ▆ ▅ ▄ ▂" tvg-logo="http://viperos.net:8080/images/0b2827ba5fa58dc5c3e4f68c50034db0.png" group-title="LAT - Mexico",▂ ▄ ▅ ▆  MEXICO  ▆ ▅ ▄ ▂
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/32224.ts
+#EXTINF:-1 tvg-id="canaladn40.mx" tvg-name="MX: ADN 40 (MOVIL)" tvg-logo="https://static.epg.best/mx/ADN40.mx.png" group-title="LAT - Mexico",MX: ADN 40 (MOVIL)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/64721.ts
+#EXTINF:-1 tvg-id="canaladn40.mx" tvg-name="MX: ADN 40" tvg-logo="https://static.epg.best/mx/ADN40.mx.png" group-title="LAT - Mexico",MX: ADN 40
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24039.ts
+#EXTINF:-1 tvg-id="canaladn40.mx" tvg-name="MX: ADN 40 HD" tvg-logo="https://static.epg.best/mx/ADN40.mx.png" group-title="LAT - Mexico",MX: ADN 40 HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/107115.ts
+#EXTINF:-1 tvg-id="canaladn40.mx" tvg-name="MX: ADN 40 FHD" tvg-logo="https://static.epg.best/mx/ADN40.mx.png" group-title="LAT - Mexico",MX: ADN 40 FHD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24040.ts
+#EXTINF:-1 tvg-id="azteca7.mx" tvg-name="MX: Azteca 7 (MOVIL)" tvg-logo="https://i.im.ge/2022/08/05/FbxyrC.images-5.png" group-title="LAT - Mexico",MX: Azteca 7 (MOVIL)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/64739.ts
+#EXTINF:-1 tvg-id="azteca7.mx" tvg-name="MX: Azteca 7" tvg-logo="https://i.im.ge/2022/08/05/FbxyrC.images-5.png" group-title="LAT - Mexico",MX: Azteca 7
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24032.ts
+#EXTINF:-1 tvg-id="azteca7.mx" tvg-name="MX: Azteca 7 Full HD" tvg-logo="https://i.im.ge/2022/08/05/FbxyrC.images-5.png" group-title="LAT - Mexico",MX: Azteca 7 Full HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24033.ts
+#EXTINF:-1 tvg-id="aztecauno.mx" tvg-name="MX: Azteca Uno (MOVIL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Azteca_Uno.png" group-title="LAT - Mexico",MX: Azteca Uno (MOVIL)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/65050.ts
+#EXTINF:-1 tvg-id="aztecauno.mx" tvg-name="MX: Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Azteca_Uno.png" group-title="LAT - Mexico",MX: Azteca Uno
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24034.ts
+#EXTINF:-1 tvg-id="aztecauno.mx" tvg-name="MX: Azteca Uno Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Azteca_Uno.png" group-title="LAT - Mexico",MX: Azteca Uno Full HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24035.ts
+#EXTINF:-1 tvg-id="azclic.mx" tvg-name="MX: Az Clic (MOVIL)" tvg-logo="http://swedtv.vip/logos/Mexico/az_clic.png" group-title="LAT - Mexico",MX: Az Clic (MOVIL)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/65048.ts
+#EXTINF:-1 tvg-id="azclic.mx" tvg-name="MX: Az Clic SD" tvg-logo="http://swedtv.vip/logos/Mexico/az_clic.png" group-title="LAT - Mexico",MX: Az Clic SD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24061.ts
+#EXTINF:-1 tvg-id="azclic.mx" tvg-name="MX: Az Clic HD" tvg-logo="http://swedtv.vip/logos/Mexico/az_clic.png" group-title="LAT - Mexico",MX: Az Clic HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24062.ts
+#EXTINF:-1 tvg-id="azcinema.mx" tvg-name="MX: Az Cinema SD" tvg-logo="https://i.im.ge/2022/08/04/FYg2J8.cinema.jpg" group-title="LAT - Mexico",MX: Az Cinema SD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24069.ts
+#EXTINF:-1 tvg-id="azcinema.mx" tvg-name="MX: Az Cinema HD" tvg-logo="https://i.im.ge/2022/08/04/FYg2J8.cinema.jpg" group-title="LAT - Mexico",MX: Az Cinema HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24070.ts
+#EXTINF:-1 tvg-id="azcinema.mx" tvg-name="MX: Az Cinema FHD" tvg-logo="https://i.im.ge/2022/08/04/FYg2J8.cinema.jpg" group-title="LAT - Mexico",MX: Az Cinema FHD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/250589.ts
+#EXTINF:-1 tvg-id="azcorazon.mx" tvg-name="MX: Az Corazon HD" tvg-logo="http://swedtv.vip/logos/Mexico/az_corazon.png" group-title="LAT - Mexico",MX: Az Corazon HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24051.ts
+#EXTINF:-1 tvg-id="azcorazon.mx" tvg-name="MX: Az Corazon FHD" tvg-logo="http://swedtv.vip/logos/Mexico/az_corazon.png" group-title="LAT - Mexico",MX: Az Corazon FHD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24052.ts
+#EXTINF:-1 tvg-id="aztecamundo.mx" tvg-name="MX: Az Mundo" tvg-logo="https://i.im.ge/2022/08/05/FbxUrF.images-4.png" group-title="LAT - Mexico",MX: Az Mundo
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24079.ts
+#EXTINF:-1 tvg-id="aztecamundo.mx" tvg-name="MX: Az Mundo Full HD" tvg-logo="https://i.im.ge/2022/08/05/FbxUrF.images-4.png" group-title="LAT - Mexico",MX: Az Mundo Full HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24080.ts
+#EXTINF:-1 tvg-id="5nacional.mx" tvg-name="MX: Canal 5 (MOVIL)" tvg-logo="https://i.im.ge/2022/08/05/FbxxMP.images-6.png" group-title="LAT - Mexico",MX: Canal 5 (MOVIL)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/65060.ts
+#EXTINF:-1 tvg-id="5nacional.mx" tvg-name="MX: Canal 5" tvg-logo="https://i.im.ge/2022/08/05/FbxxMP.images-6.png" group-title="LAT - Mexico",MX: Canal 5
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24036.ts
+#EXTINF:-1 tvg-id="5nacional.mx" tvg-name="MX: Canal 5 Full HD" tvg-logo="http://swedtv.net:8080/TitanMaster(19)@19/s4pGJABXNayr/24037" group-title="LAT - Mexico",MX: Canal 5 Full HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24037.ts
+#EXTINF:-1 tvg-id="galatv9nacional.mx" tvg-name="MX: Galatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="LAT - Mexico",MX: Galatv
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24038.ts
+#EXTINF:-1 tvg-id="forotv.mx" tvg-name="MX: Foro TV" tvg-logo="https://static.epg.best/mx/ForoTv.mx.png" group-title="LAT - Mexico",MX: Foro TV
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24041.ts
+#EXTINF:-1 tvg-id="forotv.mx" tvg-name="MX: Foro TV Full HD" tvg-logo="https://static.epg.best/mx/ForoTv.mx.png" group-title="LAT - Mexico",MX: Foro TV Full HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24042.ts
+#EXTINF:-1 tvg-id="multimedios.mx" tvg-name="MX: Multimedios" tvg-logo="https://static.epg.best/mx/Multimedios.mx.png" group-title="LAT - Mexico",MX: Multimedios
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24043.ts
+#EXTINF:-1 tvg-id="multimedios.mx" tvg-name="MX: Multimedios Full HD" tvg-logo="https://static.epg.best/mx/Multimedios.mx.png" group-title="LAT - Mexico",MX: Multimedios Full HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24044.ts
+#EXTINF:-1 tvg-id="MX: MULTIMEDIOS PLUS" tvg-name="MX: Multimedios Plus" tvg-logo="https://i.im.ge/2022/08/05/FbbdDP.Multimedios-2.webp" group-title="LAT - Mexico",MX: Multimedios Plus
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24045.ts
+#EXTINF:-1 tvg-id="MX: MULTIMEDIOS PLUS" tvg-name="MX: Multimedios Plus Full HD" tvg-logo="https://i.im.ge/2022/08/05/FbbdDP.Multimedios-2.webp" group-title="LAT - Mexico",MX: Multimedios Plus Full HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24046.ts
+#EXTINF:-1 tvg-id="teleformula.mx" tvg-name="MX: Teleformula" tvg-logo="https://static.epg.best/mx/TeleFormula.mx.png" group-title="LAT - Mexico",MX: Teleformula
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24047.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX: Televisa MTY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logotipo_de_Televisa_%282001-2016%29.png" group-title="LAT - Mexico",MX: Televisa MTY
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24048.ts
+#EXTINF:-1 tvg-id="xhpdt.mx" tvg-name="MX: Televisa Puebla (MOVIL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logotipo_de_Televisa_%282001-2016%29.png" group-title="LAT - Mexico",MX: Televisa Puebla (MOVIL)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/65785.ts
+#EXTINF:-1 tvg-id="xhpdt.mx" tvg-name="MX: Televisa Puebla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logotipo_de_Televisa_%282001-2016%29.png" group-title="LAT - Mexico",MX: Televisa Puebla
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24049.ts
+#EXTINF:-1 tvg-id="xhpdt.mx" tvg-name="MX: Televisa Puebla Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logotipo_de_Televisa_%282001-2016%29.png" group-title="LAT - Mexico",MX: Televisa Puebla Full HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24050.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX: Garage TV" tvg-logo="http://swedtv.vip/logos/Mexico/garage_tv.png" group-title="LAT - Mexico",MX: Garage TV
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24053.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX: Garage TV Full HD" tvg-logo="http://swedtv.vip/logos/Mexico/garage_tv.png" group-title="LAT - Mexico",MX: Garage TV Full HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24054.ts
+#EXTINF:-1 tvg-id="MX: ¡HOLA! TV" tvg-name="MX: Hola TV" tvg-logo="http://swedtv.vip/logos/entretenimiento/%c2%a1HOLA!TV.png" group-title="LAT - Mexico",MX: Hola TV
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24055.ts
+#EXTINF:-1 tvg-id="MX: ¡HOLA! TV" tvg-name="MX: Hola TV Full HD" tvg-logo="http://swedtv.vip/logos/entretenimiento/%c2%a1HOLA!TV.png" group-title="LAT - Mexico",MX: Hola TV Full HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24056.ts
+#EXTINF:-1 tvg-id="maschictv.mx" tvg-name="MX: Mas Chic" tvg-logo="https://i.im.ge/2022/08/05/Fbbsvf.indice.png" group-title="LAT - Mexico",MX: Mas Chic
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24057.ts
+#EXTINF:-1 tvg-id="maschictv.mx" tvg-name="MX: Mas Chic Full HD" tvg-logo="https://i.im.ge/2022/08/05/Fbbsvf.indice.png" group-title="LAT - Mexico",MX: Mas Chic Full HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24058.ts
+#EXTINF:-1 tvg-id="mileniotelevision.mx" tvg-name="MX: Milenio TV" tvg-logo="https://static.epg.best/mx/MilenioTelevision.mx.png" group-title="LAT - Mexico",MX: Milenio TV
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24059.ts
+#EXTINF:-1 tvg-id="mileniotelevision.mx" tvg-name="MX: Milenio TV HD" tvg-logo="https://static.epg.best/mx/MilenioTelevision.mx.png" group-title="LAT - Mexico",MX: Milenio TV HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24060.ts
+#EXTINF:-1 tvg-id="mileniotelevision.mx" tvg-name="MX: Milenio TV FHD" tvg-logo="https://static.epg.best/mx/MilenioTelevision.mx.png" group-title="LAT - Mexico",MX: Milenio TV FHD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/250588.ts
+#EXTINF:-1 tvg-id="imagentv.mx" tvg-name="MX: Imagen TV" tvg-logo="http://swedtv.vip/logos/Mexico/Imagen_TV.png" group-title="LAT - Mexico",MX: Imagen TV
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24064.ts
+#EXTINF:-1 tvg-id="unicable.mx" tvg-name="MX: Unicable" tvg-logo="http://swedtv.vip/logos/Mexico/Unicable.png" group-title="LAT - Mexico",MX: Unicable
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24065.ts
+#EXTINF:-1 tvg-id="unicable.mx" tvg-name="MX: Unicable Full HD" tvg-logo="http://swedtv.vip/logos/Mexico/Unicable.png" group-title="LAT - Mexico",MX: Unicable Full HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24066.ts
+#EXTINF:-1 tvg-id="MX: WOBI TV" tvg-name="MX: Wobi TV" tvg-logo="http://swedtv.vip/logos/Mexico/WOBI_tv.png" group-title="LAT - Mexico",MX: Wobi TV
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24067.ts
+#EXTINF:-1 tvg-id="MX: WOBI TV" tvg-name="MX: Wobi TV Full HD" tvg-logo="http://swedtv.vip/logos/Mexico/WOBI_tv.png" group-title="LAT - Mexico",MX: Wobi TV Full HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24068.ts
+#EXTINF:-1 tvg-id="canalmexiquense.mx" tvg-name="MX: Mexiquense" tvg-logo="http://img.tvcl.xyz/mexico/mexiquense.png" group-title="LAT - Mexico",MX: Mexiquense
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24071.ts
+#EXTINF:-1 tvg-id="tvmasxhgv.es" tvg-name="MX: TV Mas HD" tvg-logo="https://i.im.ge/2022/08/05/Fc3rpm.394-3943107-tv-mas-veracruz-hd-png-download.png" group-title="LAT - Mexico",MX: TV Mas HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24072.ts
+#EXTINF:-1 tvg-id="distritocomedia.mx" tvg-name="MX: Distrito Comedia" tvg-logo="http://swedtv.vip/logos/Mexico/Distrito_Comedia.png" group-title="LAT - Mexico",MX: Distrito Comedia
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24074.ts
+#EXTINF:-1 tvg-id="glitz.mx" tvg-name="MX: Glitz" tvg-logo="http://swedtv.vip/logos/Mexico/Glitz.png" group-title="LAT - Mexico",MX: Glitz
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24075.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX: A Plus" tvg-logo="http://img.tvcl.xyz/mexico/aplus.png" group-title="LAT - Mexico",MX: A Plus
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24081.ts
+#EXTINF:-1 tvg-id="" tvg-name="MX: Canal 8 (MOVIL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Canal_8_logo.svg/1200px-Canal_8_logo.svg.png" group-title="LAT - Mexico",MX: Canal 8 (MOVIL)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/65061.ts
+#EXTINF:-1 tvg-id="telenovelas.mx" tvg-name="MX: TL Novelas" tvg-logo="https://i.im.ge/2022/08/05/FcxcHy.indicwwwe.png" group-title="LAT - Mexico",MX: TL Novelas
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24096.ts
+#EXTINF:-1 tvg-id="bitme.mx" tvg-name="MX: Bit Me" tvg-logo="http://img.tvcl.xyz/infantiles/bitme.png" group-title="LAT - Mexico",MX: Bit Me
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/64404.ts
+#EXTINF:-1 tvg-id="bitme.mx" tvg-name="MX: Bit Me FHD" tvg-logo="http://img.tvcl.xyz/infantiles/bitme.png" group-title="LAT - Mexico",MX: Bit Me FHD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/64405.ts
+#EXTINF:-1 tvg-id="MX: WOBI TV" tvg-name="MX: Wobi TV (MOVIL)" tvg-logo="http://swedtv.vip/logos/Mexico/WOBI_tv.png" group-title="LAT - Mexico",MX: Wobi TV (MOVIL)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/65784.ts
+#EXTINF:-1 tvg-id="telenovelas.mx" tvg-name="MX: TL Novelas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/917px-Logo_tlnovelas_feb2019.png" group-title="LAT - Mexico",MX: TL Novelas HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/72250.ts
+#EXTINF:-1 tvg-id="distritocomedia.mx" tvg-name="MX: Distrito Comedia HD" tvg-logo="http://swedtv.vip/logos/Mexico/Distrito_Comedia.png" group-title="LAT - Mexico",MX: Distrito Comedia HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/178028.ts
+#EXTINF:-1 tvg-id="" tvg-name="•●★-- Deportes Mexico --★●•" tvg-logo="http://viperos.net:8080/images/cb31bdf10685909efaf2aaa25b152cef.png" group-title="LAT - México Deportes ⚽",•●★-- Deportes Mexico --★●•
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/32332.ts
+#EXTINF:-1 tvg-id="MX: ADRENALINA SPORTS" tvg-name="SP: MX: Adrenalina Sport Network" tvg-logo="http://swedtv.vip/logos/mexico_deportes/Adrenalina_sports_network.png" group-title="LAT - México Deportes ⚽",SP: MX: Adrenalina Sport Network
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/72055.ts
+#EXTINF:-1 tvg-id="MX: ADRENALINA SPORTS" tvg-name="SP: MX: Adrenalina Sport Network FHD" tvg-logo="http://swedtv.vip/logos/mexico_deportes/Adrenalina_sports_network.png" group-title="LAT - México Deportes ⚽",SP: MX: Adrenalina Sport Network FHD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/27207.ts
+#EXTINF:-1 tvg-id="afizzionados.mx" tvg-name="SP: MX: Afizzionados" tvg-logo="https://i.im.ge/2022/08/05/FcwkBD.AFIZZIONADOS.png" group-title="LAT - México Deportes ⚽",SP: MX: Afizzionados
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/27246.ts
+#EXTINF:-1 tvg-id="espnlatin.mx" tvg-name="SP: MX: Espn 1" tvg-logo="https://i.im.ge/2022/08/05/FbY40F.indice.png" group-title="LAT - México Deportes ⚽",SP: MX: Espn 1
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26526.ts
+#EXTINF:-1 tvg-id="espn.mx" tvg-name="SP: MX: Espn 1 HD" tvg-logo="https://i.im.ge/2022/08/05/FbY40F.indice.png" group-title="LAT - México Deportes ⚽",SP: MX: Espn 1 HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/107158.ts
+#EXTINF:-1 tvg-id="espn2.mx" tvg-name="SP: MX: Espn 1 Full HD" tvg-logo="https://i.im.ge/2022/08/05/FbY40F.indice.png" group-title="LAT - México Deportes ⚽",SP: MX: Espn 1 Full HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24637.ts
+#EXTINF:-1 tvg-id="espn2.mx" tvg-name="SP: MX: Espn 2 (MOVIL)" tvg-logo="https://i.im.ge/2022/08/05/FbYBcK.mx-espn-2-m.png" group-title="LAT - México Deportes ⚽",SP: MX: Espn 2 (MOVIL)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/65829.ts
+#EXTINF:-1 tvg-id="espnlatin.mx" tvg-name="SP: MX: Espn 2" tvg-logo="https://i.im.ge/2022/08/05/FbYBcK.mx-espn-2-m.png" group-title="LAT - México Deportes ⚽",SP: MX: Espn 2
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26527.ts
+#EXTINF:-1 tvg-id="espnlatin.mx" tvg-name="SP: MX: Espn 2 HD" tvg-logo="https://i.im.ge/2022/08/05/FbYBcK.mx-espn-2-m.png" group-title="LAT - México Deportes ⚽",SP: MX: Espn 2 HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/107157.ts
+#EXTINF:-1 tvg-id="espnlatin.mx" tvg-name="SP: MX: Espn 2 Full HD" tvg-logo="https://i.im.ge/2022/08/05/FbYBcK.mx-espn-2-m.png" group-title="LAT - México Deportes ⚽",SP: MX: Espn 2 Full HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24638.ts
+#EXTINF:-1 tvg-id="espn3.mx" tvg-name="SP: MX: Espn 3 (MOVIL)" tvg-logo="https://i.im.ge/2022/08/05/FbYGe9.espn-3-1626.png" group-title="LAT - México Deportes ⚽",SP: MX: Espn 3 (MOVIL)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/65828.ts
+#EXTINF:-1 tvg-id="espn3.mx" tvg-name="SP: MX: Espn 3" tvg-logo="https://i.im.ge/2022/08/05/FbYGe9.espn-3-1626.png" group-title="LAT - México Deportes ⚽",SP: MX: Espn 3
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26528.ts
+#EXTINF:-1 tvg-id="espn3.mx" tvg-name="SP: MX: Espn 3 Full HD" tvg-logo="https://i.im.ge/2022/08/05/FbYGe9.espn-3-1626.png" group-title="LAT - México Deportes ⚽",SP: MX: Espn 3 Full HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24639.ts
+#EXTINF:-1 tvg-id="espnxtra.ar" tvg-name="SP: MX: Espn Extra" tvg-logo="https://i.im.ge/2022/08/06/FgAxEf.extra.png" group-title="LAT - México Deportes ⚽",SP: MX: Espn Extra
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26529.ts
+#EXTINF:-1 tvg-id="espnxtra.ar" tvg-name="SP: MX: Espn Extra HD" tvg-logo="https://i.im.ge/2022/08/06/FgAxEf.extra.png" group-title="LAT - México Deportes ⚽",SP: MX: Espn Extra HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/107160.ts
+#EXTINF:-1 tvg-id="expnextra.cl" tvg-name="SP: MX: Espn Extra HD (H265)" tvg-logo="https://i.im.ge/2022/08/06/FgAxEf.extra.png" group-title="LAT - México Deportes ⚽",SP: MX: Espn Extra HD (H265)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24636.ts
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="SP: MX: Fox Sports 1" tvg-logo="https://i.im.ge/2022/08/05/Fbx8NW.images-4.jpg" group-title="LAT - México Deportes ⚽",SP: MX: Fox Sports 1
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/928.ts
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="SP: MX: Fox Sports 1 HD" tvg-logo="https://i.im.ge/2022/08/05/Fbx8NW.images-4.jpg" group-title="LAT - México Deportes ⚽",SP: MX: Fox Sports 1 HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/27204.ts
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="SP: MX: Fox Sports 1 Full HD" tvg-logo="https://i.im.ge/2022/08/05/Fbx8NW.images-4.jpg" group-title="LAT - México Deportes ⚽",SP: MX: Fox Sports 1 Full HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/937.ts
+#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="SP: MX: Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1280px-2015_Fox_sports_logo.svg.png" group-title="LAT - México Deportes ⚽",SP: MX: Fox Sports 2
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/929.ts
+#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="SP: MX: Fox Sports 2 HD" tvg-logo="https://i.im.ge/2022/08/05/FbxRf0.images-7.jpg" group-title="LAT - México Deportes ⚽",SP: MX: Fox Sports 2 HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/27205.ts
+#EXTINF:-1 tvg-id="foxsports2.mx" tvg-name="SP: MX: Fox Sports 2 Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/2015_Fox_sports_logo.svg/1280px-2015_Fox_sports_logo.svg.png" group-title="LAT - México Deportes ⚽",SP: MX: Fox Sports 2 Full HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/939.ts
+#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="SP: MX: Fox Sports 3" tvg-logo="http://swedtv.vip/logos/mexico_deportes/Fox_Sports_3.png" group-title="LAT - México Deportes ⚽",SP: MX: Fox Sports 3
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/930.ts
+#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="SP: MX: Fox Sports 3 HD" tvg-logo="http://tv.titanicos.net:2095/images/IPipT31tafaSLBzN7UqRBQhMi_jODThjwHt2c680JhxNbeq4PPz22Ups6ozjycPSmTK8k6YSBg2iLO0S7Rxoew.png" group-title="LAT - México Deportes ⚽",SP: MX: Fox Sports 3 HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/27206.ts
+#EXTINF:-1 tvg-id="foxsports3.mx" tvg-name="SP: MX: Fox Sports 3 FHD" tvg-logo="http://swedtv.vip/logos/mexico_deportes/Fox_Sports_3.png" group-title="LAT - México Deportes ⚽",SP: MX: Fox Sports 3 FHD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/941.ts
+#EXTINF:-1 tvg-id="tudn.mx" tvg-name="SP: MX: TUDN (MOVIL)" tvg-logo="http://swedtv.vip/logos/mexico_deportes/TUDN.png" group-title="LAT - México Deportes ⚽",SP: MX: TUDN (MOVIL)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/65816.ts
+#EXTINF:-1 tvg-id="tudnusa.mx" tvg-name="SP: MX: TUDN SD (USA)" tvg-logo="http://swedtv.vip/logos/mexico_deportes/TUDN.png" group-title="LAT - México Deportes ⚽",SP: MX: TUDN SD (USA)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1905.ts
+#EXTINF:-1 tvg-id="tudnusa.mx" tvg-name="SP: MX: TUDN HD (USA)" tvg-logo="http://swedtv.vip/logos/mexico_deportes/TUDN.png" group-title="LAT - México Deportes ⚽",SP: MX: TUDN HD (USA)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/32904.ts
+#EXTINF:-1 tvg-id="tudn.mx" tvg-name="SP: MX: TUDN (Mexico)" tvg-logo="http://swedtv.vip/logos/mexico_deportes/TUDN.png" group-title="LAT - México Deportes ⚽",SP: MX: TUDN (Mexico)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/32905.ts
+#EXTINF:-1 tvg-id="tudn.mx" tvg-name="SP: MX: TUDN FHD (Mexico)" tvg-logo="http://swedtv.vip/logos/mexico_deportes/TUDN.png" group-title="LAT - México Deportes ⚽",SP: MX: TUDN FHD (Mexico)
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/40909.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: TUDN X1" tvg-logo="http://swedtv.vip/logos/mexico_deportes/TUDN.png" group-title="LAT - México Deportes ⚽",SP: MX: TUDN X1
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1906.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: TUDN X2" tvg-logo="http://swedtv.vip/logos/mexico_deportes/TUDN.png" group-title="LAT - México Deportes ⚽",SP: MX: TUDN X2
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1907.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: TUDN X4" tvg-logo="http://swedtv.vip/logos/mexico_deportes/TUDN.png" group-title="LAT - México Deportes ⚽",SP: MX: TUDN X4
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1908.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: TUDN X3" tvg-logo="http://swedtv.vip/logos/mexico_deportes/TUDN.png" group-title="LAT - México Deportes ⚽",SP: MX: TUDN X3
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1909.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: TUDN X5" tvg-logo="http://swedtv.vip/logos/mexico_deportes/TUDN.png" group-title="LAT - México Deportes ⚽",SP: MX: TUDN X5
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1910.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: TUDN X6" tvg-logo="http://swedtv.vip/logos/mexico_deportes/TUDN.png" group-title="LAT - México Deportes ⚽",SP: MX: TUDN X6
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1911.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: TUDN X7" tvg-logo="http://swedtv.vip/logos/mexico_deportes/TUDN.png" group-title="LAT - México Deportes ⚽",SP: MX: TUDN X7
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1912.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: TUDN X8" tvg-logo="http://swedtv.vip/logos/mexico_deportes/TUDN.png" group-title="LAT - México Deportes ⚽",SP: MX: TUDN X8
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1913.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: TUDN X9" tvg-logo="http://swedtv.vip/logos/mexico_deportes/TUDN.png" group-title="LAT - México Deportes ⚽",SP: MX: TUDN X9
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1914.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: TUDN X10" tvg-logo="http://swedtv.vip/logos/mexico_deportes/TUDN.png" group-title="LAT - México Deportes ⚽",SP: MX: TUDN X10
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/1915.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: TUDN X11" tvg-logo="http://swedtv.vip/logos/mexico_deportes/TUDN.png" group-title="LAT - México Deportes ⚽",SP: MX: TUDN X11
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/69255.ts
+#EXTINF:-1 tvg-id="golfchannel.mx" tvg-name="SP: MX: Golf Channel Latinoamerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golf_Channel_Latin_America_-_Logo.svg/1280px-Golf_Channel_Latin_America_-_Logo.svg.png" group-title="LAT - México Deportes ⚽",SP: MX: Golf Channel Latinoamerica
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/107172.ts
+#EXTINF:-1 tvg-id="tvcdeportes.mx" tvg-name="SP: MX: TVC Deportes SD" tvg-logo="http://swedtv.vip/logos/mexico_deportes/TVC_Deportes.png" group-title="LAT - México Deportes ⚽",SP: MX: TVC Deportes SD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/224677.ts
+#EXTINF:-1 tvg-id="" tvg-name="SP: MX: Sky Sports" tvg-logo="http://tv.titanicos.net:2095/images/lE2-hQWVp5OGBfPF80NALYveEmsqqsBM_NDXeG-WhawUuSPES2S2ykkp6Mf2jZdC5pCO0v3UXOVghwrssZzmDJW4F2C-tOci0L3gBReo3e4nN19jbGRP3wUB9RuEJbZF.png" group-title="LAT - México Deportes ⚽",SP: MX: Sky Sports
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/300774.ts
+#EXTINF:-1 tvg-id="" tvg-name="•●★-- USA Entertainment --★●•" tvg-logo="" group-title="ENG - USA Entertainment",•●★-- USA Entertainment --★●•
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332416.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: American Heroes" tvg-logo="" group-title="ENG - USA Entertainment",USA: American Heroes
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332428.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: RFD TV" tvg-logo="" group-title="ENG - USA Entertainment",USA: RFD TV
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332429.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: QVC" tvg-logo="" group-title="ENG - USA Entertainment",USA: QVC
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332430.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FX West HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: FX West HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332431.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Food Network West" tvg-logo="" group-title="ENG - USA Entertainment",USA: Food Network West
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332432.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Discovery Science HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: Discovery Science HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332433.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Game Plus" tvg-logo="" group-title="ENG - USA Entertainment",USA: Game Plus
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332434.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Game Show Network" tvg-logo="" group-title="ENG - USA Entertainment",USA: Game Show Network
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332435.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Fusion TV HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: Fusion TV HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332436.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: DIY Network HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: DIY Network HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332437.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Discovery Velocity HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: Discovery Velocity HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332438.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Discovery Family" tvg-logo="" group-title="ENG - USA Entertainment",USA: Discovery Family
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332439.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: CW" tvg-logo="" group-title="ENG - USA Entertainment",USA: CW
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332440.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Buzzr TV" tvg-logo="" group-title="ENG - USA Entertainment",USA: Buzzr TV
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332441.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Animal Planet East" tvg-logo="" group-title="ENG - USA Entertainment",USA: Animal Planet East
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332442.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Animal Planet West" tvg-logo="" group-title="ENG - USA Entertainment",USA: Animal Planet West
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332443.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: UP TV" tvg-logo="" group-title="ENG - USA Entertainment",USA: UP TV
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332444.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Court" tvg-logo="" group-title="ENG - USA Entertainment",USA: Court
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332445.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Viceland HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: Viceland HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332446.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: WGN 9 HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: WGN 9 HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332447.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: TV Land HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: TV Land HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332448.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: TLC HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: TLC HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332449.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: TBS West HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: TBS West HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332450.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Revolt HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: Revolt HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332451.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Reelz HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: Reelz HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332452.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Pop HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: Pop HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332453.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: PBS HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: PBS HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332454.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Outside TV HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: Outside TV HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332455.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NatGeo HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: NatGeo HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332456.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: NatGeo Wild HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: NatGeo Wild HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332457.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Nasa TV" tvg-logo="" group-title="ENG - USA Entertainment",USA: Nasa TV
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332458.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Logo TV HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: Logo TV HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332459.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Lifetime HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: Lifetime HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332460.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: LAFF TV" tvg-logo="" group-title="ENG - USA Entertainment",USA: LAFF TV
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332461.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Investigation Discovery HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: Investigation Discovery HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332462.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: ION TV HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: ION TV HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332463.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: HSN HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: HSN HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332464.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: HLN HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: HLN HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332465.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: History Channel HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: History Channel HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332466.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: HGTV East HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: HGTV East HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332467.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Heroes And Icons TV" tvg-logo="" group-title="ENG - USA Entertainment",USA: Heroes And Icons TV
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332468.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: GSN HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: GSN HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332469.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Grit" tvg-logo="" group-title="ENG - USA Entertainment",USA: Grit
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332470.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Great American Country HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: Great American Country HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332471.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FYI HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: FYI HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332472.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Fuse HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: Fuse HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332473.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Food Network HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: Food Network HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332474.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: E! Entertainment West HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: E! Entertainment West HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332475.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Discovery Life HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: Discovery Life HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332476.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Discovery Family HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: Discovery Family HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332477.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Discovery Channel HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: Discovery Channel HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332478.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Destination America HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: Destination America HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332479.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: KTLA 5 HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: KTLA 5 HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332480.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Crime & Investigation HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: Crime & Investigation HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332481.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Court TV HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: Court TV HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332482.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Comet HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: Comet HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332483.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Comedy Central HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: Comedy Central HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332484.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bounce" tvg-logo="" group-title="ENG - USA Entertainment",USA: Bounce
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332485.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: BET Her FHD" tvg-logo="" group-title="ENG - USA Entertainment",USA: BET Her FHD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332486.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: BET FHD" tvg-logo="" group-title="ENG - USA Entertainment",USA: BET FHD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332487.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: AXS HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: AXS HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332488.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: AWE FHD" tvg-logo="" group-title="ENG - USA Entertainment",USA: AWE FHD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332489.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Aspire FHD" tvg-logo="" group-title="ENG - USA Entertainment",USA: Aspire FHD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332490.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Antenna TV" tvg-logo="" group-title="ENG - USA Entertainment",USA: Antenna TV
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332491.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Animal Planet HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: Animal Planet HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332492.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: A&E HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: A&E HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332493.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bravo FHD" tvg-logo="" group-title="ENG - USA Entertainment",USA: Bravo FHD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332494.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: HGTV West HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: HGTV West HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332495.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Oxygen HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: Oxygen HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332496.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: OWN HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: OWN HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332497.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Outdoor Channel HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: Outdoor Channel HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332498.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Discovery Channel" tvg-logo="" group-title="ENG - USA Entertainment",USA: Discovery Channel
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332499.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: FX East HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: FX East HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332500.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Food Network FHD" tvg-logo="" group-title="ENG - USA Entertainment",USA: Food Network FHD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332501.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: E! Entertainment East HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: E! Entertainment East HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332502.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Cozi TV" tvg-logo="" group-title="ENG - USA Entertainment",USA: Cozi TV
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332503.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Cooking Channel HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: Cooking Channel HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332504.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Bravo HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: Bravo HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332505.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: BBC America" tvg-logo="" group-title="ENG - USA Entertainment",USA: BBC America
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332506.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Freeform HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: Freeform HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332507.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Syfy FHD" tvg-logo="" group-title="ENG - USA Entertainment",USA: Syfy FHD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332508.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: TNT HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: TNT HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332509.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: TBS East HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: TBS East HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332510.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Travel HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: Travel HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332511.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Usa Network HD" tvg-logo="" group-title="ENG - USA Entertainment",USA: Usa Network HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332512.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: We TV" tvg-logo="" group-title="ENG - USA Entertainment",USA: We TV
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332513.ts
+#EXTINF:-1 tvg-id="" tvg-name="USA: Tru TV FHD" tvg-logo="" group-title="ENG - USA Entertainment",USA: Tru TV FHD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/332514.ts
