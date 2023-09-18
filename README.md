@@ -2,12 +2,18 @@ EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="LAT: Las Estrellas FHD (MX)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Las_Estrellas.png" group-title="LAT - Entretenimiento",LAT: Las Estrellas FHD (MX)
 http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/16827.ts
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="LAT:Las Estrellas -1HRs HD (MX)" tvg-logo="https://img.tvcl.xyz/entretencion/lasestrellas.png" group-title="Entretención",Las Estrellas -1HRs HD (MX)
+http://hidra.live:80/kupnwxyh/56y0SsYae2/304504.ts
+#EXTINF:-1 tvg-id="Canal 5" tvg-name="LAT:Canal 5 HD (MX)" tvg-logo="https://images.mi.tv/channels/mx_xh-gc-canal-5-hd_m.png" group-title="Mexico",Canal 5 HD (MX)
+http://hidra.live:80/kupnwxyh/56y0SsYae2/302619.ts
 #EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="LAT: Las Estrellas FHD -2hr (MX)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Las_Estrellas-2hrs.png" group-title="LAT - Entretenimiento",LAT: Las Estrellas FHD -2hr (MX)
 http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/176538.ts
 #EXTINF:-1 tvg-id="americasvoice.us" tvg-name="LAT: Galavision Miami HD" tvg-logo="https://logodix.com/logo/2014739.png" group-title="LAT - Entretenimiento USA",LAT: Galavision Miami HD
 http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26803.ts
 #EXTINF:-1 tvg-id="univision23wltv.us" tvg-name="LAT: Univision Miami HD" tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="LAT - Entretenimiento USA",LAT: Univision Miami HD
 http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26876.ts
+#EXTINF:-1 tvg-id="Telemundo.mx" tvg-name="LAt:Telemundo Miami HQ (US)" tvg-logo="https://img.tvcl.xyz/internacionales/telemundo.png" group-title="Internacionales",Telemundo Miami HQ (US)
+http://hidra.live:80/kupnwxyh/56y0SsYae2/35098.ts
 #EXTINF:-1 tvg-id="" tvg-name="▂ ▄ ▅ ▆  MEXICO  ▆ ▅ ▄ ▂" tvg-logo="http://viperos.net:8080/images/0b2827ba5fa58dc5c3e4f68c50034db0.png" group-title="LAT - Mexico",▂ ▄ ▅ ▆  MEXICO  ▆ ▅ ▄ ▂
 http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/32224.ts
 #EXTINF:-1 tvg-id="canaladn40.mx" tvg-name="MX: ADN 40 (MOVIL)" tvg-logo="https://static.epg.best/mx/ADN40.mx.png" group-title="LAT - Mexico",MX: ADN 40 (MOVIL)
@@ -54,8 +60,8 @@ http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24080.ts
 http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/65060.ts
 #EXTINF:-1 tvg-id="5nacional.mx" tvg-name="MX: Canal 5" tvg-logo="https://i.im.ge/2022/08/05/FbxxMP.images-6.png" group-title="LAT - Mexico",MX: Canal 5
 http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24036.ts
-#EXTINF:-1 tvg-id="5nacional.mx" tvg-name="MX: Canal 5 Full HD" tvg-logo="http://swedtv.net:8080/TitanMaster(19)@19/s4pGJABXNayr/24037" group-title="LAT - Mexico",MX: Canal 5 Full HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24037.ts
+#EXTINF:-1 tvg-id="Canal 7" tvg-name="LAT:Azteca 7 HD (MX)" tvg-logo="" group-title="Mexico",Azteca 7 HD (MX)
+http://hidra.live:80/kupnwxyh/56y0SsYae2/302683.ts
 #EXTINF:-1 tvg-id="galatv9nacional.mx" tvg-name="MX: Galatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="LAT - Mexico",MX: Galatv
 http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24038.ts
 #EXTINF:-1 tvg-id="forotv.mx" tvg-name="MX: Foro TV" tvg-logo="https://static.epg.best/mx/ForoTv.mx.png" group-title="LAT - Mexico",MX: Foro TV
@@ -131,5 +137,4 @@ http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/65784.ts
 #EXTINF:-1 tvg-id="telenovelas.mx" tvg-name="MX: TL Novelas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/917px-Logo_tlnovelas_feb2019.png" group-title="LAT - Mexico",MX: TL Novelas HD
 http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/72250.ts
 #EXTINF:-1 tvg-id="distritocomedia.mx" tvg-name="MX: Distrito Comedia HD" tvg-logo="http://swedtv.vip/logos/Mexico/Distrito_Comedia.png" group-title="LAT - Mexico",MX: Distrito Comedia HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/178028.t# V
-Tv
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/178028.ts
