@@ -1,6 +1,6 @@
 EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="LAT: Las Estrellas FHD (MX)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Las_Estrellas.png" group-title="LAT - Entretenimiento",LAT: Las Estrellas FHD (MX)
+#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="LAT: Las Estrellas FHD (MX)" tvg-logo="https://logos-download.com/wp-content/uploads/2019/01/Las_Estrellas_Logo_black_background.png" group-title="LAT - Entretenimiento",LAT: Las Estrellas FHD (MX)
 http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/16827.ts
 #EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="LAT: Las Estrellas FHD -1hr (MX)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Las_Estrellas-2hrs.png" group-title="LAT - Entretenimiento",LAT: Las Estrellas FHD -1hr (MX)
 http://hidra.live:80/kupnwxyh/56y0SsYae2/304504.ts
