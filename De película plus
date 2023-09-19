@@ -1,8 +1,4 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-#EXTINF:-1,MXC| DE PELICULA PLUS HD
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=http://protv.fun:80
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT:network-caching=1000
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/7088.ts
+#EXTINF: -1 tvg-logo="https://logodix.com/logo/2014739.png" group-title="Ungrouped", de película plus
+http://protv.fun:80/Vitor2023/2023Vitor/553080
