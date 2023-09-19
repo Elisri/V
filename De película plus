@@ -2,4 +2,5 @@
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTVLCOPT:network-caching=1000
 #EXTINF:-1 tvg-id="distritocomedia.mx" tvg-name="MX: Distrito Comedia HD" tvg-logo="http://swedtv.vip/logos/Mexico/Distrito_Comedia.png" group-title="LAT - Mexico",MX: Distrito Comedia
+#EXTVLCOPT:network-caching=1000
 http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/178028.ts
