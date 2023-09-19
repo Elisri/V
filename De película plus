@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1,MXC| DE PELICULA PLUS HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT:network-caching=1000
+http://protv.fun:80/Vitor2023/2023Vitor/553080￼Enter
