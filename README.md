@@ -27,3 +27,13 @@ http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26803.ts
 http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26876.ts
 #EXTINF:-1 tvg-id="Telemundo.mx" tvg-name="LAt:Telemundo Miami HQ (US)" tvg-logo="https://img.tvcl.xyz/internacionales/telemundo.png" group-title=LAT"Entretenimiento USA",Telemundo Miami HQ (US)
 http://hidra.live:80/kupnwxyh/56y0SsYae2/35098.ts
+#EXTINF:-1 tvg-id="aztecauno.mx" tvg-name="MX: Azteca Uno Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Azteca_Uno.png" group-title="Mexico",MX: Azteca Uno Full HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24035.ts
+#EXTINF:-1 tvg-id="mileniotelevision.mx" tvg-name="MX: Milenio TV FHD" tvg-logo="https://static.epg.best/mx/MilenioTelevision.mx.png" group-title="Mexico",MX: Milenio TV FHD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/250588.ts
+#EXTINF:-1 tvg-id="distritocomedia.mx" tvg-name="MX: Distrito Comedia HD" tvg-logo="http://swedtv.vip/logos/Mexico/Distrito_Comedia.png" group-title="Mexico",MX: Distrito Comedia HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/178028.ts
+#EXTINF:-1 tvg-id="unicable.mx" tvg-name="MX: Unicable Full HD" tvg-logo="http://swedtv.vip/logos/Mexico/Unicable.png" group-title="Mexico",MX: Unicable Full HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24066.ts
+#EXTINF:-1 tvg-id="5nacional.mx" tvg-name="MX: Canal 5 Full HD" tvg-logo="http://swedtv.net:8080/TitanMaster(19)@19/s4pGJABXNayr/24037" group-title="Mexico",MX: Canal 5 Full HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24037.ts
