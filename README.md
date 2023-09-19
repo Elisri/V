@@ -13,7 +13,7 @@ http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/250588.ts
 http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/178028.ts
 #EXTINF:-1 tvg-id="unicable.mx" tvg-name="MX: Unicable Full HD" tvg-logo="http://swedtv.vip/logos/mexico FHD/Unicable.png" group-title="mexicoFHD",MX: Unicable Full HD
 http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24066.ts
-#EXTINF:-1 tvg-id="5nacional.mx" tvg-name="MX: Canal 5 Full HD" tvg-logo="http://swedtv.net:8080/TitanMaster(19)@19/s4pGJABXNayr/24037" group-title="mexicoFHD",MX: Canal 5 Full HD
+#EXTINF:-1 tvg-id="5nacional.mx" tvg-name="MX: Canal 5 Full HD" tvg-logo="http://swedtv.net:8080/TitanMaster(19)@19/s4pGJABXNayr/24037" group-title="fhd",MX: Canal 5 Full HD
 http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24037.ts
 #EXTINF:-1 tvg-id="EL: UNIMAS WEST" tvg-name="LAT: Unimas oesteHD" tvg-logo="https://www.watchnextgentv.com/wp-content/uploads/2020/10/wng-markets-dallas-KSTR.png" group-title="LAT - Entretenimiento USA",LAT: Unimas West HD
 http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26903.ts
