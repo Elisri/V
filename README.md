@@ -37,7 +37,7 @@ http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/178028.ts
 http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24066.ts
 #EXTINF:-1 tvg-id="5nacional.mx" tvg-name="MX: Canal 5 Full HD" tvg-logo="http://swedtv.net:8080/TitanMaster(19)@19/s4pGJABXNayr/24037" group-title="Mexico",MX: Canal 5 Full HD
 http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24037.ts
-https:/#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV HD (MX)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BXCkcbidQhfffzInLUnNGsd.png" group-title="Infantiles",Baby TV HD (MX)
+#EXTINF:-1 tvg-id="BabyTv" tvg-name="Baby TV HD (MX)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BXCkcbidQhfffzInLUnNGsd.png" group-title="Infantiles",Baby TV HD (MX)
 http://hidra.live:80/kamuujtc/RUBmat123/312755.ts
 #EXTINF:-1 tvg-id="Canal BabyFirst TV" tvg-name="Baby First HD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/babyfirst.png" group-title="Infantiles",Baby First HD (MX)
 http://hidra.live:80/kamuujtc/RUBmat123/34792.ts
