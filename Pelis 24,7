@@ -37,6 +37,7 @@ http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26903.ts
 #EXTINF:-1 tvg-id="UniMas.us" tvg-name="LAT: Unimas Este (fl)" tvg-logo="https://www.watchnextgentv.com/wp-content/uploads/2020/10/wng-markets-dallas-KSTR.png" group-title="LAT - Entretenimiento USA",LAT: Unimas East
 http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/31124.ts
 #EXTINF:-1 tvg-id="megatv.us" tvg-name="LAT: Mega TV Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Mega_TV_logo_2016.svg/2560px-Mega_TV_logo_2016.svg.png" group-title="LAT - Entretenimiento USA",LAT: Mega TV Miami
+#EXTVLCOPT:network-caching=1000
 http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/309393.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 VIP Cinema Accion Classics FHD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="vip cinema",24/7 VIP Cinema Accion Classics FHD
 http://hidra.live:80/fmfukngo/Z395trjb2A/50572.ts
