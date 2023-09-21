@@ -1,9 +1,2269 @@
-si#EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-#EXTVLCOPT:network-caching=1000
-#EXTINF:-1 tvg-id="distritocomedia.mx" tvg-name="MX: Distrito Comedia HD" tvg-logo="http://swedtv.vip/logos/Mexico/Distrito_Comedia.png" group-title="LAT - Mexico",MX: Distrito Comedia
-#EXTVLCOPT:network-caching=11
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/178028.ts
-#EXTINF:-1 tvg-id="telemundowrdq.us" tvg-name="LAT: Telemundo Orlando Florida" tvg-logo="https://download.logo.wine/logo/Telemundo/Telemundo-Logo.wine.png" group-title="LAT - Entretenimiento USA",LAT: Telemundo Orlando Florida
-#EXTVLCOPT:network-caching=11
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/119999.ts
+#EXTM3U
+#EXTINF:-1,24/7 : 12 CORAZONES
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/339651.ts
+#EXTINF:-1,24/7 : ADUANA 24/7 PANAMA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/117310.ts
+#EXTINF:-1,24/7 : ALERTA AEROPUERTO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/65615.ts
+#EXTINF:-1,24/7 : ALERTA MAXIMA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/65616.ts
+#EXTINF:-1,24/7 : AVATAR LA LEYENDA DE AANG
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/87443.ts
+#EXTINF:-1,24/7 : CANTINFLA 1
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/273153.ts
+#EXTINF:-1,24/7 : CAPITAN TSUBSA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/87405.ts
+#EXTINF:-1,24/7 : CASO CERRADO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/294647.ts
+#EXTINF:-1,24/7 : COYOTE & CORRE CAMINO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/85872.ts
+#EXTINF:-1,24/7 : DAVE EL BARBARO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/87418.ts
+#EXTINF:-1,24/7 : DEATH NOTE
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/65618.ts
+#EXTINF:-1,24/7 : DEMON SLAYER
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/292947.ts
+#EXTINF:-1,24/7 : DETECTIVE CONAN
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/337213.ts
+#EXTINF:-1,24/7 : DIGIMON
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/65619.ts
+#EXTINF:-1,24/7 : DRAGON BALL
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/65620.ts
+#EXTINF:-1,24/7 : DRAGON BALL GT
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/65621.ts
+#EXTINF:-1,24/7 : DRAGON BALL SUPER
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/117799.ts
+#EXTINF:-1,24/7 : EL CHAPULIN COLORADO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/87396.ts
+#EXTINF:-1,24/7 : EL CHAVO DEL OCHO 1
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/87395.ts
+#EXTINF:-1,24/7 : EL CHAVO DEL OCHO 2
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/94963.ts
+#EXTINF:-1,24/7 : EL COYOTE & EL CORRECAMINO 2
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/87390.ts
+#EXTINF:-1,24/7 : EL PRINICIPE DEL RAP
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/87432.ts
+#EXTINF:-1,24/7 : EL SHOW DEL BIG SHOW
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/65622.ts
+#EXTINF:-1,24/7 : EL ZORRO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/87422.ts
+#EXTINF:-1,24/7 : FERNANDO EL FUNCIONARIO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/65624.ts
+#EXTINF:-1,24/7 : FULLMETAL ALCHEMIST
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/65625.ts
+#EXTINF:-1,24/7 : FUTURAMA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/87397.ts
+#EXTINF:-1,24/7 : HAJIME NO IPPO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/337214.ts
+#EXTINF:-1,24/7 : HE-MAN
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/87398.ts
+#EXTINF:-1,24/7 : HEIDI
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/65627.ts
+#EXTINF:-1,24/7 : HOMBRE DE NEGRO ANIMADO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/87413.ts
+#EXTINF:-1,24/7 : ICARLY
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/339840.ts
+#EXTINF:-1,24/7 : INUYASHA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/87451.ts
+#EXTINF:-1,24/7 : JUEGOS DE TRONOS
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/284161.ts
+#EXTINF:-1,24/7 : KUNG FU PANDA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/65630.ts
+#EXTINF:-1,24/7 : LA BIBLIA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/65631.ts
+#EXTINF:-1,24/7 : LA CAPITAL DEL HUMOR
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/117282.ts
+#EXTINF:-1,24/7 : LA LIGA DE LA JUSTICIA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/87455.ts
+#EXTINF:-1,24/7 : LA PATRULLA CANINA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/65632.ts
+#EXTINF:-1,24/7 : LA PEQUEÑA LULU
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/87458.ts
+#EXTINF:-1,24/7 : LA TREMENDA CORTE
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139413.ts
+#EXTINF:-1,24/7 : LOS CABALLERO DEL ZODIACO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/87388.ts
+#EXTINF:-1,24/7 : LOS SIMPSONS 1
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/115359.ts
+#EXTINF:-1,24/7 : LOS SIMPSONS 2
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/117797.ts
+#EXTINF:-1,24/7 : MALCOLM
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/65638.ts
+#EXTINF:-1,24/7 : MASTER CHEF (CELEBRITY)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/132482.ts
+#EXTINF:-1,24/7 : MASTER CHEF T1
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/132481.ts
+#EXTINF:-1,24/7 : MI BELLA GENIO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/65641.ts
+#EXTINF:-1,24/7 : NARUTO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/87400.ts
+#EXTINF:-1,24/7 : NARUTO SHIPPUDEN
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/273152.ts
+#EXTINF:-1,24/7 : PEÑALBA EL ALBAÑIL
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/65642.ts
+#EXTINF:-1,24/7 : PINKY Y CEREBRO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/87402.ts
+#EXTINF:-1,24/7 : POKEMON
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/87403.ts
+#EXTINF:-1,24/7 : RICK AND MORTY
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/292946.ts
+#EXTINF:-1,24/7 : SAKURA CAZADORA DE CARTAS
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/87457.ts
+#EXTINF:-1,24/7 : SAMURAI X
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/290694.ts
+#EXTINF:-1,24/7 : SOUTH PARK 1 
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/114058.ts
+#EXTINF:-1,24/7 : SUPERVIVENCIA AL DESNUDO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/339678.ts
+#EXTINF:-1,24/7 : TOM & JERRY
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/87437.ts
+#EXTINF:-1,24/7 : THUNDERCATS (2011)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/85870.ts
+#EXTINF:-1,ARG : AMERICA TV FHD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/52536.ts
+#EXTINF:-1,ARG : C5N HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/52535.ts
+#EXTINF:-1,ARG : CANAL 26 HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/52533.ts
+#EXTINF:-1,ARG : CINE AR HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/52498.ts
+#EXTINF:-1,ARG : CRONICA HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/52503.ts
+#EXTINF:-1,ARG : EL TRECE INT. HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/52506.ts
+#EXTINF:-1,ARG : GLITZ HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/52509.ts
+#EXTINF:-1,ARG : NUEVE 9
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/94132.ts
+#EXTINF:-1,ARG : TELEFE
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/52518.ts
+#EXTINF:-1,ARG : TN HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/52521.ts
+#EXTINF:-1,ARG : TV PUBLICA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/52522.ts
+#EXTINF:-1,BR : BAND NEWS
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/155267.ts
+#EXTINF:-1,BR : BAND SPORTS
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/101557.ts
+#EXTINF:-1,BR : CANAL BRASIL
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/101560.ts
+#EXTINF:-1,BR : CNN
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/159057.ts
+#EXTINF:-1,BR : COMBATE TV HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/101559.ts
+#EXTINF:-1,BR : DISCOVERY TURBO  HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/101562.ts
+#EXTINF:-1,BR : ESPN
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/101563.ts
+#EXTINF:-1,BR : ESPN 4
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/101566.ts
+#EXTINF:-1,BR : FOX SPORTS 2
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/101565.ts
+#EXTINF:-1,BR : GLOBO HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/64689.ts
+#EXTINF:-1,BR : GLOBO HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/101567.ts
+#EXTINF:-1,BR : GLOBO MINAS
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/64690.ts
+#EXTINF:-1,BR : GLOBO NEWS
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/156900.ts
+#EXTINF:-1,BR : PREMIERE CLUBES
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/101589.ts
+#EXTINF:-1,BR : REDE PREMIUM TV HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/101570.ts
+#EXTINF:-1,BR : SPORTV 1 HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/101571.ts
+#EXTINF:-1,BR : SPORTV 3
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/101573.ts
+#EXTINF:-1,BR : TELECINE ACTION HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/101582.ts
+#EXTINF:-1,CA : CMT
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139161.ts
+#EXTINF:-1,CA : MAVTV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/118667.ts
+#EXTINF:-1,CA: CBC TORONTO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/288424.ts
+#EXTINF:-1,CA: TSN 1
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139125.ts
+#EXTINF:-1,CH : 24 HORAS
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/66646.ts
+#EXTINF:-1,CH : CANAL 13
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/66647.ts
+#EXTINF:-1,CH : CDO BASICO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/66639.ts
+#EXTINF:-1,CH : CDO PREMIUM
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/66648.ts
+#EXTINF:-1,CH : CHILEVISION
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/66633.ts
+#EXTINF:-1,CH : CHILEVISION
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/106438.ts
+#EXTINF:-1,CH : CNN CHILE
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/66634.ts
+#EXTINF:-1,CH : ESPN
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/66642.ts
+#EXTINF:-1,CH : ETC TV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/66640.ts
+#EXTINF:-1,CH : LA RED HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/66635.ts
+#EXTINF:-1,CH : MEGA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/66636.ts
+#EXTINF:-1,CH : MEGA OPCION  2
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/326862.ts
+#EXTINF:-1,CH : TELETRACK
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/66637.ts
+#EXTINF:-1,CH : TV Chile
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/66641.ts
+#EXTINF:-1,CH : TVN HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/66638.ts
+#EXTINF:-1,CINE ACCION
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/87461.ts
+#EXTINF:-1,CINE ACCION SAGA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/338203.ts
+#EXTINF:-1,CINE MARVEL *
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/87465.ts
+#EXTINF:-1,CINE SAGA MAGIA*
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/332004.ts
+#EXTINF:-1,CO : CABLENOTICIAS
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/166708.ts
+#EXTINF:-1,CO : CANAL CAPITAL
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/107506.ts
+#EXTINF:-1,CO : CANAL INSTITUCIONAL
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/166703.ts
+#EXTINF:-1,CO : CARACOL 
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/203108.ts
+#EXTINF:-1,CO : CARACOL FHD (OPC1)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/94119.ts
+#EXTINF:-1,CO : CARACOL INTERNACIONAL 2
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/85250.ts
+#EXTINF:-1,CO : CARACOL OPCION 2
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/107504.ts
+#EXTINF:-1,CO : CITY TV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/166710.ts
+#EXTINF:-1,CO : LA KALLE
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/146935.ts
+#EXTINF:-1,CO : PASIONES
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/107056.ts
+#EXTINF:-1,CO : RCN
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/166705.ts
+#EXTINF:-1,CO : RCN  HD2
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/103985.ts
+#EXTINF:-1,CO : RCN NUESTRA TELE
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/82948.ts
+#EXTINF:-1,CO : RCN opcion 2
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/166706.ts
+#EXTINF:-1,CO : SENAL COLOMBIA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/166704.ts
+#EXTINF:-1,CO : TELECAFE
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/166702.ts
+#EXTINF:-1,CO : TELECARIBE SD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/48231.ts
+#EXTINF:-1,CO : TELEMEDELLIN
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/89017.ts
+#EXTINF:-1,CO : TELEPACIFICO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/88981.ts
+#EXTINF:-1,CR : ANEXION TV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/104006.ts
+#EXTINF:-1,CR : EXTREMA TV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/103997.ts
+#EXTINF:-1,CR : FUTV GRITALO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/103989.ts
+#EXTINF:-1,CR : MULTIMEDIOS
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/103994.ts
+#EXTINF:-1,CR : REPRETEL 11
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/103999.ts
+#EXTINF:-1,CR : REPRETEL 4
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/104000.ts
+#EXTINF:-1,CR : REPRETEL 6
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/104001.ts
+#EXTINF:-1,CR : TD+
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/103998.ts
+#EXTINF:-1,CR : TD+ 2
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/251519.ts
+#EXTINF:-1,CR : TELE SISTEMA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/103993.ts
+#EXTINF:-1,CR : TELESUR
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/103995.ts
+#EXTINF:-1,CR : TELETICA 7
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/104002.ts
+#EXTINF:-1,CR : TIGO SPORTS (CR)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/102735.ts
+#EXTINF:-1,CUB : CUBAVISION
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/87135.ts
+#EXTINF:-1,CUB : CUBAVISION INTERNACIONAL 
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/87134.ts
+#EXTINF:-1,CUB : MULTIVISION
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/87133.ts
+#EXTINF:-1,CUB : TELE REBELDE
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/87136.ts
+#EXTINF:-1,DIRECTO : TELEMUNDO 51 MIAMI (E)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/169438.ts
+#EXTINF:-1,DIRECTO : TELEMUNDO INTERNACIONAL
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/166569.ts
+#EXTINF:-1,DIRECTO : UNIVISION MIAMI HD (E)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/169439.ts
+#EXTINF:-1,DIRECTO : UNIMAS MIAMI (E)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/169442.ts
+#EXTINF:-1,DIRECTO : AMERICA TEVE MIAMI
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/169441.ts
+#EXTINF:-1,DIRECTO : MEGA TV MIAMI
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/169440.ts
+#EXTINF:-1,DIRECTO : A&E
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/118599.ts
+#EXTINF:-1,DIRECTO : A&E FHD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/121613.ts
+#EXTINF:-1,DIRECTO : A&E HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/324622.ts
+#EXTINF:-1,DIRECTO : ADRENALINA SPORTS NETWORK
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/48974.ts
+#EXTINF:-1,DIRECTO : AFIZZIONADOS HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/48976.ts
+#EXTINF:-1,DIRECTO : AMC
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/260518.ts
+#EXTINF:-1,DIRECTO : AMC HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/324326.ts
+#EXTINF:-1,DIRECTO : ANIMAL PLANET HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/323866.ts
+#EXTINF:-1,DIRECTO : AXN HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/324319.ts
+#EXTINF:-1,DIRECTO : AXN opcion 1
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/147173.ts
+#EXTINF:-1,DIRECTO : AXN opcion 2
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/263938.ts
+#EXTINF:-1,DIRECTO : AZ CINEMA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/154909.ts
+#EXTINF:-1,DIRECTO : BABY FIRST
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/312541.ts
+#EXTINF:-1,DIRECTO : BABY TV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/166502.ts
+#EXTINF:-1,DIRECTO : BEIN SPORTS ES
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/94112.ts
+#EXTINF:-1,DIRECTO : BEIN SPORTS N
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/48958.ts
+#EXTINF:-1,DIRECTO : BEIN SPORTS N opcion 2
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/91803.ts
+#EXTINF:-1,DIRECTO : BOING
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/136181.ts
+#EXTINF:-1,DIRECTO : CABLEONDA SPORTS FC HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/49050.ts
+#EXTINF:-1,DIRECTO : CABLEONDA SPORTS HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/49051.ts
+#EXTINF:-1,DIRECTO : CARTOON NETWORK
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/166508.ts
+#EXTINF:-1,DIRECTO : CARTOON NETWORK HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/323869.ts
+#EXTINF:-1,DIRECTO : CARTOONITO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/141634.ts
+#EXTINF:-1,DIRECTO : CARTOONITO HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/323873.ts
+#EXTINF:-1,DIRECTO : CDN DEPORTES
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/90161.ts
+#EXTINF:-1,DIRECTO : CINE LATINO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/276217.ts
+#EXTINF:-1,DIRECTO : CINECANAL (COL)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/124042.ts
+#EXTINF:-1,DIRECTO : CINEMAX HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/324325.ts
+#EXTINF:-1,DIRECTO : CINEMAX SD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/121614.ts
+#EXTINF:-1,DIRECTO : CLARO SPORTS FHD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/82454.ts
+#EXTINF:-1,DIRECTO : CLARO SPORTS HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/49024.ts
+#EXTINF:-1,DIRECTO : COMEDY CENTRAL
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/169604.ts
+#EXTINF:-1,DIRECTO : DAZN 1 (ESP)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/123036.ts
+#EXTINF:-1,DIRECTO : DAZN 2
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/102979.ts
+#EXTINF:-1,DIRECTO : DAZN 3 (EVENTOS)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/282800.ts
+#EXTINF:-1,DIRECTO : DAZN 4 (EVENTOS)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/282801.ts
+#EXTINF:-1,DIRECTO : DAZN F1
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/144608.ts
+#EXTINF:-1,DIRECTO : DE PELICULA CLASICO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/113718.ts
+#EXTINF:-1,DIRECTO : DE PELICULA PLUS
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/113717.ts
+#EXTINF:-1,DIRECTO : DEPORTV (ARG)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/52504.ts
+#EXTINF:-1,DIRECTO : DHE
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/324327.ts
+#EXTINF:-1,DIRECTO : DHE FHD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/121620.ts
+#EXTINF:-1,DIRECTO : DHE HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/63766.ts
+#EXTINF:-1,DIRECTO : DIRECTV SPORT
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/66631.ts
+#EXTINF:-1,DIRECTO : DIRECTV SPORTS 1 HD (ECU)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/49032.ts
+#EXTINF:-1,DIRECTO : DIRECTV SPORTS 2 HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/49018.ts
+#EXTINF:-1,DIRECTO : DIRECTV SPORTS PLUS
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/78750.ts
+#EXTINF:-1,DIRECTO : DIRECTV SPORTS PLUS HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/113713.ts
+#EXTINF:-1,DIRECTO : DISCOVERY CHANNEL
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/85726.ts
+#EXTINF:-1,DIRECTO : DISCOVERY FAMILIA 
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/121707.ts
+#EXTINF:-1,DIRECTO : DISCOVERY FAMILIA HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/121708.ts
+#EXTINF:-1,DIRECTO : DISCOVERY H&H 1 HD 
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/85731.ts
+#EXTINF:-1,DIRECTO : DISCOVERY H&H 2 HD 
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/330979.ts
+#EXTINF:-1,DIRECTO : DISCOVERY H&H opcion 2
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/166510.ts
+#EXTINF:-1,DIRECTO : DISCOVERY KIDS FHD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/146513.ts
+#EXTINF:-1,DIRECTO : DISCOVERY KIDS HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/323863.ts
+#EXTINF:-1,DIRECTO : DISCOVERY SCIENCE HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/87101.ts
+#EXTINF:-1,DIRECTO : DISCOVERY SCIENCE opcion 2
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/166511.ts
+#EXTINF:-1,DIRECTO : DISCOVERY THEATER
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/133289.ts
+#EXTINF:-1,DIRECTO : DISCOVERY THEATER HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/323859.ts
+#EXTINF:-1,DIRECTO : DISCOVERY THEATER SD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139416.ts
+#EXTINF:-1,DIRECTO : DISCOVERY TLC
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/129169.ts
+#EXTINF:-1,DIRECTO : DISCOVERY TURBO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/166500.ts
+#EXTINF:-1,DIRECTO : DISCOVERY TURBO opcion 2
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/166501.ts
+#EXTINF:-1,DIRECTO : DISCOVERY TURBO SD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/189922.ts
+#EXTINF:-1,DIRECTO : DISCOVERY WORLD HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/323861.ts
+#EXTINF:-1,DIRECTO : DISCOVERY WORLD SD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/169819.ts
+#EXTINF:-1,DIRECTO : DISNEY CHANNEL
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/166504.ts
+#EXTINF:-1,DIRECTO : DISNEY JR
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/166503.ts
+#EXTINF:-1,DIRECTO : DISTRITO COMEDIA HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/85773.ts
+#EXTINF:-1,DIRECTO : DW ESPAÑOL
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139412.ts
+#EXTINF:-1,DIRECTO : E ENTERTAINMENT TELEVISION
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/50966.ts
+#EXTINF:-1,DIRECTO : EL GOURMET HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/53690.ts
+#EXTINF:-1,DIRECTO : ELEVEN 1
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/113711.ts
+#EXTINF:-1,DIRECTO : ELEVEN 2
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/113712.ts
+#EXTINF:-1,DIRECTO : ESPN 1 (COL)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/82236.ts
+#EXTINF:-1,DIRECTO : ESPN 1 (MX) 
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/48983.ts
+#EXTINF:-1,DIRECTO : ESPN 1 SUR
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/113714.ts
+#EXTINF:-1,DIRECTO : ESPN 2 (COL)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/88002.ts
+#EXTINF:-1,DIRECTO : ESPN 2 (MX)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/82220.ts
+#EXTINF:-1,DIRECTO : ESPN 2 SUR
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/48967.ts
+#EXTINF:-1,DIRECTO : ESPN 3 (COL)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/102612.ts
+#EXTINF:-1,DIRECTO : ESPN 3 (MX)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/48987.ts
+#EXTINF:-1,DIRECTO : ESPN 3 SUR
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/49007.ts
+#EXTINF:-1,DIRECTO : ESPN 4
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/137845.ts
+#EXTINF:-1,DIRECTO : ESPN 4 opcion 2
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/49000.ts
+#EXTINF:-1,DIRECTO : ESPN DEPORTES 
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/78749.ts
+#EXTINF:-1,DIRECTO : ESPN DEPORTES HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/94154.ts
+#EXTINF:-1,DIRECTO : ESPN EXTRA FHD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/48990.ts
+#EXTINF:-1,DIRECTO : ESPN EXTRA HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/48989.ts
+#EXTINF:-1,DIRECTO : ESPN PREMIUM
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/165275.ts
+#EXTINF:-1,DIRECTO : ESTRELLA TV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/92436.ts
+#EXTINF:-1,DIRECTO : EUROPA EUROPA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/121621.ts
+#EXTINF:-1,DIRECTO : EUROSPORT 2  (opcion 2)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/156546.ts
+#EXTINF:-1,DIRECTO : EUROSPORTS 1
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139409.ts
+#EXTINF:-1,DIRECTO : EUROSPORTS 1 opcion 2
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/159877.ts
+#EXTINF:-1,DIRECTO : FILM & ART 
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/121704.ts
+#EXTINF:-1,DIRECTO : FOOD NETWORK
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/49283.ts
+#EXTINF:-1,DIRECTO : FOX DEPORTES
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/92437.ts
+#EXTINF:-1,DIRECTO : FOX SPORTS 1  (SUR)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/85775.ts
+#EXTINF:-1,DIRECTO : FOX SPORTS 1 HD (SUR)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/48959.ts
+#EXTINF:-1,DIRECTO : FOX SPORTS 2 (SUR)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/82237.ts
+#EXTINF:-1,DIRECTO : FOX SPORTS 2 FHD (MX)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/48980.ts
+#EXTINF:-1,DIRECTO : FOX SPORTS 2 HD (MX)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/48961.ts
+#EXTINF:-1,DIRECTO : FOX SPORTS 2 HD (SUR)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/66643.ts
+#EXTINF:-1,DIRECTO : FOX SPORTS 3 FHD (SUR)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/82238.ts
+#EXTINF:-1,DIRECTO : FOX SPORTS 3 HD (ECU)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/324630.ts
+#EXTINF:-1,DIRECTO : FOX SPORTS 3 HD (MX)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/49002.ts
+#EXTINF:-1,DIRECTO : FOX SPORTS 3 HD (SUR)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/48963.ts
+#EXTINF:-1,DIRECTO : FOX SPORTS PREMIUM
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/164581.ts
+#EXTINF:-1,DIRECTO : FOX SPORTS PREMIUM HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/48998.ts
+#EXTINF:-1,DIRECTO : FUTV HD (CR)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/49044.ts
+#EXTINF:-1,DIRECTO : FX FHD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/121617.ts
+#EXTINF:-1,DIRECTO : FX HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/324317.ts
+#EXTINF:-1,DIRECTO : FXM SD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/121616.ts
+#EXTINF:-1,DIRECTO : GALAVISION
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/169818.ts
+#EXTINF:-1,DIRECTO : GLITZ
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/53691.ts
+#EXTINF:-1,DIRECTO : GOL PERU HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/49036.ts
+#EXTINF:-1,DIRECTO : GOL TV  HD (ESP)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/82239.ts
+#EXTINF:-1,DIRECTO : GOL TV (ECU)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/66618.ts
+#EXTINF:-1,DIRECTO : GOL TV HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/49029.ts
+#EXTINF:-1,DIRECTO : GOLDEN EDGE FHD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/46882.ts
+#EXTINF:-1,DIRECTO : GOLDEN FHD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/46883.ts
+#EXTINF:-1,DIRECTO : GOLDEN HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/46884.ts
+#EXTINF:-1,DIRECTO : GOLDEN PLUS FHD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/46885.ts
+#EXTINF:-1,DIRECTO : GOLF LATINOAMERICA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/82834.ts
+#EXTINF:-1,DIRECTO : HBO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139414.ts
+#EXTINF:-1,DIRECTO : HBO 2 HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/121627.ts
+#EXTINF:-1,DIRECTO : HBO FAMILY HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/121630.ts
+#EXTINF:-1,DIRECTO : HBO MUNDI HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/121633.ts
+#EXTINF:-1,DIRECTO : HBO PLUS 1
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/46886.ts
+#EXTINF:-1,DIRECTO : HBO POP HD 
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/121638.ts
+#EXTINF:-1,DIRECTO : HBO PLUS 2
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/121629.ts
+#EXTINF:-1,DIRECTO : HBO SIGNATURE HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/324619.ts
+#EXTINF:-1,DIRECTO : HBO XTREME
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/121640.ts
+#EXTINF:-1,DIRECTO : HBO XTREME HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/121639.ts
+#EXTINF:-1,DIRECTO : HGTV LATINO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/121705.ts
+#EXTINF:-1,DIRECTO : HISTORY 2
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/166489.ts
+#EXTINF:-1,DIRECTO : HISTORY HD (COL)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/167564.ts
+#EXTINF:-1,DIRECTO : HISTORY HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139417.ts
+#EXTINF:-1,DIRECTO : INVESTIGATION DISCOVERY
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/144724.ts
+#EXTINF:-1,DIRECTO : INVESTIGATION DISCOVERY HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/324316.ts
+#EXTINF:-1,DIRECTO : INVESTIGATION DISCOVERY opcion 2
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/78748.ts
+#EXTINF:-1,DIRECTO : LA LIGA TV BAR 
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/90162.ts
+#EXTINF:-1,DIRECTO : LIFETIME
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/187271.ts
+#EXTINF:-1,DIRECTO : LOVE NATURE HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139411.ts
+#EXTINF:-1,DIRECTO : MORBIDO TV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/94146.ts
+#EXTINF:-1,DIRECTO : MOVISTAR DEPORTES
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/49035.ts
+#EXTINF:-1,DIRECTO : MOVISTAR DEPORTES HD (ESP)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/82815.ts
+#EXTINF:-1,DIRECTO : MOVISTAR FORMULA 1
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/82816.ts
+#EXTINF:-1,DIRECTO : MOVISTAR FORMULA 1 opcion 2
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/324513.ts
+#EXTINF:-1,DIRECTO : MOVISTAR GOLF 
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/82833.ts
+#EXTINF:-1,DIRECTO : MOVISTAR LA LIGA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/87713.ts
+#EXTINF:-1,DIRECTO : MOVISTAR LA LIGA 2 (SOLO EVENTOS)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/151556.ts
+#EXTINF:-1,DIRECTO : MOVISTAR LA LIGA 4 FHD 
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/82817.ts
+#EXTINF:-1,DIRECTO : MTV MX
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/49285.ts
+#EXTINF:-1,DIRECTO : NAT GEO MUNDO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/85320.ts
+#EXTINF:-1,DIRECTO : NAT GEO MUNDO HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/94138.ts
+#EXTINF:-1,DIRECTO : NAT GEO WILD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/129773.ts
+#EXTINF:-1,DIRECTO : NAT GEO WILD FHD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/129772.ts
+#EXTINF:-1,DIRECTO : NATIONAL GEOGRAPHIC SD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139410.ts
+#EXTINF:-1,DIRECTO : NICK HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/166507.ts
+#EXTINF:-1,DIRECTO : NICK JR
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/113783.ts
+#EXTINF:-1,DIRECTO : NICK JR HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/323865.ts
+#EXTINF:-1,DIRECTO : NICKMUSIC
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/166506.ts
+#EXTINF:-1,DIRECTO : PANDA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/181228.ts
+#EXTINF:-1,DIRECTO : PARAMOUNT NETWORK
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/121641.ts
+#EXTINF:-1,DIRECTO : PARAMOUNT NETWORK HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/121642.ts
+#EXTINF:-1,DIRECTO : PARAMOUNT NETWORK SD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/121643.ts
+#EXTINF:-1,DIRECTO : SKY 21
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/126328.ts
+#EXTINF:-1,DIRECTO : SKY FORMULA 1
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/138112.ts
+#EXTINF:-1,DIRECTO : SKY SPORTS ACTION HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/126330.ts
+#EXTINF:-1,DIRECTO : SONY FHD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/121645.ts
+#EXTINF:-1,DIRECTO : SONY CINE HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/46890.ts
+#EXTINF:-1,DIRECTO : SONY HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/121644.ts
+#EXTINF:-1,DIRECTO : SPACE 2
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/121647.ts
+#EXTINF:-1,DIRECTO : SPACE FHD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/121649.ts
+#EXTINF:-1,DIRECTO : SPACE HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/121650.ts
+#EXTINF:-1,DIRECTO : STAR CHANNEL
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/324314.ts
+#EXTINF:-1,DIRECTO : STAR CHANNEL 2
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/121675.ts
+#EXTINF:-1,DIRECTO : STAR CHANNEL FHD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/110647.ts
+#EXTINF:-1,DIRECTO : STAR CHANNEL HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/110646.ts
+#EXTINF:-1,DIRECTO : STUDIO UNIVERSAL
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/121688.ts
+#EXTINF:-1,DIRECTO : STUDIO UNIVERSAL HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/121689.ts
+#EXTINF:-1,DIRECTO : SUPER TENNIS HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/94416.ts
+#EXTINF:-1,DIRECTO : SYFY FHD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/121693.ts
+#EXTINF:-1,DIRECTO : SYFY HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/121691.ts
+#EXTINF:-1,DIRECTO : SYFY SD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/121692.ts
+#EXTINF:-1,DIRECTO : TASTE MADE EN ESPAÑOL
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/136180.ts
+#EXTINF:-1,USA : TBS
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/94116.ts
+#EXTINF:-1,DIRECTO : TBS HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/121706.ts
+#EXTINF:-1,DIRECTO : TCM
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/121694.ts
+#EXTINF:-1,DIRECTO : TCM CLASICOS
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/121696.ts
+#EXTINF:-1,DIRECTO : TCM SD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/121695.ts
+#EXTINF:-1,DIRECTO : TEENNICK
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/166505.ts
+#EXTINF:-1,DIRECTO : TIGO SPORTS  1 (BOL)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/87520.ts
+#EXTINF:-1,DIRECTO : TIGO SPORTS  HN
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/90027.ts
+#EXTINF:-1,DIRECTO : TIGO SPORTS (GUAT)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/322047.ts
+#EXTINF:-1,DIRECTO : TIGO SPORTS HD (PARAGUAY)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/82448.ts
+#EXTINF:-1,DIRECTO : TNT
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/121702.ts
+#EXTINF:-1,DIRECTO : TNT HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/324320.ts
+#EXTINF:-1,DIRECTO : TNT OPCION 2
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/121703.ts
+#EXTINF:-1,DIRECTO : TNT SERIES  (ARG)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/121698.ts
+#EXTINF:-1,DIRECTO : TNT SERIES SD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/324318.ts
+#EXTINF:-1,DIRECTO : TNT SERIES FHD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/121699.ts
+#EXTINF:-1,DIRECTO : TNT SERIES HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/121701.ts
+#EXTINF:-1,DIRECTO : TNT SERIES HD (ARG)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/121700.ts
+#EXTINF:-1,DIRECTO : TNT SPORTS ESTADIO (CHILE)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/146757.ts
+#EXTINF:-1,DIRECTO : TNT SPORTS HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/87964.ts
+#EXTINF:-1,DIRECTO : TNT SPORTS HD arg
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/48995.ts
+#EXTINF:-1,DIRECTO : TOONCAST
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/131731.ts
+#EXTINF:-1,DIRECTO : TUDN FHD (MX)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/48991.ts
+#EXTINF:-1,DIRECTO : TUDN HD (USA)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/48992.ts
+#EXTINF:-1,DIRECTO : TYC SPORTS HD (ARG)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/62588.ts
+#EXTINF:-1,DIRECTO : TYC SPORTS HD (ARG) opcion 2
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/328008.ts
+#EXTINF:-1,DIRECTO : TYC SPORTS INTERNACIONAL HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/48997.ts
+#EXTINF:-1,DIRECTO : UNICABLE
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/136179.ts
+#EXTINF:-1,DIRECTO : UNIVERSAL CINEMA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/324621.ts
+#EXTINF:-1,DIRECTO : UNIVERSAL COMEDY
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/137844.ts
+#EXTINF:-1,DIRECTO : UNIVERSAL CRIME HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/136174.ts
+#EXTINF:-1,DIRECTO : UNIVERSAL PREMIER
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/324620.ts
+#EXTINF:-1,DIRECTO : UNIVERSAL PREMIER HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/136175.ts
+#EXTINF:-1,DIRECTO : UNIVERSAL REALITY
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/137607.ts
+#EXTINF:-1,DIRECTO : UNIVERSAL TV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/121687.ts
+#EXTINF:-1,DIRECTO : UNIVERSAL TV HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/324321.ts
+#EXTINF:-1,DIRECTO : UNIVERSAL TV Opcion 2
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/136422.ts
+#EXTINF:-1,DIRECTO : WARNER HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/324315.ts
+#EXTINF:-1,DIRECTO : WARNER SD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/123391.ts
+#EXTINF:-1,DIRECTO : WIN SPORTS FHD 
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/49021.ts
+#EXTINF:-1,DIRECTO : WIN SPORTS HD (3)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/121795.ts
+#EXTINF:-1,DIRECTO : WIN SPORTS HD (OPC 2)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/91442.ts
+#EXTINF:-1,DIRECTO : WIN SPORTS PLUS HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/107505.ts
+#EXTINF:-1,DIRECTO : WIN SPORTS PLUS HD2
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/91444.ts
+#EXTINF:-1,DIRECTO: PASIONES HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/329747.ts
+#EXTINF:-1,EC : ECUAVISA  HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/66619.ts
+#EXTINF:-1,EC : GAMAVISION
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/66627.ts
+#EXTINF:-1,EC : OROMAR TV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/66625.ts
+#EXTINF:-1,EC : TC TELEVISION HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/66620.ts
+#EXTINF:-1,EC : TELEAMAZONAS
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/66626.ts
+#EXTINF:-1,EC : TVC TELEVICENTRO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/66621.ts
+#EXTINF:-1,ESA : CANAL  21*
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/122639.ts
+#EXTINF:-1,ESA : CANAL 10
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/154998.ts
+#EXTINF:-1,ESA : CANAL 12
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/68346.ts
+#EXTINF:-1,ESA : CANAL 12*
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/124976.ts
+#EXTINF:-1,ESA : CANAL 19
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/68347.ts
+#EXTINF:-1,ESA : CANAL 19*
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/122638.ts
+#EXTINF:-1,ESA : CANAL 2
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/68348.ts
+#EXTINF:-1,ESA : CANAL 2*
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/122635.ts
+#EXTINF:-1,ESA : CANAL 2**
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/154997.ts
+#EXTINF:-1,ESA : CANAL 21
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/122633.ts
+#EXTINF:-1,ESA : CANAL 23
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/122645.ts
+#EXTINF:-1,ESA : CANAL 25
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/122642.ts
+#EXTINF:-1,ESA : CANAL 4 HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/68349.ts
+#EXTINF:-1,ESA : CANAL 4*
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/122636.ts
+#EXTINF:-1,ESA : CANAL 6
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/68350.ts
+#EXTINF:-1,ESA : CANAL 6*
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/124977.ts
+#EXTINF:-1,ESA : EL CAMINO TV CANAL 29
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/122644.ts
+#EXTINF:-1,ESA : TABER TV CANAL 17
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/122643.ts
+#EXTINF:-1,ESA : TELEVISION LESGILATIVA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/167320.ts
+#EXTINF:-1,ESA : TIGO SPORTS  HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/169602.ts
+#EXTINF:-1,ESA : WOW TV*
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/124979.ts
+#EXTINF:-1,España : #VAMOS 
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/129227.ts
+#EXTINF:-1,España : 24H HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139264.ts
+#EXTINF:-1,España : ANTENA 3
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139265.ts
+#EXTINF:-1,España : AXN
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/129354.ts
+#EXTINF:-1,España : BE MAD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/63193.ts
+#EXTINF:-1,ESPAÑA : CALLE 13
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/129355.ts
+#EXTINF:-1,ESPAÑA : CANAL COCINA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/129356.ts
+#EXTINF:-1,España : DISCOVERY CHANNEL
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/333552.ts
+#EXTINF:-1,España : DISNEY CHANNEL HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139266.ts
+#EXTINF:-1,España : DKISS
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/63196.ts
+#EXTINF:-1,España : DMAX HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139268.ts
+#EXTINF:-1,España : FDF
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139269.ts
+#EXTINF:-1,España : FOX 
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139270.ts
+#EXTINF:-1,España : HISTORIA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139272.ts
+#EXTINF:-1,ESPAÑA : HOLA TV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/120690.ts
+#EXTINF:-1,España : HOLLYWOOD HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139273.ts
+#EXTINF:-1,España : La 1 HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139274.ts
+#EXTINF:-1,España : LA SEXTA HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139276.ts
+#EXTINF:-1,España : MEGA HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139277.ts
+#EXTINF:-1,España : MEGA HD 2
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139278.ts
+#EXTINF:-1,España : MEGA opcion 2
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/82835.ts
+#EXTINF:-1,España : MOVISTAR ACCION
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139279.ts
+#EXTINF:-1,España : MOVISTAR COMEDIA FHD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139280.ts
+#EXTINF:-1,España : MOVISTAR DCINE HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139281.ts
+#EXTINF:-1,España : MOVISTAR DRAMA HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139283.ts
+#EXTINF:-1,España : MOVISTAR ESTRENOS HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139284.ts
+#EXTINF:-1,España : MOVISTAR SERIES FHD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139285.ts
+#EXTINF:-1,España : MOVISTAR SERIES HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139286.ts
+#EXTINF:-1,España : NAT GEO WILD HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139287.ts
+#EXTINF:-1,España : NATIONAL GEOGRAPHIC
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139288.ts
+#EXTINF:-1,España : NOVA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139290.ts
+#EXTINF:-1,España : ODISEA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139291.ts
+#EXTINF:-1,España : PARAMOUNT CHANNEL
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139292.ts
+#EXTINF:-1,España : REAL MADRID TV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139293.ts
+#EXTINF:-1,España : SYFY HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139294.ts
+#EXTINF:-1,España : TCM
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139295.ts
+#EXTINF:-1,España : TELECINCO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139296.ts
+#EXTINF:-1,ESPAÑA : TELECINCO OPCION 2
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/118598.ts
+#EXTINF:-1,España : TELEDEPORTE
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139297.ts
+#EXTINF:-1,España : TELEMADRID
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/99033.ts
+#EXTINF:-1,España : TNT
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139298.ts
+#EXTINF:-1,España : TOROS TV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/64577.ts
+#EXTINF:-1,España : TOROS TV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139299.ts
+#EXTINF:-1,España : TRECE SD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139300.ts
+#EXTINF:-1,España : TVE
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/85150.ts
+#EXTINF:-1,ESPAÑA: ATRESERIES
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/150029.ts
+#EXTINF:-1,ESPAÑA: CUATRO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/288403.ts
+#EXTINF:-1,GUA : CANAL 7
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/154698.ts
+#EXTINF:-1,GUA: CANAL 3
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/322045.ts
+#EXTINF:-1,GUA: GUATEVISION
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/322046.ts
+#EXTINF:-1,HN : CAMPUS TV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/90045.ts
+#EXTINF:-1,HN : CANAL 11
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/90037.ts
+#EXTINF:-1,HN : CANAL 5
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/90031.ts
+#EXTINF:-1,HN : CANAL 6
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/90032.ts
+#EXTINF:-1,HN : EBENEZER TV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/90043.ts
+#EXTINF:-1,HN : HCH
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/90033.ts
+#EXTINF:-1,HN : MAYA TV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/90038.ts
+#EXTINF:-1,HN : MEGA TV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/90030.ts
+#EXTINF:-1,HN : OLANCHITO TV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/90047.ts
+#EXTINF:-1,HN : Q'HUBO TV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/90039.ts
+#EXTINF:-1,HN : RSV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/90046.ts
+#EXTINF:-1,HN : TELECADENA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/90034.ts
+#EXTINF:-1,HN : TELECEIBA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/90040.ts
+#EXTINF:-1,HN : TELEPROGRESO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/90042.ts
+#EXTINF:-1,HN : TNH HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/90029.ts
+#EXTINF:-1,HN : TSI
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/90035.ts
+#EXTINF:-1,HN : UNE TV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/90044.ts
+#EXTINF:-1,HN : VICA TV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/90041.ts
+#EXTINF:-1,IT : RETE 4
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/61440.ts
+#EXTINF:-1,MUSICA : BANDAMAX
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/85298.ts
+#EXTINF:-1,MUSICA : LATIDO MUSIC
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/103458.ts
+#EXTINF:-1,MUSICA : MC MUSIC CHOICE
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/64575.ts
+#EXTINF:-1,MUSICA : TELE RITMO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/136176.ts
+#EXTINF:-1,MUSICA : TELEHIT HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/136178.ts
+#EXTINF:-1,MUSICA : TELEHIT MUSICA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/173810.ts
+#EXTINF:-1,MUSICA : TELEHIT PLUS
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/136177.ts
+#EXTINF:-1,MUSICA : VEVO REGGAETON & TRAP HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/103457.ts
+#EXTINF:-1,MUSICA : VH1 CLASSIC
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139259.ts
+#EXTINF:-1,MUSICA: VALLENATO INTERNACIONAL
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/288423.ts
+#EXTINF:-1,MX : AZ CLIC
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/52472.ts
+#EXTINF:-1,MX : AZ CORAZON
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/52473.ts
+#EXTINF:-1,MX : AZTECA 7
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/52474.ts
+#EXTINF:-1,MX : AZTECA UNO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/52476.ts
+#EXTINF:-1,MX : CANAL 5
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/91806.ts
+#EXTINF:-1,MX : CANAL DE LAS ESTRELLAS
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/52485.ts
+#EXTINF:-1,MX : CANAL ONCE
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/52478.ts
+#EXTINF:-1,MX : COMEDY CENTRAL
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/63840.ts
+#EXTINF:-1,MX : COMEDY CENTRAL 2
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/117829.ts
+#EXTINF:-1,MX : D PELICULA PLUS
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/52469.ts
+#EXTINF:-1,MX : DW
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/52471.ts
+#EXTINF:-1,MX : TELEFORMULA TV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/52479.ts
+#EXTINF:-1,MX : FOROTV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/52480.ts
+#EXTINF:-1,MX : IMAGEN TV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/52481.ts
+#EXTINF:-1,MX : INGENIO TV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/52482.ts
+#EXTINF:-1,MX : MAS CHIC
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/110651.ts
+#EXTINF:-1,MX : MEXIQUENSE TV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/52486.ts
+#EXTINF:-1,MX : MILENIO TV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/52487.ts
+#EXTINF:-1,MX : MULTIMEDIOS
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/52488.ts
+#EXTINF:-1,MX : MULTIPREMIER MX
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/115664.ts
+#EXTINF:-1,MX : NTN24
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/52489.ts
+#EXTINF:-1,MX : TELEVISA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/52491.ts
+#EXTINF:-1,MX : TVC
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/52492.ts
+#EXTINF:-1,MX: AZTECA CINEMA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/288425.ts
+#EXTINF:-1,MX: BITME
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/304621.ts
+#EXTINF:-1,NIC : CANAL 10
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/140238.ts
+#EXTINF:-1,NIC : CANAL 12
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/114894.ts
+#EXTINF:-1,NIC : CANAL 13 
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/71101.ts
+#EXTINF:-1,NIC : CANAL 4
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/126257.ts
+#EXTINF:-1,NIC : CANAL 6
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/165345.ts
+#EXTINF:-1,NOTICIA : BBC NEWS
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/288405.ts
+#EXTINF:-1,NOTICIAS : ADN40
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/103348.ts
+#EXTINF:-1,NOTICIAS : BLOOMBERG TV (USA)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/103351.ts
+#EXTINF:-1,NOTICIAS : CBS NEWS (USA)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/103356.ts
+#EXTINF:-1,NOTICIAS : CGTN ESPAÑOL (CHINA)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/103355.ts
+#EXTINF:-1,NOTICIAS : CNN (USA)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/103354.ts
+#EXTINF:-1,NOTICIAS : CNN EN ESPAÑOL
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/299987.ts
+#EXTINF:-1,NOTICIAS : CNN Internacional
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139372.ts
+#EXTINF:-1,NOTICIAS : CNN
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139373.ts
+#EXTINF:-1,NOTICIAS : DW
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/299934.ts
+#EXTINF:-1,NOTICIAS : FOX NEWS
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139374.ts
+#EXTINF:-1,NOTICIAS : FRANCE 24 EN ESPAÑOL FHD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/282802.ts
+#EXTINF:-1,NOTICIAS : FRANCE 24 EN ESPAÑOL HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/299986.ts
+#EXTINF:-1,NOTICIAS : NEWSMAX
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/103359.ts
+#EXTINF:-1,NOTICIAS : NTN24
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139377.ts
+#EXTINF:-1,NOTICIAS: RT EN ESPAÑOL
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/151602.ts
+#EXTINF:-1,NOVELA : KANAL D 
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/165282.ts
+#EXTINF:-1,NOVELA : NBC UNIVERSO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/94103.ts
+#EXTINF:-1,NOVELA : RCN NOVELAS
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/166565.ts
+#EXTINF:-1,NOVELA : TELEMUNDO CHICAGO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/334364.ts
+#EXTINF:-1,NOVELA : TELEMUNDO LA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/94107.ts
+#EXTINF:-1,NOVELA : TELEMUNDO LOS ANGELES
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/185792.ts
+#EXTINF:-1,NOVELA : TELEMUNDO NY
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/185791.ts
+#EXTINF:-1,NOVELA : TLNOVELA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/166488.ts
+#EXTINF:-1,NOVELA : UNIVERSO USA LAT
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/101376.ts
+#EXTINF:-1,NOVELA : UNIVISION CHICAGO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/334368.ts
+#EXTINF:-1,NOVELA : UNIVISION LOS ANGELES
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/185793.ts
+#EXTINF:-1,NOVELA : UNIVISION NY
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/185794.ts
+#EXTINF:-1,PANAMA : +23*
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/111627.ts
+#EXTINF:-1,PANAMA : ECO TV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/103987.ts
+#EXTINF:-1,PANAMA : HIPODROMO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/78378.ts
+#EXTINF:-1,PANAMA : NEXT TV 21
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/91499.ts
+#EXTINF:-1,PANAMA : NEXT TV 21 (opcion 2)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/111560.ts
+#EXTINF:-1,PANAMA : OYE TV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/87519.ts
+#EXTINF:-1,PANAMA : RPC 4
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/111625.ts
+#EXTINF:-1,PANAMA : RPC 4 FHD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/85826.ts
+#EXTINF:-1,PANAMA : RPC 4 HD*
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/111628.ts
+#EXTINF:-1,PANAMA : RPC 4 SD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/85774.ts
+#EXTINF:-1,PANAMA : SERTV 
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/111697.ts
+#EXTINF:-1,PANAMA : TELEMETRO 13
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/111629.ts
+#EXTINF:-1,PANAMA : TELEMETRO 13 HD*
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/112355.ts
+#EXTINF:-1,PANAMA : TELEMETRO 13 opcion 3
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/90164.ts
+#EXTINF:-1,PANAMA : TELEMETRO 13 SD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/85825.ts
+#EXTINF:-1,PANAMA : TIGO SPORTS 
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/319587.ts
+#EXTINF:-1,PANAMA : TVMAX 9
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/111698.ts
+#EXTINF:-1,PANAMA : TVMAX 9 FHD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/87518.ts
+#EXTINF:-1,PANAMA : TVMAX 9 HD*
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/329538.ts
+#EXTINF:-1,PANAMA : TVMAX 9 SD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/90168.ts
+#EXTINF:-1,PANAMA : TVN 2 FHD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/90163.ts
+#EXTINF:-1,PANAMA : TVN 2 HD*
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/87132.ts
+#EXTINF:-1,PANAMA : TVN HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/85413.ts
+#EXTINF:-1,PANAMA : TVN SD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/111626.ts
+#EXTINF:-1,PE : AMERICA HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/52538.ts
+#EXTINF:-1,PE : ATV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/52537.ts
+#EXTINF:-1,PE : CANAL N
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/52540.ts
+#EXTINF:-1,PE : GOLPERU
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/52548.ts
+#EXTINF:-1,PE : LATINA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/52542.ts
+#EXTINF:-1,PE : LATINA HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/52543.ts
+#EXTINF:-1,PE : PANAMERICANA HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/52544.ts
+#EXTINF:-1,PE : PERU MAGICO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/52546.ts
+#EXTINF:-1,PE : PLUS TV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/52547.ts
+#EXTINF:-1,PE : TV PERU
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/52554.ts
+#EXTINF:-1,PE : TV PERU HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/52553.ts
+#EXTINF:-1,PE : WILLAX HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/87704.ts
+#EXTINF:-1,PE: ATV+
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/315750.ts
+#EXTINF:-1,Portugal : 24 KITCHEN
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/122178.ts
+#EXTINF:-1,Portugal : ELEVEN SPORTS 1 Pt
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/122200.ts
+#EXTINF:-1,Portugal : ELEVEN SPORTS 2 Pt
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/122201.ts
+#EXTINF:-1,Portugal : ELEVEN SPORTS 3 Pt
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/122202.ts
+#EXTINF:-1,Portugal : ELEVEN SPORTS 4 Pt
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/122203.ts
+#EXTINF:-1,Portugal : EUROSPORT 1 Pt
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/122207.ts
+#EXTINF:-1,Portugal : RTP 1
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/165276.ts
+#EXTINF:-1,Portugal : RTP ACORES
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/165280.ts
+#EXTINF:-1,Portugal : RTP MADEIRA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/165277.ts
+#EXTINF:-1,Portugal : SIC RADICAL Pt
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/122235.ts
+#EXTINF:-1,Portugal : SPORT TV 1 Pt
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/122236.ts
+#EXTINF:-1,Portugal : SPORT TV 2 Pt
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/122237.ts
+#EXTINF:-1,Portugal : SPORT TV 3 Pt
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/122238.ts
+#EXTINF:-1,PR : MEGATV PR
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/68371.ts
+#EXTINF:-1,PR : TELE 11
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/129228.ts
+#EXTINF:-1,PR : TELEMUNDO HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/103988.ts
+#EXTINF:-1,PR : WAPA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/68369.ts
+#EXTINF:-1,PR : WAPA 2
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/68370.ts
+#EXTINF:-1,PR : WAPA AMERICA HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/68367.ts
+#EXTINF:-1,PR : WIPR
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/68372.ts
+#EXTINF:-1,RD : ANTENA LATINA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/50496.ts
+#EXTINF:-1,RD : CANAL 4 HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/50478.ts
+#EXTINF:-1,RD : CDN 37 HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/50494.ts
+#EXTINF:-1,RD : CERTV CANAL 4
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/87972.ts
+#EXTINF:-1,RD : CINEVISION UHF
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/50487.ts
+#EXTINF:-1,RD : COLOR VISION HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/50497.ts
+#EXTINF:-1,RD : DIGITAL VISION HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/50489.ts
+#EXTINF:-1,RD : ENTELEVISION HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/50484.ts
+#EXTINF:-1,RD : FUEGO TV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/169632.ts
+#EXTINF:-1,RD : MICROVISION CANAL 10 HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/50490.ts
+#EXTINF:-1,RD : TELE ANTILLAS HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/50479.ts
+#EXTINF:-1,RD : TELE CENTRO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/50495.ts
+#EXTINF:-1,RD : TELE CIBAO HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/50483.ts
+#EXTINF:-1,RD : TELEMICRO 5 HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/50482.ts
+#EXTINF:-1,RD : TELEUNION HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/50491.ts
+#EXTINF:-1,RD : TELEUNIVERSO CANAL 29 HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/50480.ts
+#EXTINF:-1,RELIGION : 3ABN LATINO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/113394.ts
+#EXTINF:-1,RELIGION : CBN ESPAÑOL
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/103367.ts
+#EXTINF:-1,RELIGION : ENLACE
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/140237.ts
+#EXTINF:-1,RELIGION : EWTN
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/118668.ts
+#EXTINF:-1,RELIGION : HOSSANA VISION
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/110650.ts
+#EXTINF:-1,RELIGION : SANTA MARIA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/103364.ts
+#EXTINF:-1,RELIGION : SOLIDARIA TV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/103363.ts
+#EXTINF:-1,SPORT: ACC NETWORK US
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139364.ts
+#EXTINF:-1,SPORT: AT&T SPORTSNET
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/150030.ts
+#EXTINF:-1,SPORT: BALLY NEW YORK
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/94160.ts
+#EXTINF:-1,SPORT: BALLY SPORTS ARIZONA US
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139353.ts
+#EXTINF:-1,SPORT: BALLY SPORTS CAROLINAS US
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139354.ts
+#EXTINF:-1,SPORT: BALLY SPORTS DETROIT
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/150142.ts
+#EXTINF:-1,SPORT: BALLY SPORTS INDIANA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/150143.ts
+#EXTINF:-1,SPORT: BALLY SPORTS MIDWEST
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/151603.ts
+#EXTINF:-1,SPORT: BALLY SPORTS NORTH
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/151604.ts
+#EXTINF:-1,SPORT: BALLY SPORTS OHIO US
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139358.ts
+#EXTINF:-1,SPORT: BALLY SPORTS OKLAHOMA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/146338.ts
+#EXTINF:-1,SPORT: BALLY SPORTS SAN DIEGO US
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139344.ts
+#EXTINF:-1,SPORT: BALLY SPORTS SOUTH US
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139360.ts
+#EXTINF:-1,SPORT: BALLY SPORTS SOUTHWEST US
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139345.ts
+#EXTINF:-1,SPORT: BALLY SPORTS SUN US
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139361.ts
+#EXTINF:-1,SPORT: BALLY SPORTS WEST US
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139362.ts
+#EXTINF:-1,SPORT: BALLY SPORTS WISCONSIN
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139363.ts
+#EXTINF:-1,SPORT: BEIN SPORTS LA LIGA (USA) HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/82217.ts
+#EXTINF:-1,SPORT: BT SPORT 1
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/146334.ts
+#EXTINF:-1,SPORT: BT SPORT 2
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/146335.ts
+#EXTINF:-1,SPORT: CBS SPORTS
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/90165.ts
+#EXTINF:-1,SPORT: CBS SPORTS
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139308.ts
+#EXTINF:-1,SPORT: COWBOY CHANNEL
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/85300.ts
+#EXTINF:-1,SPORT: DIRECTO : GOLF (USA)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/86060.ts
+#EXTINF:-1,SPORT: ELEVEN SPORTS HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/94153.ts
+#EXTINF:-1,SPORT: ESPN
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139349.ts
+#EXTINF:-1,SPORT: ESPN 2
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/85299.ts
+#EXTINF:-1,SPORT: ESPN NEWS
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139348.ts
+#EXTINF:-1,SPORT: ESPN SEC NETWORK US
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139319.ts
+#EXTINF:-1,SPORT: ESPN U
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139350.ts
+#EXTINF:-1,SPORT: ESPN U USA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/112360.ts
+#EXTINF:-1,SPORT: FIGHT NETWORK 
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/52463.ts
+#EXTINF:-1,SPORT: FOX SOCCER PLUS US
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139340.ts
+#EXTINF:-1,SPORT: FOX SPORTS 1 US
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139341.ts
+#EXTINF:-1,SPORT: FOX SPORTS 2 US
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139342.ts
+#EXTINF:-1,SPORT: FS1
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/94156.ts
+#EXTINF:-1,SPORT: FS2
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/94155.ts
+#EXTINF:-1,SPORT: MLB NETWORK HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/90279.ts
+#EXTINF:-1,SPORT: MOTORTREND US
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139335.ts
+#EXTINF:-1,SPORT: MSG PLUS US
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139338.ts
+#EXTINF:-1,SPORT: MSG US
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139337.ts
+#EXTINF:-1,SPORT: NBA HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/94135.ts
+#EXTINF:-1,SPORT: NBA TV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/92744.ts
+#EXTINF:-1,SPORT: NBC SPORTS BAY AREA US
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139330.ts
+#EXTINF:-1,SPORT: NBC SPORTS BOSTON US
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139331.ts
+#EXTINF:-1,SPORT: NBC SPORTS CHICAGO US
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139332.ts
+#EXTINF:-1,SPORT: NBC SPORTS PHILADELPHIA US
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139333.ts
+#EXTINF:-1,SPORT: NBCSN
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/163471.ts
+#EXTINF:-1,SPORT: NBCSPORTSCALIFORNIA US
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139325.ts
+#EXTINF:-1,SPORT: NESN US
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139326.ts
+#EXTINF:-1,SPORT: NFL NETWORK
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/61497.ts
+#EXTINF:-1,SPORT: OLYMPIC CHANNEL HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/94130.ts
+#EXTINF:-1,SPORT: PAC 12 NETWORK US
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139322.ts
+#EXTINF:-1,SPORT: RED BULL
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/79294.ts
+#EXTINF:-1,SPORT: REDBULL TV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/94124.ts
+#EXTINF:-1,SPORT: SPECTRUM SPORTSNET
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/334369.ts
+#EXTINF:-1,SPORT: SPORT TV 4
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/146340.ts
+#EXTINF:-1,SPORT: SPORT TV 5
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/146341.ts
+#EXTINF:-1,SPORT: NBC SPORTS WASHINGTON
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/94118.ts
+#EXTINF:-1,SPORT: SPORTSMAN CHANNEL
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/94121.ts
+#EXTINF:-1,SPORT: SPORTSNET
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139314.ts
+#EXTINF:-1,SPORT: SPORTSNET 360 CA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139313.ts
+#EXTINF:-1,SPORT: SPORTSNET NY US
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139315.ts
+#EXTINF:-1,SPORT: SPORTSNET ONE
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/146339.ts
+#EXTINF:-1,SPORT: SPORTSNET WEST CA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139317.ts
+#EXTINF:-1,SPORT: SPORTSNET WORLD CA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139318.ts
+#EXTINF:-1,SPORT: TENNIS CHANNEL US
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139304.ts
+#EXTINF:-1,SPORT: TSN 1 CA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139305.ts
+#EXTINF:-1,SPORT: TSN 2 CA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139306.ts
+#EXTINF:-1,SPORT: TSN3
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/146342.ts
+#EXTINF:-1,SPORT: TVG US
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139307.ts
+#EXTINF:-1,SPORT: UFC FIGHT PASS FHD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/74906.ts
+#EXTINF:-1,SPORT: WORLD FISHING NETWORK 
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/113716.ts
+#EXTINF:-1,SPORT: YES NETWORK US
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139303.ts
+#EXTINF:-1,US : BABY FIRST
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/120691.ts
+#EXTINF:-1,US : BOOMERANG
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139154.ts
+#EXTINF:-1,US : CARTOON NETWORK
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/92903.ts
+#EXTINF:-1,US : CARTOON NETWORK FHD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139157.ts
+#EXTINF:-1,US : DISCOVERY FAMILY
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139172.ts
+#EXTINF:-1,USA : 5 STARMAX
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139257.ts
+#EXTINF:-1,USA : A&E
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139139.ts
+#EXTINF:-1,USA : ABC MIAMI
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139140.ts
+#EXTINF:-1,USA : ABC NEW YORK
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/94100.ts
+#EXTINF:-1,USA : ACTIONMAX
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139141.ts
+#EXTINF:-1,USA : AMC
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139142.ts
+#EXTINF:-1,USA : AMERICAN HEROES CHANNEL
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139143.ts
+#EXTINF:-1,USA : ANIMAL PLANET
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139144.ts
+#EXTINF:-1,USA : ASPIRE
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139145.ts
+#EXTINF:-1,USA : AXS TV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139146.ts
+#EXTINF:-1,USA : BABY FIRST
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139147.ts
+#EXTINF:-1,USA : BBC AMERICA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/94111.ts
+#EXTINF:-1,USA : BET EAST
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139149.ts
+#EXTINF:-1,USA : BET HER
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139150.ts
+#EXTINF:-1,USA : BET JAMS
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139151.ts
+#EXTINF:-1,USA : BET SOUL
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139152.ts
+#EXTINF:-1,USA : BET WEST
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139153.ts
+#EXTINF:-1,USA : BLOOMBERG 
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/94113.ts
+#EXTINF:-1,USA : BOUNCE
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139155.ts
+#EXTINF:-1,USA : BRAVO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139156.ts
+#EXTINF:-1,USA : CBS CHICAGO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/94122.ts
+#EXTINF:-1,USA : CBS HOUSTON
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/94120.ts
+#EXTINF:-1,USA : CBS LA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/94126.ts
+#EXTINF:-1,USA : CBS MIAMI
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/94127.ts
+#EXTINF:-1,USA : CBS NEW YORK
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/94128.ts
+#EXTINF:-1,USA : CHEDDAR BUSINESS
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139158.ts
+#EXTINF:-1,USA : CINEMAX EAST
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139159.ts
+#EXTINF:-1,USA : CINEMAX WEST
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139160.ts
+#EXTINF:-1,USA : CNBC
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139162.ts
+#EXTINF:-1,USA : CNBC WORLD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139163.ts
+#EXTINF:-1,USA : COMEDY CENTRAL
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139164.ts
+#EXTINF:-1,USA : COMET
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139165.ts
+#EXTINF:-1,USA : COOKING CHANNEL
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139166.ts
+#EXTINF:-1,USA : COZI TV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139167.ts
+#EXTINF:-1,USA : CRIME AND INVESTIGATION
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139168.ts
+#EXTINF:-1,USA : CW
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139169.ts
+#EXTINF:-1,USA : CW TAMPA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/94141.ts
+#EXTINF:-1,USA : DESTINATION AMERICA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139170.ts
+#EXTINF:-1,USA : DISCOVERY CHANNEL
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139171.ts
+#EXTINF:-1,USA : DISCOVERY ID
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139173.ts
+#EXTINF:-1,USA : DISCOVERY LIFE
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139174.ts
+#EXTINF:-1,USA : DISCOVERY SCIENCE
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139229.ts
+#EXTINF:-1,USA : DISCOVERY VELOCITY
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139175.ts
+#EXTINF:-1,USA : DIY NETWORK
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139176.ts
+#EXTINF:-1,USA : E! ENTERTAINMENT
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139177.ts
+#EXTINF:-1,USA : EPIX
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139178.ts
+#EXTINF:-1,USA : EPIX 2
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139179.ts
+#EXTINF:-1,USA : EPIX HITS
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139181.ts
+#EXTINF:-1,USA : FOOD NETWORK
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139182.ts
+#EXTINF:-1,USA : FOX BUSINESS
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139183.ts
+#EXTINF:-1,USA : FOX MIAMI
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139184.ts
+#EXTINF:-1,USA : FREEFORM
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139185.ts
+#EXTINF:-1,USA : FS1
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139186.ts
+#EXTINF:-1,USA : FS2
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139187.ts
+#EXTINF:-1,USA : FUSE
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139188.ts
+#EXTINF:-1,USA : FX
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139189.ts
+#EXTINF:-1,USA : FX HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/146490.ts
+#EXTINF:-1,USA : FXM
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139190.ts
+#EXTINF:-1,USA : FXX
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139191.ts
+#EXTINF:-1,USA : FXX HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/146491.ts
+#EXTINF:-1,USA : FYI
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139192.ts
+#EXTINF:-1,USA : GSN
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139194.ts
+#EXTINF:-1,USA : HALLMARK
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139195.ts
+#EXTINF:-1,USA : HALLMARK DRAMA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139196.ts
+#EXTINF:-1,USA : HALLMARK MOVIES AND MYSTERIES
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139197.ts
+#EXTINF:-1,USA : HBO 2
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139198.ts
+#EXTINF:-1,USA : HBO COMEDY
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139199.ts
+#EXTINF:-1,USA : HBO EAST
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139200.ts
+#EXTINF:-1,USA : HBO FAMILY
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139201.ts
+#EXTINF:-1,USA : HBO SIGNATURE
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139203.ts
+#EXTINF:-1,USA : HBO WEST
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139204.ts
+#EXTINF:-1,USA : HBO ZONE
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139205.ts
+#EXTINF:-1,USA : HDNET MOVIES
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139206.ts
+#EXTINF:-1,USA : HGTV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/94151.ts
+#EXTINF:-1,USA : HGTV EAST
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139207.ts
+#EXTINF:-1,USA : HGTV WEST
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139208.ts
+#EXTINF:-1,USA : HISTORY CHANNEL
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139209.ts
+#EXTINF:-1,USA : HLN
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139210.ts
+#EXTINF:-1,USA : IFC
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139211.ts
+#EXTINF:-1,USA : INDIE-PLEX
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139212.ts
+#EXTINF:-1,USA : LIFETIME
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139214.ts
+#EXTINF:-1,USA : MOTORTREND
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139215.ts
+#EXTINF:-1,USA : MSNBC HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/94144.ts
+#EXTINF:-1,USA : MTV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139216.ts
+#EXTINF:-1,USA : NASA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139217.ts
+#EXTINF:-1,USA : NAT GEO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139218.ts
+#EXTINF:-1,USA : NAT GEO WILD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139219.ts
+#EXTINF:-1,USA : NBC MIAMI
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/101356.ts
+#EXTINF:-1,USA : NFL RED ZONE
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/169817.ts
+#EXTINF:-1,USA : OUTDOOR CHANNEL
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139220.ts
+#EXTINF:-1,USA : OWN
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139222.ts
+#EXTINF:-1,USA : OWN
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/157005.ts
+#EXTINF:-1,USA : PARAMOUNT CHANNEL
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139223.ts
+#EXTINF:-1,USA : PBS US
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139224.ts
+#EXTINF:-1,USA : POP
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139225.ts
+#EXTINF:-1,USA : PURSUIT
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139226.ts
+#EXTINF:-1,USA : REELZ
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139227.ts
+#EXTINF:-1,USA : REVOLT TV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139228.ts
+#EXTINF:-1,USA : SHOWTIME EAST
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139230.ts
+#EXTINF:-1,USA : SHOWTIME EXTREME
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139231.ts
+#EXTINF:-1,USA : SHOWTIME NEXT
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139232.ts
+#EXTINF:-1,USA : SHOWTIME WEST
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139233.ts
+#EXTINF:-1,USA : SHOWTIME WOMEN
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139234.ts
+#EXTINF:-1,USA : SONY MOVIE CHANNEL
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139235.ts
+#EXTINF:-1,USA : STARZ BLACK
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/144594.ts
+#EXTINF:-1,USA : STARZ CINEMA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139236.ts
+#EXTINF:-1,USA : STARZ COMEDY
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139237.ts
+#EXTINF:-1,USA : STARZ EAST
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139238.ts
+#EXTINF:-1,USA : STARZ EDGE
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139239.ts
+#EXTINF:-1,USA : STARZ ENCORE ACTION
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139245.ts
+#EXTINF:-1,USA : STARZ ENCORE ACTION
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/144599.ts
+#EXTINF:-1,USA : STARZ ENCORE CLASSIC
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139240.ts
+#EXTINF:-1,USA : STARZ ENCORE FAMILY
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139241.ts
+#EXTINF:-1,USA : STARZ ENCORE SUSPENSE
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139246.ts
+#EXTINF:-1,USA : STARZ ENCORE WESTERN
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/144605.ts
+#EXTINF:-1,USA : STARZ IN BLACK
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139242.ts
+#EXTINF:-1,USA : STARZ KIDS & FAMILY
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139243.ts
+#EXTINF:-1,USA : STARZ WEST
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139244.ts
+#EXTINF:-1,USA : SYFY
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139248.ts
+#EXTINF:-1,USA : TBS
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139249.ts
+#EXTINF:-1,USA : TLC
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139251.ts
+#EXTINF:-1,USA : TNT
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139252.ts
+#EXTINF:-1,USA : TRAVEL CHANNEL
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139253.ts
+#EXTINF:-1,USA : TRUTV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139254.ts
+#EXTINF:-1,USA : TV LAND
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139255.ts
+#EXTINF:-1,USA : TV ONE
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139256.ts
+#EXTINF:-1,USA : TVG
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139127.ts
+#EXTINF:-1,USA : USA NETWORK
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139258.ts
+#EXTINF:-1,USA : VH1 EAST
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139260.ts
+#EXTINF:-1,USA : VH1 WEST
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139261.ts
+#EXTINF:-1,USA : WE TV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/165274.ts
+#EXTINF:-1,USA : WEATHER CHANNEL
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139262.ts
+#EXTINF:-1,USA : WSVN
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/140235.ts
+#EXTINF:-1,USA : WWE NETWORK
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/139263.ts
+#EXTINF:-1,UY: CANAL 10 SAETA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/203177.ts
+#EXTINF:-1,UY: CANAL 12
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/203186.ts
+#EXTINF:-1,UY: CANAL 4 MONTECARLO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/203197.ts
+#EXTINF:-1,UY: CANAL 4 SALTO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/203194.ts
+#EXTINF:-1,UY: CANAL A+V
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/203183.ts
+#EXTINF:-1,UY: CANAL TNU
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/203188.ts
+#EXTINF:-1,UY: CIUDAD TV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/203196.ts
+#EXTINF:-1,UY: LA TELE
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/203187.ts
+#EXTINF:-1,UY: RTV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/203189.ts
+#EXTINF:-1,UY: TELEDOCE
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/203178.ts
+#EXTINF:-1,UY: VTV Plus
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/203181.ts
+#EXTINF:-1,VE : MERIDIANO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/141578.ts
+#EXTINF:-1,VE : TELESUR
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/156901.ts
+#EXTINF:-1,VE : TLT
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/134987.ts
+#EXTINF:-1,VE : TVES
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/166499.ts
+#EXTINF:-1,24/7 : DOS HOMBRES Y MEDIO 
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/339992.ts
+#EXTINF:-1,24/7 : YO SOY BETTY, LA FEA 
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/340264.ts
+#EXTINF:-1,24/7 : HERCULES Y LOS VIAJES LEGENDARIOS
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/340633.ts
+#EXTINF:-1,CINE TERROR
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/341721.ts
+#EXTINF:-1,24/7 : CHEATERS
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/342490.ts
+#EXTINF:-1,24/7 : UNA FAMILIA DE DIEZ 
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/342704.ts
+#EXTINF:-1,24/7 : GRAVITY FALLS
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/344954.ts
+#EXTINF:-1,CINE COMEDIA 
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/345193.ts
+#EXTINF:-1,CINE DRAMA 
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/345670.ts
+#EXTINF:-1,España : XTRM HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/346646.ts
+#EXTINF:-1,DIRECTO : A3SERIES
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/350578.ts
+#EXTINF:-1,ESPAÑA: ATRESERIES INTERNACIONAL
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/353265.ts
+#EXTINF:-1,PANAMA : NEXT SPORTS HD*
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/356693.ts
+#EXTINF:-1,España : ANTENA 3 INTERNACIONAL
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/358147.ts
+#EXTINF:-1,MUSICA : MTV CLUB
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/363997.ts
+#EXTINF:-1,MUSICA : MTV CLASSIC
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/363998.ts
+#EXTINF:-1,MUSICA : MTV HITS
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/363999.ts
+#EXTINF:-1,MUSICA : MTV LIVE
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/364000.ts
+#EXTINF:-1,USA: SMITHSONIAN CHANNEL
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/364001.ts
+#EXTINF:-1,DIRECTO : LIGA1MAX PERU
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/364002.ts
+#EXTINF:-1,DIRECTO : SKY SPORTS 16 HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/365067.ts
+#EXTINF:-1,24/7 : SAINT SEIYA OMEGA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/366841.ts
+#EXTINF:-1,24/7 : JIMMY NEUTRON 
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/366951.ts
+#EXTINF:-1,PANAMA : TIGO SPORTS 2*
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/366952.ts
+#EXTINF:-1,24/7 : SUPERMAN Y LOIS
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/367058.ts
+#EXTINF:-1,24/7 : ZOE 101
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/368069.ts
+#EXTINF:-1,24/7 : HORA DE VENTURA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/368629.ts
+#EXTINF:-1,USA : NBC NEW YORK
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/373742.ts
+#EXTINF:-1,DIRECTO : LIGA 1 MAX (PERU)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/374062.ts
+#EXTINF:-1,24/7 : DON GATO Y SU FAMILIA 
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/376373.ts
+#EXTINF:-1,24/7 : EL EXORCISTA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/376532.ts
+#EXTINF:-1,24/7 : VICTORIOUS 
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/376639.ts
+#EXTINF:-1,24/7 : AMERICAN CRIME STORY
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/376942.ts
+#EXTINF:-1,24/7 :  CLUB DE CUERVOS
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/377551.ts
+#EXTINF:-1,DIRECTO : E! ENTRETENIMIENTO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/377903.ts
+#EXTINF:-1,DIRECTO : ESTRELLA TV SD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/377906.ts
+#EXTINF:-1,24/7 : CHESPIRITO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/380162.ts
+#EXTINF:-1,24/7 : DRAKE AND JOSH
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/380220.ts
+#EXTINF:-1,24/7 : THE AVENGERS
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/380253.ts
+#EXTINF:-1,24/7 : INDIANA JONES
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/380436.ts
+#EXTINF:-1,24/7 : TERROR
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/380437.ts
+#EXTINF:-1,24/7 : RAPIDO Y FURIOSO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/380542.ts
+#EXTINF:-1,24/7 : PIRATAS DEL CARIBE
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/380543.ts
+#EXTINF:-1,ESA : CANAL 4  (E)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/380551.ts
+#EXTINF:-1,ESA : CANAL 6  (E)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/380552.ts
+#EXTINF:-1,24/7 : HARRY POTTER
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/380554.ts
+#EXTINF:-1,24/7 : VIERNES 13
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/380955.ts
+#EXTINF:-1,24/7 : TRANSFORMERS 
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/380956.ts
+#EXTINF:-1,24/7 : MISION IMPOSIBLE
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/381027.ts
+#EXTINF:-1,NIC: Canal 2
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/381054.ts
+#EXTINF:-1,24/7 : RESIDENT EVIL
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/381212.ts
+#EXTINF:-1,24/7 : JURASSIC PARK 
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/381754.ts
+#EXTINF:-1,24/7 : AGENTE 007
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/381755.ts
+#EXTINF:-1,24/7 : DURO DE MATAR
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/384397.ts
+#EXTINF:-1,24/7 : ESTRENOS 2023
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/384561.ts
+#EXTINF:-1,NIC : CANAL 10 OPCION 2
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/385721.ts
+#EXTINF:-1,PANAMA : FE TV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/386762.ts
+#EXTINF:-1,24/7 : ROCKY BALBOA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/386785.ts
+#EXTINF:-1,24/7 :  CREPÚSCULO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/387408.ts
+#EXTINF:-1,España : ANDALUCIA TV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/391155.ts
+#EXTINF:-1,NIC: CANAL 14 VOS TV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/391163.ts
+#EXTINF:-1,Francia : France 24
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/391435.ts
+#EXTINF:-1,Francia : TF1
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/391436.ts
+#EXTINF:-1,24/7 : ROMANCE
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/391799.ts
+#EXTINF:-1,NIC : CANAL 13 HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/392588.ts
+#EXTINF:-1,NIC: CANAL 14 VOS TV HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/392589.ts
+#EXTINF:-1,DIRECTO : SEMILLITAS
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/396243.ts
+#EXTINF:-1,24/7 : COMEDIA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/397208.ts
+#EXTINF:-1,DIRECTO : EUROSPORT 2
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/400056.ts
+#EXTINF:-1,ARG : EL TRECE HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/400380.ts
+#EXTINF:-1,VE : IVC
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/400381.ts
+#EXTINF:-1,VE : TELEVEN
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/400382.ts
+#EXTINF:-1,Barbarian (2022)
+http://tv.dominiotv.xyz:25461/movie/iptvprivado/KdGt9PRz/323081.mkv
+#EXTINF:-1,Tom y Jerry en la Tierra de Nieve FHD
+http://tv.dominiotv.xyz:25461/movie/iptvprivado/KdGt9PRz/327811.mkv
+#EXTINF:-1,Amenaza explosiva (Hard Hit) HD
+http://tv.dominiotv.xyz:25461/movie/iptvprivado/KdGt9PRz/331024.mkv
+#EXTINF:-1,Tu mejor amigo FHD
+http://tv.dominiotv.xyz:25461/movie/iptvprivado/KdGt9PRz/347230.mkv
+#EXTINF:-1,Resident Evil: Isla de la Muerte HD
+http://tv.dominiotv.xyz:25461/movie/iptvprivado/KdGt9PRz/388597.mkv
+#EXTINF:-1,SPORT: EUROSPORTS 1
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/403114.ts
+#EXTINF:-1,SPORT: EUROSPORTS 2
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/403115.ts
+#EXTINF:-1,NOVELA : UNIVISION TLNOVELA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/405761.ts
+#EXTINF:-1,NOVELA : UNIVISION DALLAS
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/405762.ts
+#EXTINF:-1,NOVELA : UNIVISION PHILADELPHIA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/405763.ts
+#EXTINF:-1,NOVELA : UNIVISION HOUSTON
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/405764.ts
+#EXTINF:-1,NOVELA : UNIVISION SAN ANTONIO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/405765.ts
+#EXTINF:-1,NOVELA : UNIVISION ATLANTA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/405766.ts
+#EXTINF:-1,NOVELA : UNIVISION CLEVELAND
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/405767.ts
+#EXTINF:-1,NOVELA : UNIVISION ORLANDO
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/405768.ts
+#EXTINF:-1,NOVELA : UNIVISION WASHINGTON
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/405833.ts
+#EXTINF:-1,NOVELA : TELEMUNDO WASHINGTON
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/405834.ts
+#EXTINF:-1,DIRECTO : TELEMUNDO INTERNACIONAL HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/405860.ts
+#EXTINF:-1,CA: CP24
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/405924.ts
+#EXTINF:-1,CA: City TV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/405925.ts
+#EXTINF:-1, CA: Sportsnet Ontario
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/405926.ts
+#EXTINF:-1,DIRECTO : DISCOVERY CHANNEL COL
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407009.ts
+#EXTINF:-1,10:45 | Mundial Rugby | Italia vs. Uruguay |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407012.ts
+#EXTINF:-1,06:00 | Asia Champions | Jeonbuk Hyundai Motors (KOR) vs. Kitchee (HKG) |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407013.ts
+#EXTINF:-1,06:00 | Asia Champions | Melbourne City (AUS) vs. Ventforet Kofu (JPN) |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407014.ts
+#EXTINF:-1,06:00 | Asia Champions | Buriram United (THA) vs. Zhejiang FC (CHN) |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407015.ts
+#EXTINF:-1,07:00 | Asia Champions | Hanoi FC (VIE) vs. Pohang Steelers (KOR)) |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407016.ts
+#EXTINF:-1,07:00 | Asia Champions | Wuhan Three Towns FC (CHN) vs. Urawa Red Diamonds (JPN) |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407017.ts
+#EXTINF:-1,07:00 | Asia Champions | Lion City Sailors (SGP) vs. Bangkok United FC (THA) |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407018.ts
+#EXTINF:-1,11:45 | UEFA Champions | Galatasaray vs. Copenhagen |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407019.ts
+#EXTINF:-1,11:45 | UEFA Champions | Real Madrid vs. Union Berlin | HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407020.ts
+#EXTINF:-1,11:45 | UEFA Champions | Real Madrid vs. Union Berlin | SD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407021.ts
+#EXTINF:-1,14:00 | UEFA Champions | Bayern München vs. Manchester United| HD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407022.ts
+#EXTINF:-1,14:00 | UEFA Champions | Bayern München vs. Manchester United | SD
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407023.ts
+#EXTINF:-1,14:00 | UEFA Champions | Sevilla vs. Lens |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407024.ts
+#EXTINF:-1,14:00 | UEFA Champions | Arsenal vs. PSV |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407025.ts
+#EXTINF:-1,14:00 | UEFA Champions | Sporting Braga vs. Napoli |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407026.ts
+#EXTINF:-1,14:00 | UEFA Champions | Benfica vs. Salzburg |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407027.ts
+#EXTINF:-1,14:00 | UEFA Champions | Real Sociedad vs. Internazionale |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407028.ts
+#EXTINF:-1,14:45 | Championship | Norwich City vs. Leicester City |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407029.ts
+#EXTINF:-1,14:00 | Primera Argentina | Barracas Central vs. Banfield  |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407030.ts
+#EXTINF:-1,14:00 | Primera Argentina | Defensa y Justicia vs. Tigre |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407031.ts
+#EXTINF:-1,16:30 | Primera Argentina | Vélez Sarsfield vs. Arsenal |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407032.ts
+#EXTINF:-1,16:30 | Primera Argentina | Estudiantes vs. San Lorenzo |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407033.ts
+#EXTINF:-1,19:00 | Primera Argentina | Instituto vs. Colón |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407034.ts
+#EXTINF:-1,19:00 | Primera Argentina | Racing Club vs. Newell's Old Boys |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407035.ts
+#EXTINF:-1,17:00 | Brasileirao | Goiás vs. Flamengo |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407036.ts
+#EXTINF:-1,19:30 | Brasileirao | São Paulo vs. Fortaleza |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407037.ts
+#EXTINF:-1,19:30 | Brasileirao | Fluminense vs. Cruzeiro |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407038.ts
+#EXTINF:-1,16:00 | Primera Colombia | Boyacá Chicó vs. Junior |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407039.ts
+#EXTINF:-1,18:10 | Primera Colombia | Rionegro Águilas vs. América de Cali |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407040.ts
+#EXTINF:-1,20:20 | Primera Colombia | Atlético Nacional vs. Santa Fe |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407041.ts
+#EXTINF:-1,20:20 | Liga MX | Atlético Nacional vs. Santa Fe |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407042.ts
+#EXTINF:-1,11:20 | MLB | Atlanta Braves vs. Philadelphia Philliess |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407043.ts
+#EXTINF:-1,11:35 | MLB | Cincinnati Reds vs. Minnesota Twins |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407044.ts
+#EXTINF:-1,12:05 | MLB | Washington Nationals vs. Chicago White Sox |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407045.ts
+#EXTINF:-1,13:05 | MLB | Texas Rangers vs. Boston Red Sox |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407046.ts
+#EXTINF:-1,13:10 | MLB | Kansas City Royals vs. Guardianes de Cleveland |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407047.ts
+#EXTINF:-1,13:10 | MLB | Houston Astros vs. Baltimore Orioles |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407048.ts
+#EXTINF:-1,14:37 | MLB | Oakland Athletics vs. Seattle Mariners |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407049.ts
+#EXTINF:-1,14:40 | MLB | Arizona Diamondbacks vs. San Francisco Giants |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407050.ts
+#EXTINF:-1,15:10 | MLB | San Diego Padres vs. Colorado Rockies |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407051.ts
+#EXTINF:-1,17:40 | MLB | Miami Marlins vs. New York Mets |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407052.ts
+#EXTINF:-1,17:40 | MLB | Tampa Bay Rays vs. Los Angeles Angels |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407053.ts
+#EXTINF:-1,18:05 | MLB | New York Yankees vs. Toronto Blue Jays |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407054.ts
+#EXTINF:-1,18:40 | MLB | Chicago Cubs vs. Pittsburgh Pirates |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407055.ts
+#EXTINF:-1,18:45 | MLB | St. Louis Cardinals vs. Milwaukee Brewers |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407056.ts
+#EXTINF:-1,21:10 | MLB | Los Angeles Dodgers vs. Detroit Tigers |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407057.ts
+#EXTINF:-1,18:30 | MLS | Charlotte vs. Philadelphia Union |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407058.ts
+#EXTINF:-1,18:30 | MLS | Columbus Crew vs. Chicago Fire |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407059.ts
+#EXTINF:-1,18:30 | MLS | DC United vs. Atlanta United |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407060.ts
+#EXTINF:-1,18:30 | MLS | Inter Miami vs. Toronto FC | SPA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407061.ts
+#EXTINF:-1,18:30 | MLS | Inter Miami vs. Toronto FC | ENG
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407062.ts
+#EXTINF:-1,18:30 | MLS | CF Montréal vs. FC Cincinnati |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407063.ts
+#EXTINF:-1,18:30 | MLS | New York Red Bulls vs. Austin FC |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407064.ts
+#EXTINF:-1,18:30 | MLS | New York City FC vs. Orlando City SC |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407065.ts
+#EXTINF:-1,19:30 | MLS | Houston Dynamo vs. Vancouver Whitecaps |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407066.ts
+#EXTINF:-1,19:30 | MLS | Sporting Kansas City vs. Nashville SC |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407067.ts
+#EXTINF:-1,19:30 | MLS | St. Louis City SC vs. Los Angeles FC |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407068.ts
+#EXTINF:-1,20:30 | MLS | Colorado Rapids vs. Seattle Sounders |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407069.ts
+#EXTINF:-1,20:30 | MLS | Los Angeles Galaxy vs. Minnesota United | SPA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407070.ts
+#EXTINF:-1,20:30 | MLS | Los Angeles Galaxy vs. Minnesota United | ENG
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407071.ts
+#EXTINF:-1,18:30 | MLS | Portland Timbers vs. San Jose Earthquakes |
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407072.ts
+#EXTINF:-1,LATINO | Champions 2 (Galatasaray Vs Copengagen 10:45am -sociedad Vs Inter 1:00pm - Cinemax Hd)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407074.ts
+#EXTINF:-1,UK | Champions 3 (Manchester United Vs Bayern - 1:00pm - Univision)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407075.ts
+#EXTINF:-1,UK | Champions 4 (Braga Vs Napoli - 1:00pm - Tnt Sports 4)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407076.ts
+#EXTINF:-1,UK | Champions 5 (Benfica Vs Salzburg - 1:00pm - Tnt Sports 7)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407077.ts
+#EXTINF:-1,USA | Mlb 01 HD (Phillies @ Braves - 10:20am - Mlb Phillies)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407078.ts
+#EXTINF:-1,USA | Mlb 01 HD (Phillies @ Braves - 10:20am - Mlb Braves)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407079.ts
+#EXTINF:-1,USA | Mlb 02 HD (Twins @ Reds - 10:35am - Mlb Twins)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407080.ts
+#EXTINF:-1,USA | Mlb 02 HD (Twins @ Reds - 10:35am - Mlb Reds)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407081.ts
+#EXTINF:-1,USA | Mlb 03 HD (White Sox @ Nationals - 11:05am - Mlb White Sox)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407082.ts
+#EXTINF:-1,USA | Mlb 03 HD (White Sox @ Nationals - 11:05am - Mlb Nationals)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407083.ts
+#EXTINF:-1,USA | Mlb 04 HD (Red Sox @ Rangers - 12:05pm - Mlb Red Sox)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407084.ts
+#EXTINF:-1,USA | Mlb 04 HD (Red Sox @ Rangers - 12:05pm - Mlb Rangers)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407085.ts
+#EXTINF:-1,USA | Mlb 05 HD (Orioles @ Astros - 12:10pm - Mlb Astros)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407086.ts
+#EXTINF:-1,USA | Mlb 05 HD (Orioles @ Astros - 12:10pm - Mlb Orioles)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407087.ts
+#EXTINF:-1,USA | Mlb 06 HD (Guardians @ Royals - 12:10pm - Mlb Guardians)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407088.ts
+#EXTINF:-1,USA | Mlb 06 HD (Guardians @ Royals - 12:10pm - Mlb Royals)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407089.ts
+#EXTINF:-1,USA | Mlb 07 HD (Mariners @ Athletics - 1:37pm - Mlb Mariners)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407090.ts
+#EXTINF:-1,USA | Mlb 07 HD (Mariners @ Athletics - 1:37pm - Mlb Athletics)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407091.ts
+#EXTINF:-1,USA | Mlb 08 HD (Giants @ D-backs - 1:40pm - Mlb Giants)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407092.ts
+#EXTINF:-1,USA | Mlb 08 HD (Giants @ D-backs - 1:40pm - Mlb D-backs)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407093.ts
+#EXTINF:-1,USA | Mlb 09 HD (Rockies @ Padres - 2:10pm - Mlb Rockies)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407094.ts
+#EXTINF:-1,USA | Mlb 09 HD (Rockies @ Padres - 2:10pm - Mlb Padres)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407095.ts
+#EXTINF:-1,USA | Mlb 10 HD (Angels @ Rays - 4:40pm -mlb Angels)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407096.ts
+#EXTINF:-1,USA | Mlb 10 HD (Angels @ Rays - 4:40pm - Mlb Rays)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407097.ts
+#EXTINF:-1,USA | Mlb 11 HD (Mets @ Marlins - 4:40pm - Mlb Mets)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407098.ts
+#EXTINF:-1,USA | Mlb 11 HD (Mets @ Marlins - 4:40pm - Mlb Marlins)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407099.ts
+#EXTINF:-1,USA | Mlb 12 HD (Blue Jays @ Yankees - 5:05pm - Mlb Blue Jays)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407100.ts
+#EXTINF:-1,USA | Mlb 12 HD (Blue Jays @ Yankees - 5:05pm - Mlb Yankees)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407101.ts
+#EXTINF:-1,USA | Mlb 13 HD (Pirates @ Cubs - 5:40pm - Mlb Pirates)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407102.ts
+#EXTINF:-1,USA | Mlb 13 HD (Pirates @ Cubs - 5:40pm - Mlb Cubs)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407103.ts
+#EXTINF:-1,USA | Mlb 14 HD (Brewers @ Cardinals - 5:45pm - Mlb Brewers)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407104.ts
+#EXTINF:-1,USA | Mlb 14 HD (Brewers @ Cardinals - 5:45pm - Mlb Cardinals)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407105.ts
+#EXTINF:-1,USA | Mlb 15 HD (Tigers @ Dodgers - 8:10pm - Mlb Tigers)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407106.ts
+#EXTINF:-1,USA | Mlb 15 HD (Tigers @ Dodgers - 8:10pm - Mlb Dodgers)
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407107.ts
+#EXTINF:-1,.R Madrid vs U Berlin 10:45 Hrs
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407108.ts
+#EXTINF:-1,.R Madrid vs U Berlin 10:45 Hrs
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407109.ts
+#EXTINF:-1,.Galatasaray  vs Kobenhavn 10:45 Hrs
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407110.ts
+#EXTINF:-1,.Galatasaray  vs Kobenhavn 10:45 Hrs
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407111.ts
+#EXTINF:-1,.R Sociedad vs I Milan 13:00 Hrs
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407112.ts
+#EXTINF:-1,.R Sociedad vs I Milan 13:00 Hrs
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407113.ts
+#EXTINF:-1,.Benfica vs Red Bull S 13:00 Hrs
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407114.ts
+#EXTINF:-1,.Benfica vs Red Bull S 13:00 Hrs
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407115.ts
+#EXTINF:-1,.Arsenal vs PSV 13:00 Hrs
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407116.ts
+#EXTINF:-1,.Arsenal vs PSV 13:00 Hrs
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407117.ts
+#EXTINF:-1,.Sevilla vs Lens 13:00 Hrs
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407118.ts
+#EXTINF:-1,.Sevilla vs Lens 13:00 Hrs
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407119.ts
+#EXTINF:-1,.FC Bayern vs Man Utd 13:00 Hrs
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407120.ts
+#EXTINF:-1,.FC Bayern vs Man Utd 13:00 Hrs
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407121.ts
+#EXTINF:-1,.FC Bayern vs Man Utd 13:00 Hrs
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407122.ts
+#EXTINF:-1,.SC Braga vs Napoli 13:00 Hrs
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407123.ts
+#EXTINF:-1,.SC Braga vs Napoli 13:00 Hrs
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407124.ts
+#EXTINF:-1,.Norwich vs Leicester 13:00 Hrs
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407125.ts
+#EXTINF:-1,.Norwich vs Leicester 13:00 Hrs
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/407126.ts
+#EXTINF:-1,PREMIUM XXX : 4K 
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/65665.ts
+#EXTINF:-1,PREMIUM XXX : 5K PORN 
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/65666.ts
+#EXTINF:-1,PREMIUM XXX : AMATEURBOXXX
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/337217.ts
+#EXTINF:-1,PREMIUM XXX : ANAL FANATIC 
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/65667.ts
+#EXTINF:-1,PREMIUM XXX : ASIAN 
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/154996.ts
+#EXTINF:-1,PREMIUM XXX : BAEB 
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/65668.ts
+#EXTINF:-1,PREMIUM XXX : BANANAFEVER
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/337211.ts
+#EXTINF:-1,PREMIUM XXX : BLACKED
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/65669.ts
+#EXTINF:-1,PREMIUM XXX : BLACKED RAW 
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/65670.ts
+#EXTINF:-1,PREMIUM XXX : BRATTY SIS 
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/65671.ts
+#EXTINF:-1,PREMIUM XXX : BRAZZERS 
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/65672.ts
+#EXTINF:-1,PREMIUM XXX : BRAZZERS 2
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/114059.ts
+#EXTINF:-1,PREMIUM XXX : CONORCOXXX
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/337823.ts
+#EXTINF:-1,PREMIUM XXX : CUM 4K 
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/65673.ts
+#EXTINF:-1,PREMIUM XXX : EXOTIC4K
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/337159.ts
+#EXTINF:-1,PREMIUM XXX : EXPLOITED TEENS
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/65674.ts
+#EXTINF:-1,PREMIUM XXX : EXXXTRA SMALL
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/131560.ts
+#EXTINF:-1,PREMIUM XXX : FAMILY
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/65675.ts
+#EXTINF:-1,PREMIUM XXX : FIT18 
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/65676.ts
+#EXTINF:-1,PREMIUM XXX : HENTAI
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/117806.ts
+#EXTINF:-1,PREMIUM XXX : HOT GUYS 
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/65677.ts
+#EXTINF:-1,PREMIUM XXX : HUSTLER 
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/86059.ts
+#EXTINF:-1,PREMIUM XXX : IMMORAL POV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/131559.ts
+#EXTINF:-1,PREMIUM XXX : ITS POV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/131558.ts
+#EXTINF:-1,PREMIUM XXX : JAY`S POV
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/337209.ts
+#EXTINF:-1,PREMIUM XXX : KIKY
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/336766.ts
+#EXTINF:-1,PREMIUM XXX : LESTDOEIT 
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/65678.ts
+#EXTINF:-1,PREMIUM XXX : MAMACITA 
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/65679.ts
+#EXTINF:-1,PREMIUM XXX : NEW SENSATIONS
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/337163.ts
+#EXTINF:-1,PREMIUM XXX : PERV MOM
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/65680.ts
+#EXTINF:-1,PREMIUM XXX : PORN PROS
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/131557.ts
+#EXTINF:-1,PREMIUM XXX : PRIVATE BLACK
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/131556.ts
+#EXTINF:-1,PREMIUM XXX : PRIVATE SOCIETY
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/131555.ts
+#EXTINF:-1,PREMIUM XXX : PUBLIC AGENT
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/103249.ts
+#EXTINF:-1,PREMIUM XXX : PUBLIC AGENT 2
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/103250.ts
+#EXTINF:-1,PREMIUM XXX : REALITY KINGS 
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/65681.ts
+#EXTINF:-1,PREMIUM XXX : SPAMONSTERS
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/129910.ts
+#EXTINF:-1,PREMIUM XXX : TOUCH MY WIFE
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/132483.ts
+#EXTINF:-1,PREMIUM XXX : TUSHYRAW
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/79056.ts
+#EXTINF:-1,PREMIUM XXX : VIDEO GIRL
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/337161.ts
+#EXTINF:-1,PREMIUM XXX : VIXEN
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/102614.ts
+#EXTINF:-1,PREMIUM XXX : FUCKING
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/338172.ts
+#EXTINF:-1,PREMIUM XXX : TUG CASTING
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/338174.ts
+#EXTINF:-1,PREMIUM XXX : THEBANGBUS
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/338201.ts
+#EXTINF:-1,PREMIUM XXX : LA MODEL MEDIA
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/338279.ts
+#EXTINF:-1,PREMIUM XXX : IMMORAL
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/339649.ts
+#EXTINF:-1,PREMIUM XXX : PETERNORTH OFFICIAL
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/339656.ts
+#EXTINF:-1,PREMIUM XXX : PHATASSWHITEGIRLS
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/342034.ts
+#EXTINF:-1,PREMIUM XXX : BANGING BEAUTIES
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/344502.ts
+#EXTINF:-1,PREMIUM XXX : BAMVISIONS
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/344823.ts
+#EXTINF:-1,PREMIUM XXX : DEEPER
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/344906.ts
+#EXTINF:-1,PREMIUM XXX : RAWATTACK
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/345229.ts
+#EXTINF:-1,PREMIUM XXX : PORNWORLD LESBIAN
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/345672.ts
+#EXTINF:-1,PREMIUM XXX : MY DIRTY MAID
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/345686.ts
+#EXTINF:-1,PREMIUM XXX : MILF 3
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/345704.ts
+#EXTINF:-1,PREMIUM XXX : DAUGHTER SWAP
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/354504.ts
+#EXTINF:-1,PREMIUM XXX : HOTWIFE
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/355153.ts
+#EXTINF:-1,PREMIUM XXX : BROKEN BABES
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/355240.ts
+#EXTINF:-1,PREMIUM XXX : DTF SLUTS
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/355316.ts
+#EXTINF:-1,PREMIUM XXX : ADULT TIME OFFICIAL
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/355978.ts
+#EXTINF:-1,PREMIUM XXX : THE POV CLUB
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/356541.ts
+#EXTINF:-1,PREMIUM XXX : BACKROOM CASTING COUCH 
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/357262.ts
+#EXTINF:-1,PREMIUM XXX : LATINA 1
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/405908.ts
+#EXTINF:-1,PREMIUM XXX : LATINA 3
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/405910.ts
+#EXTINF:-1,PREMIUM XXX : LATINA 4
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/405911.ts
+#EXTINF:-1,PREMIUM XXX : LATINA 2
+http://tv.dominiotv.xyz:25461/live/iptvprivado/KdGt9PRz/405909.ts
