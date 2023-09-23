@@ -433,7 +433,7 @@ http://hidra.live:80/fmfukngo/Z395trjb2A/302710.ts
 http://hidra.live:80/fmfukngo/Z395trjb2A/34779.ts
 #EXTINF:-1 tvg-id="" tvg-name="TeenNick (MX)" tvg-logo="https://img.tvcl.xyz/usa/teennick.png" group-title="alli y Naomi",TeenNick (MX)
 http://hidra.live:80/fmfukngo/Z395trjb2A/313028.ts
-#EXTINF:-1 tvg-id="" tvg-name="DreamWorks HD (MX)" tvg-logo="" group-title="alli y Naomi",DreamWorks HD (MX)
+#EXTINF:-1 tvg-id="" tvg-name="DreamWorks HD (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Sky_Group_Logo_2020.png"group-title="alli y Naomi",DreamWorks HD (MX)
 http://hidra.live:80/fmfukngo/Z395trjb2A/304507.ts
 #EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV HD (MX)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BXCkcbidQhfffzInLUnNGsd.png" group-title="alli y Naomi",Baby TV HD (MX)
 http://hidra.live:80/fmfukngo/Z395trjb2A/312755.ts
@@ -449,5 +449,5 @@ http://hidra.live:80/vpjvckwc/Romina1994/302735.ts
 http://hidra.live:80/vpjvckwc/Romina1994/302625.ts
 #EXTINF:-1 xui-id="114" tvg-id="" tvg-name="INF - CARTOONITO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Sky_Group_Logo_2020.png"group-title="alli y naomi",INF - CARTOONITO HD
 http://154.12.247.170:80/play/MKSltNbIrJK2hPaQ7FIDoy1miES_7KhJJ2NKj8W3v2o/m3u8
-#EXTINF:-1 tvg-id="ETCTV.cl" tvg-name="24/7 Coraje SD" tvg-logo="https://es.m.wikipedia.org/wiki/Courage_the_Cowardly_Dog#/media/Archivo%3ACourage_The_Cowardly_Dog_logo.png"group-title="Canal coraje",24/7 Coraje SD
+#EXTINF:-1 tvg-id="ETCTV.cl" tvg-name="24/7 Coraje SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Sky_Group_Logo_2020.png"group-title="Canal coraje",24/7 Coraje SD
 http://hidra.live:80/fmfukngo/Z395trjb2A/58267.ts
