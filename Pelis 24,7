@@ -1,13 +1,13 @@
 EXTM3U
-#EXTINF:-1 xui-id="105" tvg-id="FOROHI1" tvg-name="MEX - FORO TV HD" tvg-logo="http://154.12.247.170:80/images/b0934016f4b3a5763042c51c05741c64.png" group-title="MEXICO",MEX - FORO TV HD
+#EXTINF:-1 xui-id="105" tvg-id="FOROHI1" tvg-name="MEX - FORO TV HD" tvg-logo="http://154.12.247.170:80/images/b0934016f4b3a5763042c51c05741c64.png" group-title="sky mexico😏",MEX - FORO TV HD
 http://154.12.247.170:80/play/MKSltNbIrJK2hPaQ7FIDoxV9n35i_5fpysoAYSUmc2w/m3u8
-#EXTINF:-1 xui-id="106" tvg-id="XHTDID3" tvg-name="MEX - MULTIMEDIOS MTY HD" tvg-logo="http://154.12.247.170:80/images/ad5118248d8bccbd64cc5c782022e3e2.png" group-title="MEXICO",MEX - MULTIMEDIOS MTY HD
+#EXTINF:-1 xui-id="106" tvg-id="XHTDID3" tvg-name="MEX - MULTIMEDIOS MTY HD" tvg-logo="http://154.12.247.170:80/images/ad5118248d8bccbd64cc5c782022e3e2.png" group-title="sky mexico😏"multimedios mty
 http://154.12.247.170:80/play/MKSltNbIrJK2hPaQ7FIDoxnkFI-yZ84ap9q5Add-gZ8/m3u8
 #EXTINF:-1 tvg-id="aztecauno.mx" tvg-name="MX: Azteca Uno Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Azteca_Uno.png" group-title="sky mexico😏",MX: Azteca Uno Full HD
 http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24035.ts
-#EXTINF:-1 xui-id="104" tvg-id="IMGTVHD" tvg-name="MEX - IMAGEN TV HD" tvg-logo="http://154.12.247.170:80/images/39d014cf518394192af68e8e2e8fa1cf.png" group-title="sky mexico",IMAGEN TV HD
+#EXTINF:-1 xui-id="104" tvg-id="IMGTVHD" tvg-name="MEX - IMAGEN TV HD" tvg-logo="http://154.12.247.170:80/images/39d014cf518394192af68e8e2e8fa1cf.png" group-title="sky mexico😏",IMAGEN TV HD
 http://154.12.247.170:80/play/MKSltNbIrJK2hPaQ7FIDoxXVQN_a-XOw4UIt-uywbMA/m3u8
-#EXTINF:-1 tvg-id="mileniotelevision.mx" tvg-name="N | Milenio Noticias HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" group-title="TV | Noticias",N | Milenio Noticias HD
+#EXTINF:-1 tvg-id="mileniotelevision.mx" tvg-name="N | Milenio Noticias HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" group-title="sky mexico😏",N | Milenio Noticias HD
 http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/155160
 #EXTINF:-1 xui-id="103" tvg-id="XHIMID5" tvg-name="MEX - AZTECA 7 HD" tvg-logo="http://154.12.247.170:80/images/cbcf798e0a2f83da30dd45f88273598b.png" group-title="sky mexico😏",MEX - AZTECA 7 HD
 http://154.12.247.170:80/play/MKSltNbIrJK2hPaQ7FIDo5d4unDrhkfbIteBAzV2usI/m3u8
