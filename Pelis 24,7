@@ -425,8 +425,6 @@ http://hidra.live:80/fmfukngo/Z395trjb2A/34513.ts
 http://hidra.live:80/fmfukngo/Z395trjb2A/302621.ts
 #EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Disney Channel HD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/dc.png" group-title="alli y Naomi",Disney Channel HD (MX)
 http://hidra.live:80/fmfukngo/Z395trjb2A/302631.ts
-#EXTINF:-1 tvg-id="DisneyChannelSouth.us" tvg-name="Disney Channel FHD (LAT)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BU7vgzqVupa-gcdqOcZsRaq.png" group-title="alli y Naomi",Disney Channel FHD (LAT)
-http://hidra.live:80/fmfukngo/Z395trjb2A/34761.ts
 #EXTINF:-1 tvg-id="MX - Disney Junior" tvg-name="Disney Junior HD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/dj.png" group-title="alli y Naomi",Disney Junior HD (MX)
 http://hidra.live:80/fmfukngo/Z395trjb2A/302632.ts
 #EXTINF:-1 tvg-id="MX - Disney Junior" tvg-name="Disney Junior FHD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/dj.png" group-title="alli y Naomi",Disney Junior FHD (MX)
@@ -447,3 +445,7 @@ http://hidra.live:80/fmfukngo/Z395trjb2A/34792.ts
 http://hidra.live:80/fmfukngo/Z395trjb2A/302617.ts
 #EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Tooncast HD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/tooncast.png" group-title="alli y Naomi",Tooncast HD (MX)
 http://hidra.live:80/fmfukngo/Z395trjb2A/302735.ts
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Tooncast HD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/tooncast.png" group-title="Infantiles",Tooncast HD (MX)
+http://hidra.live:80/vpjvckwc/Romina1994/302735.ts
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Discovery Kids HD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/dk.png" group-title="Infantiles",Discovery Kids HD (MX)
+http://hidra.live:80/vpjvckwc/Romina1994/302625.ts
