@@ -445,7 +445,9 @@ http://hidra.live:80/fmfukngo/Z395trjb2A/34792.ts
 http://hidra.live:80/fmfukngo/Z395trjb2A/302617.ts
 #EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Tooncast HD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/tooncast.png" group-title="alli y Naomi",Tooncast HD (MX)
 http://hidra.live:80/fmfukngo/Z395trjb2A/302735.ts
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Tooncast HD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/tooncast.png" group-title="Infantiles",Tooncast HD (MX)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Tooncast HD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/tooncast.png" group-title="alli y naomi",Tooncast HD (MX)
 http://hidra.live:80/vpjvckwc/Romina1994/302735.ts
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Discovery Kids HD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/dk.png" group-title="Infantiles",Discovery Kids HD (MX)
+#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Discovery Kids HD (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Sky_Group_Logo_2020.png"https://img.tvcl.xyz/infantiles/dk.png" group-title="alli y naomi",Discovery Kids HD (MX)
 http://hidra.live:80/vpjvckwc/Romina1994/302625.ts
+#EXTINF:-1 xui-id="114" tvg-id="" tvg-name="INF - CARTOONITO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Sky_Group_Logo_2020.png"group-title="alli y naomi",INF - CARTOONITO HD
+http://154.12.247.170:80/play/MKSltNbIrJK2hPaQ7FIDoy1miES_7KhJJ2NKj8W3v2o/m3u8
