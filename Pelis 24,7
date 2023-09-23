@@ -1,4 +1,4 @@
-EXTM3U
+koEXTM3U
 #EXTINF:-1 xui-id="105" tvg-id="FOROHI1" tvg-name="MEX - FORO TV HD" tvg-logo="http://154.12.247.170:80/images/b0934016f4b3a5763042c51c05741c64.png" group-title="sky mexico😏",MEX - FORO TV HD
 http://154.12.247.170:80/play/MKSltNbIrJK2hPaQ7FIDoxV9n35i_5fpysoAYSUmc2w/m3u8
 #EXTINF:-1 xui-id="106" tvg-id="XHTDID3" tvg-name="MEX - MULTIMEDIOS MTY HD" tvg-logo="http://154.12.247.170:80/images/ad5118248d8bccbd64cc5c782022e3e2.png" group-title="sky mexico😏"multimedios mty
@@ -461,5 +461,5 @@ http://hidra.live:80/kupnwxyh/56y0SsYae2/302619.ts
 #EXTVLCOPT:http-referrer=http://protv.fun:80
 #EXTVLCOPT:http-user-agent=Lavf/57.71.001
 #EXTVLCOPT: almacenamiento en caché de red = 1000
-tvg-logo="https://logos-download.com/wp-content/uploads/2019/01/Las_Estrellas_Logo_black_background.png" group-title="sky mexico"
+#EXTVLCOPT:tvg-logo="https://logos-download.com/wp-content/uploads/2019/01/Las_Estrellas_Logo_black_background.png" group-title="sky mexico"
 http://protv.fun:80/Vitor2023/2023Vitor/552905
