@@ -1,5 +1,13 @@
 EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Afizzionados HD (MX)" tvg-logo="" group-title="Deportes",Afizzionados HD (MX)
+#EXTINF:-1 tvg-id="aztecauno.mx" tvg-name="MX: Azteca Uno Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Azteca_Uno.png" group-title="sky mexico😏",MX: Azteca Uno Full HD
+http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24035.ts
+#EXTINF:-1 xui-id="104" tvg-id="IMGTVHD" tvg-name="MEX - IMAGEN TV HD" tvg-logo="http://154.12.247.170:80/images/39d014cf518394192af68e8e2e8fa1cf.png" group-title="sky mexico",IMAGEN TV HD
+http://154.12.247.170:80/play/MKSltNbIrJK2hPaQ7FIDoxXVQN_a-XOw4UIt-uywbMA/m3u8
+#EXTINF:-1 tvg-id="mileniotelevision.mx" tvg-name="N | Milenio Noticias HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Milenio_Television.png" group-title="TV | Noticias",N | Milenio Noticias HD
+http://sdmx.vip:8080/Yuleisy-MA/Yu9784573699@/155160
+#EXTINF:-1 xui-id="103" tvg-id="XHIMID5" tvg-name="MEX - AZTECA 7 HD" tvg-logo="http://154.12.247.170:80/images/cbcf798e0a2f83da30dd45f88273598b.png" group-title="sky mexico😏",MEX - AZTECA 7 HD
+http://154.12.247.170:80/play/MKSltNbIrJK2hPaQ7FIDo5d4unDrhkfbIteBAzV2usI/m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Afizzionados HD (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Sky_Group_Logo_2020.png"group-title="Deportes",Afizzionados HD (MX)
 http://hidra.live:80/kamuujtc/RUBmat123/304505.ts
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTINF:-1 tvg-id="telemundowrmd.us" tvg-name="LAT: Telemundo Tampa" tvg-logo="https://download.logo.wine/logo/Telemundo/Telemundo-Logo.wine.png" group-title="LAT - Entretenimiento USA",LAT: Telemundo Tampa
@@ -8,34 +16,26 @@ http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/41445.ts
 http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/16827.ts
 #EXTINF:-1 tvg-id="Canal Aprende" tvg-name="Las Estrellas -1HRs HD (MX)" tvg-logo="https://img.tvcl.xyz/entretencion/lasestrellas.png" group-title="sky mexico😏",Las Estrellas -1HRs HD (MX)
 http://hidra.live:80/kupnwxyh/56y0SsYae2/304504.ts
-#EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5 HD (MX)" tvg-logo="https://images.mi.tv/channels/mx_xh-gc-canal-5-hd_m.png" group-title="sky mexico😏",Canal 5 HD (MX)
-http://hidra.live:80/kupnwxyh/56y0SsYae2/302619.ts
 #EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="Las Estrellas FHD -2hr (MX)" tvg-logo="https://logos-download.com/wp-content/uploads/2019/01/Las_Estrellas_Logo_black_background.png" group-title="sky mexico😏",Las Estrellas FHD -2hr (MX)
 http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/176538.ts
+#EXTINF:-1 tvg-id="Canal 5" tvg-name="Canal 5 HD (MX)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Sky_Group_Logo_2020.png"group-title="sky mexico😏",Canal 5 HD (MX)
+http://hidra.live:80/kupnwxyh/56y0SsYae2/302619.ts
 #EXTINF:-1 tvg-id="americasvoice.us" tvg-name="LAT: Galavision Miami HD" tvg-logo="https://logodix.com/logo/2014739.png" group-title="LAT - Entretenimiento USA",LAT: Galavision Miami HD
 http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26803.ts
 #EXTINF:-1 tvg-id="univision23wltv.us" tvg-name="LAT: Univision Miami HD" tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="LAT - Entretenimiento USA",LAT: Univision Miami HD
 http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26876.ts
 #EXTINF:-1 tvg-id="Telemundo.mx" tvg-name="LAt:Telemundo Miami HQ (US)" tvg-logo="https://img.tvcl.xyz/internacionales/telemundo.png" group-title="LAT - Entretenimiento USA",Telemundo Miami HQ (US)
 http://hidra.live:80/kupnwxyh/56y0SsYae2/35098.ts
-#EXTINF:-1 xui-id="103" tvg-id="XHIMID5" tvg-name="MEX - AZTECA 7 HD" tvg-logo="http://154.12.247.170:80/images/cbcf798e0a2f83da30dd45f88273598b.png" group-title="sky mexico😏",MEX - AZTECA 7 HD
-http://154.12.247.170:80/play/MKSltNbIrJK2hPaQ7FIDo5d4unDrhkfbIteBAzV2usI/m3u8
 #EXTINF:-1 xui-id="107" tvg-id="XEQ" tvg-name="MEX - CANAL NU9VE HD" tvg-logo="http://154.12.247.170:80/images/464b2c4674c0db3b3df7b0cb7b8b21b0.png" group-title="sky mexico😏" - CANAL NU9VE HD
 http://154.12.247.170:80/play/MKSltNbIrJK2hPaQ7FIDo1Q2FT17HB_-XrQk6iKM2PU/m3u8
-#EXTINF:-1 tvg-id="aztecauno.mx" tvg-name="MX: Azteca Uno Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Azteca_Uno.png" group-title="sky mexico😏",MX: Azteca Uno Full HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24035.ts
 #EXTINF:-1 tvg-id="mileniotelevision.mx" tvg-name="MX: Milenio TV FHD" tvg-logo="https://static.epg.best/mx/MilenioTelevision.mx.png" group-title="sky mexico😏",MX: Milenio TV FHD
 http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/250588.ts
-#EXTINF:-1 tvg-id="distritocomedia.mx" tvg-name="MX: Distrito Comedia HD" tvg-logo="http://swedtv.vip/logos/Mexico/Distrito_Comedia.png" group-title="sky mexico😏",MX: Distrito Comedia HD
+#EXTINF:-1 tvg-id="distritocomedia.mx" tvg-name="MX: Distrito Comedia HD" tvg-logo="http://swedtv.vip/logohttps://upload.wikimedia.org/wikipedia/commons/2/2c/Sky_Group_Logo_2020.png"Mexico/Distrito_Comedia.png" group-title="sky mexico😏",MX: Distrito Comedia HD
 http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/178028.ts
-#EXTINF:-1 tvg-id="unicable.mx" tvg-name="MX: Unicable Full HD" tvg-logo="http://swedtv.vip/logos/Mexico/Unicable.png" group-title="sky mexico😏",MX: Unicable Full HD
+#EXTINF:-1 tvg-id="unicable.mx" tvg-name="MX: Unicable Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Sky_Group_Logo_2020.png" group-title="sky mexico😏",MX: Unicable Full HD
 http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24066.ts
 #EXTINF:-1 tvg-id="5nacional.mx" tvg-name="MX: Canal 5 Full HD" tvg-logo="http://swedtv.net:8080/TitanMaster(19)@19/s4pGJABXNayr/24037" group-title="sky mexico😏",MX: Canal 5 Full HD
 http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24037.ts
-#EXTINF:-1 tvg-id="EL: UNIMAS WEST" tvg-name="LAT: Unimas oesteHD" tvg-logo="https://www.watchnextgentv.com/wp-content/uploads/2020/10/wng-markets-dallas-KSTR.png" group-title="LAT - Entretenimiento USA",LAT: Unimas West HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26903.ts
-#EXTINF:-1 tvg-id="UniMas.us" tvg-name="LAT: Unimas Este (fl)" tvg-logo="https://www.watchnextgentv.com/wp-content/uploads/2020/10/wng-markets-dallas-KSTR.png" group-title="LAT - Entretenimiento USA",LAT: Unimas East
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/31124.ts
 #EXTINF:-1 tvg-id="megatv.us" tvg-name="LAT: Mega TV Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Mega_TV_logo_2016.svg/2560px-Mega_TV_logo_2016.svg.png" group-title="LAT - Entretenimiento USA",LAT: Mega TV Miami
 #EXTVLCOPT:network-caching=1000
 http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/309393.ts
