@@ -203,8 +203,6 @@ http://hidra.live:80/fmfukngo/Z395trjb2A/58123.ts
 http://hidra.live:80/fmfukngo/Z395trjb2A/58264.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Caso Cerrado HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Caso Cerrado HD
 http://hidra.live:80/fmfukngo/Z395trjb2A/58265.ts
-#EXTINF:-1 tvg-id="ETCTV.cl" tvg-name="24/7 Coraje SD" tvg-logo="https://es.m.wikipedia.org/wiki/Courage_the_Cowardly_Dog#/media/Archivo%3ACourage_The_Cowardly_Dog_logo.png"group-title="Canal coraje",24/7 Coraje SD
-http://hidra.live:80/fmfukngo/Z395trjb2A/58267.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball GT HD" tvg-logo="https://img.tvcl.xyz/247/247.png"group-title="Canales 24/7",24/7 Dragon Ball GT HD
 http://hidra.live:80/fmfukngo/Z395trjb2A/58271.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Dragon Ball Super HD" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="Canales 24/7",24/7 Dragon Ball Super HD
@@ -451,3 +449,5 @@ http://hidra.live:80/vpjvckwc/Romina1994/302735.ts
 http://hidra.live:80/vpjvckwc/Romina1994/302625.ts
 #EXTINF:-1 xui-id="114" tvg-id="" tvg-name="INF - CARTOONITO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Sky_Group_Logo_2020.png"group-title="alli y naomi",INF - CARTOONITO HD
 http://154.12.247.170:80/play/MKSltNbIrJK2hPaQ7FIDoy1miES_7KhJJ2NKj8W3v2o/m3u8
+#EXTINF:-1 tvg-id="ETCTV.cl" tvg-name="24/7 Coraje SD" tvg-logo="https://es.m.wikipedia.org/wiki/Courage_the_Cowardly_Dog#/media/Archivo%3ACourage_The_Cowardly_Dog_logo.png"group-title="Canal coraje",24/7 Coraje SD
+http://hidra.live:80/fmfukngo/Z395trjb2A/58267.ts
