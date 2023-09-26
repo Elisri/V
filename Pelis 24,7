@@ -456,10 +456,3 @@ http://154.12.247.170:80/play/MKSltNbIrJK2hPaQ7FIDoy1miES_7KhJJ2NKj8W3v2o/m3u8
 http://hidra.live:80/fmfukngo/Z395trjb2A/58267.ts
 #EXTINF:-1 tvg-id="Canal 5" tvg-name="LAT:Canal 5 HD (MX)" tvg-logo="https://images.mi.tv/channels/mx_xh-gc-canal-5-hd_m.png" group-title="sky mexico😏"LAT: Canal 5 HD (MX)
 http://hidra.live:80/kupnwxyh/56y0SsYae2/302619.ts
-#EXTINF:-1,MXC| PLANETA ANIMAL HD
-#EXTVLCOPT--http-reconnect=true
-#EXTVLCOPT:http-referrer=http://protv.fun:80
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-#EXTVLCOPT: almacenamiento en caché de red = 1000
-#EXTVLCOPT:tvg-logo="https://logos-download.com/wp-content/uploads/2019/01/Las_Estrellas_Logo_black_background.png" group-title="sky mexico"
-http://protv.fun:80/Vitor2023/2023Vitor/552905
