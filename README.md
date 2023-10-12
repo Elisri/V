@@ -1,43 +1,12 @@
-#EXTM3U 
-#EXTINF: 9 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="México - Valencia", Las estrellas-2
-http://154.12.247.170/play/MKSltNbIrJK2hPaQ7FIDo2Ke2o-N-_ayjsAzjrbR9cg/m3u8
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="LAT:Las Estrellas -1HRs HD (MX)" tvg-logo="https://img.tvcl.xyz/entretencion/lasestrellas.png" group-title="México - Valencia",LAT: Las Estrellas -1HRs HD (MX)
-http://hidra.live:80/kupnwxyh/56y0SsYae2/304504.ts
-#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="LAT: Las Estrellas FHD (MX)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Las_Estrellas.png" group-title="México - Valencia",LAT: Las Estrellas FHD (MX)
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/16827.ts
-#EXTINF:-1 tvg-id="EL: UNIMAS WEST" tvg-name="LAT: Unimas oesteHD" tvg-logo="https://www.watchnextgentv.com/wp-content/uploads/2020/10/wng-markets-dallas-KSTR.png" group-title="LAT - Entretenimiento USA",LAT: Unimas West HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26903.ts
-#EXTINF:-1 tvg-id="UniMas.us" tvg-name="LAT: Unimas Este (fl)" tvg-logo="https://www.watchnextgentv.com/wp-content/uploads/2020/10/wng-markets-dallas-KSTR.png" group-title="LAT - Entretenimiento USA",LAT: Unimas East
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/31124.ts
-#EXTINF:-1 tvg-id="megatv.us" tvg-name="LAT: Mega TV Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Mega_TV_logo_2016.svg/2560px-Mega_TV_logo_2016.svg.png" group-title="LAT - Entretenimiento USA",LAT: Mega TV Miami
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/309393.ts
-#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="LAT: Las Estrellas FHD (MX)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Las_Estrellas.png" group-title="LAT - Entretenimiento",LAT: Las Estrellas FHD (MX)
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/16827.ts
-#EXTINF:-1 tvg-id="Canal Aprende" tvg-name="LAT:Las Estrellas -1HRs HD (MX)" tvg-logo="https://img.tvcl.xyz/entretencion/lasestrellas.png" group-title="LAT - Entretenimiento",LAT: Las Estrellas -1HRs HD (MX)
-http://hidra.live:80/kupnwxyh/56y0SsYae2/304504.ts
-#EXTINF:-1 tvg-id="Canal 5" tvg-name="LAT:Canal 5 HD (MX)" tvg-logo="https://images.mi.tv/channels/mx_xh-gc-canal-5-hd_m.png" group-title="LAT - Entretenimiento", LAT: Canal 5 HD (MX)
-http://hidra.live:80/kupnwxyh/56y0SsYae2/302619.ts
-#EXTINF:-1 tvg-id="Canal 7" tvg-name="LAT:Azteca 7 HD (MX)" tvg-logo="" group-title="LAT - Entretenimiento",LAT: Azteca 7 HD (MX)
-http://hidra.live:80/kupnwxyh/56y0SsYae2/302683.ts
-#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="LAT: Las Estrellas FHD -2hr (MX)" tvg-logo="http://swedtv.vip/logos/entretenimiento/Las_Estrellas-2hrs.png" group-title="LAT - Entretenimiento",LAT: Las Estrellas FHD -2hr (MX)
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/176538.ts
-#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="LAT: Galavision Miami HD" tvg-logo="https://logodix.com/logo/2014739.png" group-title="LAT - Entretenimiento USA",LAT: Galavision Miami HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26803.ts
-#EXTINF:-1 tvg-id="univision23wltv.us" tvg-name="LAT: Univision Miami HD" tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="LAT - Entretenimiento USA",LAT: Univision Miami HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26876.ts
-#EXTINF:-1 tvg-id="Telemundo.mx" tvg-name="LAt:Telemundo Miami HQ (US)" tvg-logo="https://img.tvcl.xyz/internacionales/telemundo.png" group-title=LAT"Entretenimiento USA",Telemundo Miami HQ (US)
-http://hidra.live:80/kupnwxyh/56y0SsYae2/35098.ts
-#EXTINF:-1 tvg-id="aztecauno.mx" tvg-name="MX: Azteca Uno Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Azteca_Uno.png" group-title="Mexico",MX: Azteca Uno Full HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24035.ts
-#EXTINF:-1 tvg-id="mileniotelevision.mx" tvg-name="MX: Milenio TV FHD" tvg-logo="https://static.epg.best/mx/MilenioTelevision.mx.png" group-title="Mexico",MX: Milenio TV FHD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/250588.ts
-#EXTINF:-1 tvg-id="distritocomedia.mx" tvg-name="MX: Distrito Comedia HD" tvg-logo="http://swedtv.vip/logos/Mexico/Distrito_Comedia.png" group-title="Mexico",MX: Distrito Comedia HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/178028.ts
-#EXTINF:-1 tvg-id="unicable.mx" tvg-name="MX: Unicable Full HD" tvg-logo="http://swedtv.vip/logos/Mexico/Unicable.png" group-title="Mexico",MX: Unicable Full HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24066.ts
-#EXTINF:-1 tvg-id="5nacional.mx" tvg-name="MX: Canal 5 Full HD" tvg-logo="http://swedtv.net:8080/TitanMaster(19)@19/s4pGJABXNayr/24037" group-title="Mexico",MX: Canal 5 Full HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24037.ts
-#EXTINF:-1 tvg-id="BabyTv" tvg-name="Baby TV HD (MX)" tvg-logo="http://hidra.live:80/images/H3Ozprwqfek7GL5err1An6P2V-Mpbd2ErzMfqSK8_BXCkcbidQhfffzInLUnNGsd.png" group-title="Infantiles",Baby TV HD (MX)
-http://hidra.live:80/kamuujtc/RUBmat123/312755.ts
-#EXTINF:-1 tvg-id="Canal BabyFirst TV" tvg-name="Baby First HD (MX)" tvg-logo="https://img.tvcl.xyz/infantiles/babyfirst.png" group-title="Infantiles",Baby First HD (MX)
-http://hidra.live:80/kamuujtc/RUBmat123/34792.ts
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1 tvg-id="" tvg-name="azteca 7" tvg-logo="" group-title="México"
+https://tvazteca-live-cdn-mdstrm-com.akamaized.net/live-stream-gdai/linear/hls/pa/event/PNEbbcJZRAaP4wDlQMW2LA/stream/c458dec8-cae5-440e-af4c-f0f0ef2af6e2:TUL/variant/993f6326354af989084062cfab46c32a/bandwidth/1623600.m3u8?es=tvazteca-live-cdn-mdstrm-com.akamaized.net&proto=https
+#EXTINF:-1 tvg-id="" tvg-name="las estrellas fhd" tvg-logo="" group-title="México"
+https://channel01.akamaized.net:443/hls/live/2022749/event01/index_6.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="azteca 1" tvg-logo="" group-title="México"
+https://us-b4-p-e-zs14.cdn.mdstrm.com/live-stream/609b243156cca108312822a6/publish/media_1500.m3u8?aid=5fea09a071a9945deebf5f7c&uid=N9uEksrZ8T0jTNitTn2AVbYNMH7jzIKw&sid=PoaeUHihyOv6OpXy54fWu3t6kN9YMirP&pid=7yikQ8W265FEY1hGVjZETds5rPHTP1gX&ref=https%3A%2F%2Fwww.tvazteca.com%2F&without_cookies=false&listenerid=&dnt=true&es=us-b4-p-e-zs14.cdn.mdstrm.com&ote=1697213596668&ot=VTARsBQddzw9Ie6JblJfNg&proto=https&pz=us
+#EXTINF:-1 tvg-id="" tvg-name="disney Chanel" tvg-logo="" group-title="México"
+https://usher.ttvnw.net/api/channel/hls/dk_0145.m3u8?acmb=e30%3D&allow_source=true&fast_bread=true&p=6618325&play_session_id=fa9580555e91b243d1b59b6bf420a3b8&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=b7d8bc291a2cba25b6a711040151bc4d387d646d&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22dk_0145%22%2C%22channel_id%22%3A784053613%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22e001b9e2086920b2%22%2C%22expires%22%3A1697128844%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22170.239.151.100%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1&cdm=wv&player_version=1.22.0
+#EXTINF:-1 tvg-id="" tvg-name="univicion" tvg-logo="" group-title="México"
+https://usher.ttvnw.net/api/channel/hls/utttn_104ll.m3u8?acmb=e30%3D&allow_source=true&fast_bread=true&p=5458171&play_session_id=4aa9a875ea41b107dc30521b1261b71e&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=6e4f0160cb5dc07a4e9608c87d434fefeb5ac72f&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22utttn_104ll%22%2C%22channel_id%22%3A841363168%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22e001b9e2086920b2%22%2C%22expires%22%3A1697128998%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22170.239.151.100%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1&cdm=wv&player_version=1.22.0
