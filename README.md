@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTINF:-1 tvg-id="" tvg-name="azteca 7" tvg-logo="" group-title="México"
-https://tvazteca-live-cdn-mdstrm-com.akamaized.net/live-stream-gdai/linear/hls/pa/event/PNEbbcJZRAaP4wDlQMW2LA/stream/c458dec8-cae5-440e-af4c-f0f0ef2af6e2:TUL/variant/993f6326354af989084062cfab46c32a/bandwidth/1623600.m3u8?es=tvazteca-live-cdn-mdstrm-com.akamaized.net&proto=https
+https://us-b4-p-e-ja16.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/PNEbbcJZRAaP4wDlQMW2LA/stream/16ffaee0-9302-48f9-9b29-40f24bf69a9c:DLS/master.m3u8?uid=N9uEksrZ8T0jTNitTn2AVbYNMH7jzIKw&sid=DyjgBQbmytH0kRmFLU5mrRp01t5MJSyQ&pid=ALNSjk2tMZ359MtyjsWBx4XTv850j1Uw&ref=https%3A%2F%2Fwww.tvazteca.com%2F&without_cookies=false&listenerid=&dnt=true&ote=1697660846501&ot=5rQErygfvaQo0toNx_a2bg&es=us-b4-p-e-ja16.cdn.mdstrm.com&proto=https&pz=us&aid=5fea09a071a9945deebf5f7c
 #EXTINF:-1 tvg-id="" tvg-name="las estrellas fhd" tvg-logo="" group-title="México"
 https://channel01.akamaized.net:443/hls/live/2022749/event01/index_6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="azteca 1" tvg-logo="" group-title="México"
