@@ -14,3 +14,5 @@ https://usher.ttvnw.net/api/channel/hls/utttn_104ll.m3u8?acmb=e30%3D&allow_sourc
 https://g10myoqlwt.sw-cdnstream.com/hls2/01/01790/0tlbl1prghcq_x/master.m3u8?t=kqnc51nAuZ3Mbd36UMxEKT0LOMpzi8xAwA2xP1OaMTY&s=1697573720&e=129600&f=8953656&srv=kekjtzyzmgwi&i=0.4&sp=500&p1=kekjtzyzmgwi&p2=kekjtzyzmgwi&asn=28458
 #EXTINF:-1 tvg-id="" tvg-name="Capitulo 2" tvg-logo="" group-title="Chucky 3er temporada"
 https://m8alrojj.sw-cdnstream.com:443/hls2/01/01942/hc9uhcgbvs8l_n/index-v1-a1.m3u8?t=WXQl6FBImYh0KU4deXbNOj_QRzIitY-EYQENrm6L-SU&s=1697573356&e=129600&f=9710580&srv=xjulwszvzhjq&i=0.4&sp=500&p1=xjulwszvzhjq&p2=xjulwszvzhjq&asn=28458
+#EXTINF:-1 tvg-id="" tvg-name="dumbo" tvg-logo="" group-title="películas"
+https://trshtsrhjsrtjhh.sw-cdnstream.com/hls2/01/00971/seon48pbreks_o/master.m3u8?t=8KBi38VT-soNsfwdM47wgxSNZjxDk3b53vm6O-wdalQ&s=1697574893&e=129600&f=4856426&srv=uvawuccjxles&i=0.4&sp=500&p1=uvawuccjxles&p2=uvawuccjxles&asn=28458
