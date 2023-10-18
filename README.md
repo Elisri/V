@@ -1,4 +1,4 @@
-#EXTM3U
+ki#EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTINF:-1 tvg-id="" tvg-name="azteca 7" tvg-logo="" group-title="México"
 https://us-b4-p-e-ja16.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/PNEbbcJZRAaP4wDlQMW2LA/stream/16ffaee0-9302-48f9-9b29-40f24bf69a9c:DLS/master.m3u8?uid=N9uEksrZ8T0jTNitTn2AVbYNMH7jzIKw&sid=DyjgBQbmytH0kRmFLU5mrRp01t5MJSyQ&pid=ALNSjk2tMZ359MtyjsWBx4XTv850j1Uw&ref=https%3A%2F%2Fwww.tvazteca.com%2F&without_cookies=false&listenerid=&dnt=true&ote=1697660846501&ot=5rQErygfvaQo0toNx_a2bg&es=us-b4-p-e-ja16.cdn.mdstrm.com&proto=https&pz=us&aid=5fea09a071a9945deebf5f7c
@@ -16,3 +16,5 @@ https://g10myoqlwt.sw-cdnstream.com/hls2/01/01790/0tlbl1prghcq_x/master.m3u8?t=k
 https://m8alrojj.sw-cdnstream.com:443/hls2/01/01942/hc9uhcgbvs8l_n/index-v1-a1.m3u8?t=WXQl6FBImYh0KU4deXbNOj_QRzIitY-EYQENrm6L-SU&s=1697573356&e=129600&f=9710580&srv=xjulwszvzhjq&i=0.4&sp=500&p1=xjulwszvzhjq&p2=xjulwszvzhjq&asn=28458
 #EXTINF:-1 tvg-id="" tvg-name="dumbo" tvg-logo="" group-title="películas"
 https://trshtsrhjsrtjhh.sw-cdnstream.com/hls2/01/00971/seon48pbreks_o/master.m3u8?t=8KBi38VT-soNsfwdM47wgxSNZjxDk3b53vm6O-wdalQ&s=1697574893&e=129600&f=4856426&srv=uvawuccjxles&i=0.4&sp=500&p1=uvawuccjxles&p2=uvawuccjxles&asn=28458
+#EXTINF:-1 tvg-id="" tvg-name="la novia de chucky" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="películas"
+https://bd4cultg5t.sw-cdnstream.com/hls2/01/00916/ybqy7dkyb2wy_o/master.m3u8?t=uaYEhjPGt8pMkD2MkjMKb9t0KiLNmHdLxKpLLF56LS8&s=1697587267&e=129600&f=4582054&srv=uvawuccjxles&i=0.4&sp=500&p1=uvawuccjxles&p2=uvawuccjxles&asn=28458
