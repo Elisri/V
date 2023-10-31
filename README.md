@@ -18,3 +18,5 @@ https://m8alrojj.sw-cdnstream.com:443/hls2/01/01942/hc9uhcgbvs8l_n/index-v1-a1.m
 https://trshtsrhjsrtjhh.sw-cdnstream.com/hls2/01/00971/seon48pbreks_o/master.m3u8?t=8KBi38VT-soNsfwdM47wgxSNZjxDk3b53vm6O-wdalQ&s=1697574893&e=129600&f=4856426&srv=uvawuccjxles&i=0.4&sp=500&p1=uvawuccjxles&p2=uvawuccjxles&asn=28458
 #EXTINF:-1 tvg-id="" tvg-name="la novia de chucky" tvg-logo="https://img.tvcl.xyz/247/247.png" group-title="películas"
 https://bd4cultg5t.sw-cdnstream.com/hls2/01/00916/ybqy7dkyb2wy_o/master.m3u8?t=uaYEhjPGt8pMkD2MkjMKb9t0KiLNmHdLxKpLLF56LS8&s=1697587267&e=129600&f=4582054&srv=uvawuccjxles&i=0.4&sp=500&p1=uvawuccjxles&p2=uvawuccjxles&asn=28458
+#EXTINF:-1 tvg-id="" tvg-name="eso 1990" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/GmPXcuD8RFoivUaGay7j5cPURl.jpg" group-title="pelis terror",eso 1990
+https://www.dailymotion.com/cdn/manifest/video/x6dgcwg.m3u8?sec=tBGiJ2y7loaw_Ezm0kWtyw28j2YexI9zwbPv1pMbMZqUgUWjDoyARx4T4nJngF4W&dmTs=518700&dmV1st=7fe5cdf2-5014-4335-a62e-48e6a150644a
