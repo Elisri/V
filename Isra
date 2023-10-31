@@ -1,160 +1,1232 @@
-loEXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="Las Estrellas FHD (MX)" tvg-logo="https://logos-download.com/wp-content/uploads/2019/01/Las_Estrellas_Logo_black_background.png" group-title="LAT - Entretenimiento",LAT: estrellas FHD (MX)
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/16827.ts
-#EXTINF:-1 tvg-id="lasestrellas.mx" tvg-name="Las Estrellas -1hr (MX)" tvg-logo="https://logos-download.com/wp-content/uploads/2019/01/Las_Estrellas_Logo_black_background.png" group-title="LAT - Entretenimiento",Las Estrellas FHD -1hr (MX)
-http://hidra.live:80/kupnwxyh/56y0SsYae2/304504.ts
-#EXTINF:-1 tvg-id="Canal 5" tvg-name="LAT:Canal 5 HD (MX)" tvg-logo="https://images.mi.tv/channels/mx_xh-gc-canal-5-hd_m.png" group-title="LAT - Entretenimiento", LAT: Canal 5 HD (MX)
-http://hidra.live:80/kupnwxyh/56y0SsYae2/302619.ts
-#EXTINF:-1 tvg-id="Canal 7" tvg-name="LAT:Azteca 7 HD (MX)" tvg-logo="" https://i.im.ge/2022/08/05/FbxyrC.images-5.png" group-title="LAT - Entretenimiento",LAT: Azteca 7 HD (MX)
-http://hidra.live:80/kupnwxyh/56y0SsYae2/302683.ts
-#EXTINF: 9 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="Ungrouped", Las estrellas-2
-http://154.12.247.170/play/MKSltNbIrJK2hPaQ7FIDo2Ke2o-N-_ayjsAzjrbR9cg/m3u8
-#EXTINF:-1 tvg-id="americasvoice.us" tvg-name="LAT: Galavision Miami HD" tvg-logo="https://logodix.com/logo/2014739.png" group-title="LAT - Entretenimiento USA",LAT: Galavision Miami HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26803.ts
-#EXTINF:-1 tvg-id="univision23wltv.us" tvg-name="LAT: Univision Miami HD" tvg-logo="https://st1.uvnimg.com/c1/e7/b418a1da4dc8868294190bfb047e/logo-univision.png" group-title="LAT - Entretenimiento USA",LAT: Univision Miami HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/26876.ts
-#EXTINF:-1 tvg-id="Telemundo.mx" tvg-name="LAt:Telemundo Miami HQ (US)" tvg-logo="https://img.tvcl.xyz/internacionales/telemundo.png" group-title=LAT"Entretenimiento USA",Telemundo Miami HQ (US)
-http://hidra.live:80/kupnwxyh/56y0SsYae2/35098.ts
-#EXTINF:-1 tvg-id="" tvg-name="▂ ▄ ▅ ▆  MEXICO  ▆ ▅ ▄ ▂" tvg-logo="http://viperos.net:8080/images/0b2827ba5fa58dc5c3e4f68c50034db0.png" group-title="LAT - Mexico",▂ ▄ ▅ ▆  MEXICO  ▆ ▅ ▄ ▂
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/32224.ts
-#EXTINF:-1 tvg-id="canaladn40.mx" tvg-name="MX: ADN 40 (MOVIL)" tvg-logo="https://static.epg.best/mx/ADN40.mx.png" group-title="LAT - Mexico",MX: ADN 40 (MOVIL)
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/64721.ts
-#EXTINF:-1 tvg-id="canaladn40.mx" tvg-name="MX: ADN 40" tvg-logo="https://static.epg.best/mx/ADN40.mx.png" group-title="LAT - Mexico",MX: ADN 40
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24039.ts
-#EXTINF:-1 tvg-id="canaladn40.mx" tvg-name="MX: ADN 40 HD" tvg-logo="https://static.epg.best/mx/ADN40.mx.png" group-title="LAT - Mexico",MX: ADN 40 HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/107115.ts
-#EXTINF:-1 tvg-id="canaladn40.mx" tvg-name="MX: ADN 40 FHD" tvg-logo="https://static.epg.best/mx/ADN40.mx.png" group-title="LAT - Mexico",MX: ADN 40 FHD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24040.ts
-#EXTINF:-1 tvg-id="azteca7.mx" tvg-name="MX: Azteca 7 (MOVIL)" tvg-logo="https://i.im.ge/2022/08/05/FbxyrC.images-5.png" group-title="LAT - Mexico",MX: Azteca 7 (MOVIL)
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/64739.ts
-#EXTINF:-1 tvg-id="azteca7.mx" tvg-name="MX: Azteca 7" tvg-logo="https://i.im.ge/2022/08/05/FbxyrC.images-5.png" group-title="LAT - Mexico",MX: Azteca 7
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24032.ts
-#EXTINF:-1 tvg-id="azteca7.mx" tvg-name="MX: Azteca 7 Full HD" tvg-logo="https://i.im.ge/2022/08/05/FbxyrC.images-5.png" group-title="LAT - Mexico",MX: Azteca 7 Full HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24033.ts
-#EXTINF:-1 tvg-id="aztecauno.mx" tvg-name="MX: Azteca Uno (MOVIL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Azteca_Uno.png" group-title="LAT - Mexico",MX: Azteca Uno (MOVIL)
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/65050.ts
-#EXTINF:-1 tvg-id="aztecauno.mx" tvg-name="MX: Azteca Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Azteca_Uno.png" group-title="LAT - Mexico",MX: Azteca Uno
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24034.ts
-#EXTINF:-1 tvg-id="aztecauno.mx" tvg-name="MX: Azteca Uno Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Azteca_Uno.png" group-title="LAT - Mexico",MX: Azteca Uno Full HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24035.ts
-#EXTINF:-1 tvg-id="azclic.mx" tvg-name="MX: Az Clic (MOVIL)" tvg-logo="http://swedtv.vip/logos/Mexico/az_clic.png" group-title="LAT - Mexico",MX: Az Clic (MOVIL)
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/65048.ts
-#EXTINF:-1 tvg-id="azclic.mx" tvg-name="MX: Az Clic SD" tvg-logo="http://swedtv.vip/logos/Mexico/az_clic.png" group-title="LAT - Mexico",MX: Az Clic SD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24061.ts
-#EXTINF:-1 tvg-id="azclic.mx" tvg-name="MX: Az Clic HD" tvg-logo="http://swedtv.vip/logos/Mexico/az_clic.png" group-title="LAT - Mexico",MX: Az Clic HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24062.ts
-#EXTINF:-1 tvg-id="azcinema.mx" tvg-name="MX: Az Cinema SD" tvg-logo="https://i.im.ge/2022/08/04/FYg2J8.cinema.jpg" group-title="LAT - Mexico",MX: Az Cinema SD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24069.ts
-#EXTINF:-1 tvg-id="azcinema.mx" tvg-name="MX: Az Cinema HD" tvg-logo="https://i.im.ge/2022/08/04/FYg2J8.cinema.jpg" group-title="LAT - Mexico",MX: Az Cinema HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24070.ts
-#EXTINF:-1 tvg-id="azcinema.mx" tvg-name="MX: Az Cinema FHD" tvg-logo="https://i.im.ge/2022/08/04/FYg2J8.cinema.jpg" group-title="LAT - Mexico",MX: Az Cinema FHD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/250589.ts
-#EXTINF:-1 tvg-id="azcorazon.mx" tvg-name="MX: Az Corazon HD" tvg-logo="http://swedtv.vip/logos/Mexico/az_corazon.png" group-title="LAT - Mexico",MX: Az Corazon HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24051.ts
-#EXTINF:-1 tvg-id="azcorazon.mx" tvg-name="MX: Az Corazon FHD" tvg-logo="http://swedtv.vip/logos/Mexico/az_corazon.png" group-title="LAT - Mexico",MX: Az Corazon FHD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24052.ts
-#EXTINF:-1 tvg-id="aztecamundo.mx" tvg-name="MX: Az Mundo" tvg-logo="https://i.im.ge/2022/08/05/FbxUrF.images-4.png" group-title="LAT - Mexico",MX: Az Mundo
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24079.ts
-#EXTINF:-1 tvg-id="aztecamundo.mx" tvg-name="MX: Az Mundo Full HD" tvg-logo="https://i.im.ge/2022/08/05/FbxUrF.images-4.png" group-title="LAT - Mexico",MX: Az Mundo Full HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24080.ts
-#EXTINF:-1 tvg-id="5nacional.mx" tvg-name="MX: Canal 5 (MOVIL)" tvg-logo="https://i.im.ge/2022/08/05/FbxxMP.images-6.png" group-title="LAT - Mexico",MX: Canal 5 (MOVIL)
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/65060.ts
-#EXTINF:-1 tvg-id="5nacional.mx" tvg-name="MX: Canal 5" tvg-logo="https://i.im.ge/2022/08/05/FbxxMP.images-6.png" group-title="LAT - Mexico",MX: Canal 5
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24036.ts
-#EXTINF:-1 tvg-id="5nacional.mx" tvg-name="MX: Canal 5 Full HD" tvg-logo="http://swedtv.net:8080/TitanMaster(19)@19/s4pGJABXNayr/24037" group-title="LAT - Mexico",MX: Canal 5 Full HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24037.ts
-#EXTINF:-1 tvg-id="galatv9nacional.mx" tvg-name="MX: Galatv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Galavision_Logo_2013.svg/1200px-Galavision_Logo_2013.svg.png" group-title="LAT - Mexico",MX: Galatv
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24038.ts
-#EXTINF:-1 tvg-id="forotv.mx" tvg-name="MX: Foro TV" tvg-logo="https://static.epg.best/mx/ForoTv.mx.png" group-title="LAT - Mexico",MX: Foro TV
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24041.ts
-#EXTINF:-1 tvg-id="forotv.mx" tvg-name="MX: Foro TV Full HD" tvg-logo="https://static.epg.best/mx/ForoTv.mx.png" group-title="LAT - Mexico",MX: Foro TV Full HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24042.ts
-#EXTINF:-1 tvg-id="multimedios.mx" tvg-name="MX: Multimedios" tvg-logo="https://static.epg.best/mx/Multimedios.mx.png" group-title="LAT - Mexico",MX: Multimedios
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24043.ts
-#EXTINF:-1 tvg-id="multimedios.mx" tvg-name="MX: Multimedios Full HD" tvg-logo="https://static.epg.best/mx/Multimedios.mx.png" group-title="LAT - Mexico",MX: Multimedios Full HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24044.ts
-#EXTINF:-1 tvg-id="MX: MULTIMEDIOS PLUS" tvg-name="MX: Multimedios Plus" tvg-logo="https://i.im.ge/2022/08/05/FbbdDP.Multimedios-2.webp" group-title="LAT - Mexico",MX: Multimedios Plus
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24045.ts
-#EXTINF:-1 tvg-id="MX: MULTIMEDIOS PLUS" tvg-name="MX: Multimedios Plus Full HD" tvg-logo="https://i.im.ge/2022/08/05/FbbdDP.Multimedios-2.webp" group-title="LAT - Mexico",MX: Multimedios Plus Full HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24046.ts
-#EXTINF:-1 tvg-id="teleformula.mx" tvg-name="MX: Teleformula" tvg-logo="https://static.epg.best/mx/TeleFormula.mx.png" group-title="LAT - Mexico",MX: Teleformula
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24047.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX: Televisa MTY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logotipo_de_Televisa_%282001-2016%29.png" group-title="LAT - Mexico",MX: Televisa MTY
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24048.ts
-#EXTINF:-1 tvg-id="xhpdt.mx" tvg-name="MX: Televisa Puebla (MOVIL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logotipo_de_Televisa_%282001-2016%29.png" group-title="LAT - Mexico",MX: Televisa Puebla (MOVIL)
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/65785.ts
-#EXTINF:-1 tvg-id="xhpdt.mx" tvg-name="MX: Televisa Puebla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logotipo_de_Televisa_%282001-2016%29.png" group-title="LAT - Mexico",MX: Televisa Puebla
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24049.ts
-#EXTINF:-1 tvg-id="xhpdt.mx" tvg-name="MX: Televisa Puebla Full HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/Logotipo_de_Televisa_%282001-2016%29.png" group-title="LAT - Mexico",MX: Televisa Puebla Full HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24050.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX: Garage TV" tvg-logo="http://swedtv.vip/logos/Mexico/garage_tv.png" group-title="LAT - Mexico",MX: Garage TV
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24053.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX: Garage TV Full HD" tvg-logo="http://swedtv.vip/logos/Mexico/garage_tv.png" group-title="LAT - Mexico",MX: Garage TV Full HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24054.ts
-#EXTINF:-1 tvg-id="MX: ¡HOLA! TV" tvg-name="MX: Hola TV" tvg-logo="http://swedtv.vip/logos/entretenimiento/%c2%a1HOLA!TV.png" group-title="LAT - Mexico",MX: Hola TV
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24055.ts
-#EXTINF:-1 tvg-id="MX: ¡HOLA! TV" tvg-name="MX: Hola TV Full HD" tvg-logo="http://swedtv.vip/logos/entretenimiento/%c2%a1HOLA!TV.png" group-title="LAT - Mexico",MX: Hola TV Full HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24056.ts
-#EXTINF:-1 tvg-id="maschictv.mx" tvg-name="MX: Mas Chic" tvg-logo="https://i.im.ge/2022/08/05/Fbbsvf.indice.png" group-title="LAT - Mexico",MX: Mas Chic
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24057.ts
-#EXTINF:-1 tvg-id="maschictv.mx" tvg-name="MX: Mas Chic Full HD" tvg-logo="https://i.im.ge/2022/08/05/Fbbsvf.indice.png" group-title="LAT - Mexico",MX: Mas Chic Full HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24058.ts
-#EXTINF:-1 tvg-id="mileniotelevision.mx" tvg-name="MX: Milenio TV" tvg-logo="https://static.epg.best/mx/MilenioTelevision.mx.png" group-title="LAT - Mexico",MX: Milenio TV
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24059.ts
-#EXTINF:-1 tvg-id="mileniotelevision.mx" tvg-name="MX: Milenio TV HD" tvg-logo="https://static.epg.best/mx/MilenioTelevision.mx.png" group-title="LAT - Mexico",MX: Milenio TV HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24060.ts
-#EXTINF:-1 tvg-id="mileniotelevision.mx" tvg-name="MX: Milenio TV FHD" tvg-logo="https://static.epg.best/mx/MilenioTelevision.mx.png" group-title="LAT - Mexico",MX: Milenio TV FHD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/250588.ts
-#EXTINF:-1 tvg-id="imagentv.mx" tvg-name="MX: Imagen TV" tvg-logo="http://swedtv.vip/logos/Mexico/Imagen_TV.png" group-title="LAT - Mexico",MX: Imagen TV
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24064.ts
-#EXTINF:-1 tvg-id="unicable.mx" tvg-name="MX: Unicable" tvg-logo="http://swedtv.vip/logos/Mexico/Unicable.png" group-title="LAT - Mexico",MX: Unicable
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24065.ts
-#EXTINF:-1 tvg-id="unicable.mx" tvg-name="MX: Unicable Full HD" tvg-logo="http://swedtv.vip/logos/Mexico/Unicable.png" group-title="LAT - Mexico",MX: Unicable Full HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24066.ts
-#EXTINF:-1 tvg-id="MX: WOBI TV" tvg-name="MX: Wobi TV" tvg-logo="http://swedtv.vip/logos/Mexico/WOBI_tv.png" group-title="LAT - Mexico",MX: Wobi TV
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24067.ts
-#EXTINF:-1 tvg-id="MX: WOBI TV" tvg-name="MX: Wobi TV Full HD" tvg-logo="http://swedtv.vip/logos/Mexico/WOBI_tv.png" group-title="LAT - Mexico",MX: Wobi TV Full HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24068.ts
-#EXTINF:-1 tvg-id="canalmexiquense.mx" tvg-name="MX: Mexiquense" tvg-logo="http://img.tvcl.xyz/mexico/mexiquense.png" group-title="LAT - Mexico",MX: Mexiquense
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24071.ts
-#EXTINF:-1 tvg-id="tvmasxhgv.es" tvg-name="MX: TV Mas HD" tvg-logo="https://i.im.ge/2022/08/05/Fc3rpm.394-3943107-tv-mas-veracruz-hd-png-download.png" group-title="LAT - Mexico",MX: TV Mas HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24072.ts
-#EXTINF:-1 tvg-id="distritocomedia.mx" tvg-name="MX: Distrito Comedia" tvg-logo="http://swedtv.vip/logos/Mexico/Distrito_Comedia.png" group-title="LAT - Mexico",MX: Distrito Comedia
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24074.ts
-#EXTINF:-1 tvg-id="glitz.mx" tvg-name="MX: Glitz" tvg-logo="http://swedtv.vip/logos/Mexico/Glitz.png" group-title="LAT - Mexico",MX: Glitz
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24075.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX: A Plus" tvg-logo="http://img.tvcl.xyz/mexico/aplus.png" group-title="LAT - Mexico",MX: A Plus
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24081.ts
-#EXTINF:-1 tvg-id="" tvg-name="MX: Canal 8 (MOVIL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Canal_8_logo.svg/1200px-Canal_8_logo.svg.png" group-title="LAT - Mexico",MX: Canal 8 (MOVIL)
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/65061.ts
-#EXTINF:-1 tvg-id="telenovelas.mx" tvg-name="MX: TL Novelas" tvg-logo="https://i.im.ge/2022/08/05/FcxcHy.indicwwwe.png" group-title="LAT - Mexico",MX: TL Novelas
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/24096.ts
-#EXTINF:-1 tvg-id="bitme.mx" tvg-name="MX: Bit Me" tvg-logo="http://img.tvcl.xyz/infantiles/bitme.png" group-title="LAT - Mexico",MX: Bit Me
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/64404.ts
-#EXTINF:-1 tvg-id="bitme.mx" tvg-name="MX: Bit Me FHD" tvg-logo="http://img.tvcl.xyz/infantiles/bitme.png" group-title="LAT - Mexico",MX: Bit Me FHD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/64405.ts
-#EXTINF:-1 tvg-id="MX: WOBI TV" tvg-name="MX: Wobi TV (MOVIL)" tvg-logo="http://swedtv.vip/logos/Mexico/WOBI_tv.png" group-title="LAT - Mexico",MX: Wobi TV (MOVIL)
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/65784.ts
-#EXTINF:-1 tvg-id="telenovelas.mx" tvg-name="MX: TL Novelas HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Logo_tlnovelas_feb2019.png/917px-Logo_tlnovelas_feb2019.png" group-title="LAT - Mexico",MX: TL Novelas HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/72250.ts
-#EXTINF:-1 tvg-id="distritocomedia.mx" tvg-name="MX: Distrito Comedia HD" tvg-logo="http://swedtv.vip/logos/Mexico/Distrito_Comedia.png" group-title="LAT - Mexico",MX: Distrito Comedia HD
-http://restreamicos.com:2095/tvcoolinter93/yrSSdDrNqV/178028.ts
-#EXTINF:-1 xui-id="76" tvg-id="" tvg-name="DEP HD - ESPN 3 (MX)" tvg-logo="http://154.12.247.170:80/images/31f137b3c144d996d22949fef3cd9aec.png" group-title="DEPORTES PREMIUM",DEP HD - ESPN 3 (MX)
-http://154.12.247.170:80/play/MKSltNbIrJK2hPaQ7FIDo4IasLugWcHUp5L_uDXT-vA/m3u8
-#EXTINF:-1 xui-id="77" tvg-id="FSALPM" tvg-name="DEP HD - FOX SPORTS 1 (MX)" tvg-logo="http://154.12.247.170:80/images/eb85cb038f0e84c09c588e7fb5ae2383.png" group-title="DEPORTES PREMIUM",DEP HD - FOX SPORTS 1 (MX)
-http://154.12.247.170:80/play/MKSltNbIrJK2hPaQ7FIDo3FGSlbu-TXnAJYeWp5IoXQ/m3u8
-#EXTINF:-1 xui-id="78" tvg-id="FSALPM" tvg-name="DEP HD - FOX SPORTS 2 (MX)" tvg-logo="http://154.12.247.170:80/images/eb85cb038f0e84c09c588e7fb5ae2383.png" group-title="DEPORTES PREMIUM",DEP HD - FOX SPORTS 2 (MX)
-http://154.12.247.170:80/play/MKSltNbIrJK2hPaQ7FIDo1gdkvYOodoANJ2Awr2Q2ZA/m3u8
-#EXTINF:-1 xui-id="79" tvg-id="FSALPM" tvg-name="DEP HD - FOX SPORTS 3 (MX)" tvg-logo="http://154.12.247.170:80/images/a37d77444ef126606d28bfca5e070e22.png" group-title="DEPORTES PREMIUM",DEP HD - FOX SPORTS 3 (MX)
-http://154.12.247.170:80/play/MKSltNbIrJK2hPaQ7FIDo8clxpeglO5aAXiOFxp2Kf4/m3u8
-#EXTINF:-1 xui-id="80" tvg-id="FSPREMA" tvg-name="DEP HD - FOX SPORTS PREMIUM (MX)" tvg-logo="http://154.12.247.170:80/images/4ff47b6d22f831f1cc0345d1c89d7242.png" group-title="DEPORTES PREMIUM",DEP HD - FOX SPORTS PREMIUM (MX)
-http://154.12.247.170:80/play/MKSltNbIrJK2hPaQ7FIDoxsJNDd1RIn7sPvQacJI3-E/m3u8
-#EXTINF:-1 xui-id="81" tvg-id="ZONFUT" tvg-name="DEP HD - ZONA TUDN (MX)" tvg-logo="http://154.12.247.170:80/images/92054ac3804957d24e9f0047a0fc87c3.png" group-title="DEPORTES PREMIUM",DEP HD - ZONA TUDN (MX)
-http://154.12.247.170:80/play/MKSltNbIrJK2hPaQ7FIDo9enRPeObD113_dE9OJx2M8/m3u8
-#EXTINF:-1 xui-id="82" tvg-id="TUDNM" tvg-name="DEP HD - TUDN MEXICO" tvg-logo="http://154.12.247.170:80/images/f2073a6193370da0cded7426bc4d1fce.png" group-title="DEPORTES PREMIUM",DEP HD - TUDN MEXICO
-http://154.12.247.170:80/play/MKSltNbIrJK2hPaQ7FIDozq4CJlwoBM2x3qsRLuLgHs/m3u8
-#EXTINF:-1 xui-id="83" tvg-id="TUDNM" tvg-name="DEP HD - TUDN USA" tvg-logo="http://154.12.247.170:80/images/012de8f076fcaad40b3c1905cd9e5f1c.png" group-title="DEPORTES PREMIUM",DEP HD - TUDN USA
-http://154.12.247.170:80/play/MKSltNbIrJK2hPaQ7FIDo8Ipo_yeBKd4PKK5y1AKHMo/m3u8
-#EXTINF:-1 xui-id="84" tvg-id="AFIZZHD" tvg-name="DEP HD - AFIZZIONADOS MX" tvg-logo="http://154.12.247.170:80/images/c13ea13a7c37d77cce20fdc484a5eaaa.png" group-title="DEPORTES PREMIUM",DEP HD - AFIZZIONADOS MX
-http://154.12.247.170:80/play/MKSltNbIrJK2hPaQ7FIDoxB8xD6BTjMHvTUIGaErP3E/m3u8
+#EXTM3U
+#EXTINF:-1,MXC| SD 24H
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552782
+#EXTINF:-1,MXC| A3CINE FHD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552786
+#EXTINF:-1,MXC| adn 40
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/25332
+#EXTINF:-1,MXC| ADRENALINA FHD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552783
+#EXTINF:-1,MXC| AFIZZIONADOS FHD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552784
+#EXTINF:-1,MXC| AMC
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552971
+#EXTINF:-1,MXC| PLANETA ANIMAL HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552905
+#EXTINF:-1,MXC| ANTENA 3
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552785
+#EXTINF:-1,MXC| SERIE ATRES FHD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552787
+#EXTINF:-1,MXC| AXNHD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552904
+#EXTINF:-1,MXC| CLIC AZ
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/25329
+#EXTINF:-1,MXC| AZ CORAZÓN
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/25328
+#EXTINF:-1,MXC| MUNDO AZ
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/25325
+#EXTINF:-1,MXC| AZTECA 7
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/25330
+#EXTINF:-1,MXC| AZTECA CORAZÓN HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552975
+#EXTINF:-1,MXC| AZTECA uno
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/25331
+#EXTINF:-1,MXC| CINE B FHD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552788
+#EXTINF:-1,MXC| BEBÉ PRIMERO
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552906
+#EXTINF:-1,MXC| BANDAMAX
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/90349
+#EXTINF:-1,MXC| BITME FHD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552790
+#EXTINF:-1,MXC| TV BLOOMBERG HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/553078
+#EXTINF:-1,MXC| CADENA H
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552981
+
+#EXTINF:-1,MXC| CANAL 113 HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/553060
+#EXTINF:-1,MXC| CANAL 4
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/553056
+#EXTINF:-1,MXC| CANAL 5
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552823
+#EXTINF:-1,MXC| CANAL 5HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/25327
+#EXTINF:-1,MXC| CANAL 9
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552824
+#EXTINF:-1,MXC| CANAL DE LAS ESTRELLAS
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/25321
+#EXTINF:-1,MXC| CANAL UNA VEZ
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/25323
+#EXTINF:-1,MXC| CANAL UNA VEZ INT.
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/25322
+#EXTINF:-1,MXC| CANAL ONCE INTNL HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552956
+#EXTINF:-1,MXC| CANAL ONCE MX
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/25324
+#EXTINF:-1,MXC| RED DE DIBUJOS ANIMADOS HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552909
+#EXTINF:-1,MXC| CINECANAL
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552826
+#EXTINF:-1,MXC| CINECANAL HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552982
+#EXTINF:-1,MXC| CINEMAX HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552910
+#EXTINF:-1,MXC| COMEDIA CENTRAL HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552908
+#EXTINF:-1,MXC| TV COCINA
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/806272
+#EXTINF:-1,MXC| COMO DICE EL DICHO TV
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/806276
+#EXTINF:-1,MXC| DE PELICULA
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552828
+#EXTINF:-1,MXC| DE PELICULA CLÁSICA
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/553079
+#EXTINF:-1,MXC| DE PELICULA HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/553081
+#EXTINF:-1,MXC| DE PELICULA PLUS FHD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552794
+#EXTINF:-1,MXC| DE PELICULA PLUS HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/553080
+#EXTINF:-1,MXC| DE PELICULA SD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552793
+#EXTINF:-1,MXC| CANAL DE DESCUBRIMIENTO HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552911
+#EXTINF:-1,MXC| DESCUBRIMIENTO CIVILIZACIÓN HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552985
+#EXTINF:-1,MXC| DESCUBRIMIENTO H&H HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552986
+#EXTINF:-1,MXC| NIÑOS DESCUBRIMIENTO
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552829
+#EXTINF:-1,MXC| DESCUBRIMIENTO CIENCIA HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552987
+#EXTINF:-1,MXC| CANAL DISNEY HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552922
+#EXTINF:-1,MXC| DISNEY JR
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552989
+#EXTINF:-1,MXC| DISTRITO COMEDIA
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/806271
+#EXTINF:-1,MXC| FOROTV
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/25326
+#EXTINF:-1,MXC| efectos de alta definición
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552919
+#EXTINF:-1,MXC| PELÍCULAS FX HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552925
+#EXTINF:-1,MXC| FXMHD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552920
+#EXTINF:-1,MXC| Gala TV9 HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552901
+#EXTINF:-1,MXC| GALAVISIÓN HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552878
+#EXTINF:-1,MXC| HBO 2HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552933
+#EXTINF:-1,MXC| HBOHD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552934
+#EXTINF:-1,MXC| HBO MUNDI
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552854
+#EXTINF:-1,MXC| HBO PLUS HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552931
+#EXTINF:-1,MXC| FIRMA HBO HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552930
+#EXTINF:-1,MXC| HLN HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/553001
+#EXTINF:-1,MXC| IMAGEN HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/25316
+#EXTINF:-1,MXC| DESCUBRIMIENTO DE INVESTIGACIÓN HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552914
+#EXTINF:-1,MXC| LA ROSA DE GUADALUPE TV
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/806275
+#EXTINF:-1,MXC| LAS ESTRELLAS
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552802
+#EXTINF:-1,MXC| LAS ESTRELLAS -1 HORA
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552803
+#EXTINF:-1,MXC| LAS ESTRELLAS -2 HORA
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552804
+#EXTINF:-1,MXC| LAS ESTRELLAS 1 HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552873
+#EXTINF:-1,MXC| LAS ESTRELLAS FHD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552872
+#EXTINF:-1,MXC| LAS ESTRELLAS HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552874
+#EXTINF:-1,MXC| HD DE POR VIDA
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552943
+#EXTINF:-1,MXC| MAS CHIC
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/553006
+#EXTINF:-1,MXC| MAS CHIC HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/553047
+#EXTINF:-1,MXC| MEXIQUENSE HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/25315
+#EXTINF:-1,MXC| MILENIO TV HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552955
+#EXTINF:-1,MXC| MÓRBIDO HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552898
+#EXTINF:-1,MXC| MTV HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/553009
+#EXTINF:-1,MXC| MTV EN VIVO HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/553007
+#EXTINF:-1,MXC| NIÑOS NATGEO
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552859
+#EXTINF:-1,MXC| MELLA
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552860
+#EXTINF:-1,MXC| NIC 2 HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552945
+#EXTINF:-1,MXC| nick jr hd
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552949
+#EXTINF:-1,MXC| NICKELODEON HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552948
+#EXTINF:-1,MXC| NICKTOONS
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/553011
+#EXTINF:-1,MXC| NU9VE
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552805
+#EXTINF:-1,MXC| MÚSICA TELEHIT
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552808
+#EXTINF:-1,MXC| TELEHIT MÚSICA PLUS
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552809
+#EXTINF:-1,MXC| TELEHIT PLUS HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552902
+#EXTINF:-1,MXC| TELEMUNDO
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552867
+#EXTINF:-1,MXC| TELEMUNDO INTERNACIONAL
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552810
+#EXTINF:-1,MXC| TELENOVELAS FHD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/553043
+#EXTINF:-1,MXC| TELERITMO
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552963
+#EXTINF:-1,MXC| TLNOVELAS
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552812
+#EXTINF:-1,MXC| TNTHD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552942
+#EXTINF:-1,MXC| SERIE TNT
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/553045
+#EXTINF:-1,MXC| TOON CAST HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/553046
+#EXTINF:-1,MXC| TUDN
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552870
+#EXTINF:-1,MXC| UNICABLE HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552936
+#EXTINF:-1,MXC| CANAL UNIVERSAL HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/552953
+#EXTINF:-1,MXC| VH1
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/553051
+#EXTINF:-1,LAT| NOTICIAS UNIVISION HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/90837
+#EXTINF:-1,LAT| UNIVISION TELENOVELAS HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/75293
+#EXTINF:-1,LAT| adn 40
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/90293
+#EXTINF:-1,LAT| CANAL DE LAS ESTRELLAS
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/79352
+#EXTINF:-1,LAT| HOLA TV
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/25536
+#EXTINF:-1,LAT| HOLA TV HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/90809
+#EXTINF:-1,LAT| MILENIO TV HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/90303
+#EXTINF:-1,LAT| TELENOVELAS
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/79359
+#EXTINF:-1,LAT| AMC
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/90823
+#EXTINF:-1,LAT| AMCHD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/25560
+#EXTINF:-1,LAT| PLANETA ANIMAL HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/145414
+#EXTINF:-1,LAT| NOTICIAS ATV HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/75288
+#EXTINF:-1,LAT| AXN
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/25559
+#EXTINF:-1,LAT| AXNHD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/90825
+#EXTINF:-1,LAT| DEPORTES AYM
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/90306
+#EXTINF:-1,LAT| AZ CORAZÓN
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/75286
+#EXTINF:-1,LAT| AZTECA uno
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/79350
+#EXTINF:-1,LAT| BUMERANG HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT :http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/90818
+#EXTINF:-1,LAT| CINECANAL HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/90287
+#EXTINF:-1,LAT| CINEMAX
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/90286
+#EXTINF:-1,LAT| CINEMAX HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/90794
+#EXTINF:-1,LAT| CENTRAL DE LA COMEDIA
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/90824
+#EXTINF:-1,LAT| COMEDIA CENTRAL HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/25557
+#EXTINF:-1,LAT| DE PELICULA
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/90813
+#EXTINF:-1,LAT| DE PELICULA CLÁSICA
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/75289
+#EXTINF:-1,LAT| DE PELICULA HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/75290
+#EXTINF:-1,LAT| DE PELICULA PLUS
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/90812
+#EXTINF:-1,LAT| DE PELICULA PLUS HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/83807
+#EXTINF:-1,LAT| CANAL DISNEY
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/25544
+#EXTINF:-1,LAT| CANAL DISNEY HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/25542
+#EXTINF:-1,LAT| DISNEY JUNIOR
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/25543
+#EXTINF:-1,LAT| DISNEY JUNIOR HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/90774
+#EXTINF:-1,LAT| DISNEY XD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/90773
+#EXTINF:-1,LAT| DISNEY XD HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/90285
+#EXTINF:-1,LAT| DISTRITO COMEDIA
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/90284
+#EXTINF:-1,LAT| EL GOURMET HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/90816
+#EXTINF:-1,LAT| FORO TV HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/79353
+#EXTINF:-1,LAT| H2 HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/90764
+#EXTINF:-1,LAT| HBO
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/90786
+#EXTINF:-1,LAT| HBOHD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/25518
+#EXTINF:-1,LAT| HBO 2
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/90787
+#EXTINF:-1,LAT| HBO 2HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/25520
+#EXTINF:-1,LAT| HBO XTREMO
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/90300
+#EXTINF:-1,LAT| FAMILIA HBO
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/90785
+#EXTINF:-1,LAT| HBO FAMILIAR HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/25519
+#EXTINF:-1,LAT| HBO MUNDIAL
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/90301
+#EXTINF:-1,LAT| HBO PLUS
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/90784
+#EXTINF:-1,LAT| HBO PLUS HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/25517
+#EXTINF:-1,LAT| HBO POP
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/90299
+#EXTINF:-1,LAT| FIRMA HBO
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/90783
+#EXTINF:-1,LAT| FIRMA HBO HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/25516
+#EXTINF:-1,LAT| HISTORIA 2 HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/25545
+#EXTINF:-1,LAT| HISTORIA HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/25546
+#EXTINF:-1,LAT| MAS CHIC HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/90302
+#EXTINF:-1,LAT| MAYA TV (HN)
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/79362
+#EXTINF:-1,LAT| PELÍCULA MAX HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/79386
+#EXTINF:-1,LAT| PELÍCULA HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/79385
+#EXTINF:-1,LAT| MTV HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/90762
+#EXTINF:-1,LAT| MTV 80S
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/90307
+#EXTINF:-1,LAT| ÉXITOS DE MTV
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/90315
+#EXTINF:-1,LAT| MTV EN VIVO HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/90761
+#EXTINF:-1,LAT| MULTIMEDIOS
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/90806
+#EXTINF:-1,LAT| MULTIMEDIA HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/25535
+#EXTINF:-1,LAT| MULTIMEDIOS PLUS
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/90805
+#EXTINF:-1,LAT| MULTIMEDIOS PLUS HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/90804
+#EXTINF:-1,LAT| NAT GEO
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/90822
+#EXTINF:-1,LAT| NAT GEOHD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/25594
+#EXTINF:-1,LAT| NAT GEO NIÑOS
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/90821
+#EXTINF:-1,LAT| NAT GEO NIÑOS HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/90820
+#EXTINF:-1,LAT| NAT GEO MUNDO HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/25593
+#EXTINF:-1,LAT| NAT GEO SALVAJE
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/90819
+#EXTINF:-1,LAT| NAT GEO SALVAJE HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/25592
+#EXTINF:-1,LAT| NICK 2
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/57141
+#EXTINF:-1,LAT| NICK JR
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/90314
+#EXTINF:-1,LAT| NICK TOONS
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/90313
+#EXTINF:-1,LAT| NICKELODEON HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/25591
+#EXTINF:-1,LAT| ESTUDIO UNIVERSAL HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/25532
+#EXTINF:-1,LAT| SYFY HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/90311
+#EXTINF:-1,LAT| TELEMUNDO 49 TAMPA
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/1060021
+#EXTINF:-1,LAT| TELEMUNDO MIAMIHD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/721973
+#EXTINF:-1,LAT| TLC HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/25530
+#EXTINF:-1,LAT| TNT
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/90808
+#EXTINF:-1,LAT| TNTHD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/25529
+#EXTINF:-1,LAT| SERIE TNT
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/90807
+#EXTINF:-1,LAT| SERIE TNT HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/25528
+#EXTINF:-1,LAT| TOONCAST
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/25515
+#EXTINF:-1,LAT| UNIVISION HOUSTON HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/90830
+#EXTINF:-1,LAT| UNIVISIÓN MIAMI HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/721974
+#EXTINF:-1,LAT| TUDN XTRA 2
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/982320
+#EXTINF:-1,LAT| TUDN XTRA 3
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/982321
+#EXTINF:-1,LAT| TUDN XTRA 4
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/982322
+#EXTINF:-1,LAT| TUDN XTRA 5
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/982323
+#EXTINF:-1,LAT| TUDN XTRA 6
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/982324
+#EXTINF:-1,LAT| TUDN XTRA 7
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/982325
+#EXTINF:-1,LAT| TUDN XTRA 8
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/982326
+#EXTINF:-1,LAT| TUDN XTRA 9
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/982327
+#EXTINF:-1,LAT| TUDN XTRA 10
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/982318
+#EXTINF:-1,LAT| TUDN XTRA 11
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/982319
+#EXTINF:-1,LAT| VH1 HD
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-referrer=http://protv.fun:80
+#EXTVLCOPT:http-user-agent=Lavf/57.71.001
+#EXTVLCOPT: almacenamiento en caché de red = 1000
+http://protv.fun:80/Vitor2023/2023Vitor/90308
