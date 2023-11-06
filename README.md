@@ -1,6 +1,6 @@
 ki#EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-#EXTINF:-1 tvg-id="" tvg-name="cannal 7" tvg-logo="" group-title="México"
+#EXTINF:-1 tvg-id="" tvg-name="carton netword" tvg-logo="" group-title="México"
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="las estrellas fhd" tvg-logo="" group-title="México"
 https://channel01.akamaized.net:443/hls/live/2022749/event01/index_6.m3u8
