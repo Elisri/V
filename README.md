@@ -6,8 +6,8 @@ https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 https://mdstrm.com/live-stream-gdai/609ad46a7a441137107d7a81/linear/hls/pa/event/PNEbbcJZRAaP4wDlQMW2LA/stream/16448c3e-ca90-40d3-9e25-522b3c5f7b06:CHS/master.m3u8
 #EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="MX || Las Estrellas HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Las_estrellas_2017.jpg" group-title="México",MX || Las Estrellas HD®"
 https://channel01.akamaized.net:443/hls/live/2022749/event01/index_6.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="disney Chanel" tvg-logo="" group-title="México"
-https://usher.ttvnw.net/api/channel/hls/dk_0145.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKidsPanregional.us" tvg-name="Sᴾᴬ Pʳᵉᵐⁱᵘᵐ | DISCOVERY KIDS ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png" group-title="Mexico",Sᴾᴬ Pʳᵉᵐⁱᵘᵐ | DISCOVERY KIDS ®
+https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="animal planeta" tvg-logo="" group-title="México"
 https://usherhttp://201.139.174.68:8000/play/a025/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Capitulo 1" tvg-logo="" group-title="Chucky 3er temporada"
