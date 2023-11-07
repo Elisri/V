@@ -2,13 +2,12 @@ ki#EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTINF:-1 tvg-id="" tvg-name="carton netword" tvg-logo="" group-title="México"
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Azteca7MexicoCity.mx" tvg-name="MX || Azteca 7 HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" group-title="México",MX || Azteca 7 HD®
 https://mdstrm.com/live-stream-gdai/609ad46a7a441137107d7a81/linear/hls/pa/event/PNEbbcJZRAaP4wDlQMW2LA/stream/16448c3e-ca90-40d3-9e25-522b3c5f7b06:CHS/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="las estrellas fhd" tvg-logo="" group-title="México"
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="MX || Las Estrellas HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Las_estrellas_2017.jpg" group-title="México",MX || Las Estrellas HD®"
 https://channel01.akamaized.net:443/hls/live/2022749/event01/index_6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="disney Chanel" tvg-logo="" group-title="México"
-https://usher.ttvnw.net/api/channel/hls/dk_0145.m3u8?acmb=e30%3D&allow_source=true&fast_bread=true&p=6618325&play_session_id=fa9580555e91b243d1b59b6bf420a3b8&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=b7d8bc291a2cba25b6a711040151bc4d387d646d&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22dk_0145%22%2C%22channel_id%22%3A784053613%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22e001b9e2086920b2%22%2C%22expires%22%3A1697128844%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22170.239.151.100%22%2C%22version%22%3A2%7D&transcode_mode=cbr_v1&cdm=wv&player_version=1.22.0
+https://usher.ttvnw.net/api/channel/hls/dk_0145.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="animal planeta" tvg-logo="" group-title="México"
 https://usherhttp://201.139.174.68:8000/play/a025/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Capitulo 1" tvg-logo="" group-title="Chucky 3er temporada"
