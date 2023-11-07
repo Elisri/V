@@ -2,6 +2,9 @@ ki#EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTINF:-1 tvg-id="" tvg-name="carton netword" tvg-logo="" group-title="México"
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Azteca7MexicoCity.mx" tvg-name="MX || Azteca 7 HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" group-title="México",MX || Azteca 7 HD®
+https://mdstrm.com/live-stream-gdai/609ad46a7a441137107d7a81/linear/hls/pa/event/PNEbbcJZRAaP4wDlQMW2LA/stream/16448c3e-ca90-40d3-9e25-522b3c5f7b06:CHS/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="las estrellas fhd" tvg-logo="" group-title="México"
 https://channel01.akamaized.net:443/hls/live/2022749/event01/index_6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="disney Chanel" tvg-logo="" group-title="México"
