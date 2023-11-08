@@ -4,7 +4,7 @@ ooooki#EXTM3U
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 #EXTINF:-1 tvg-id="Azteca7MexicoCity.mx" tvg-name="MX || Azteca 7 HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Logo_Azteca_7_2011.svg/1200px-Logo_Azteca_7_2011.svg.png" group-title="México",MX || Azteca 7 HD®
 https://mdstrm.com/live-stream-gdai/609ad46a7a441137107d7a81/linear/hls/pa/event/PNEbbcJZRAaP4wDlQMW2LA/stream/16448c3e-ca90-40d3-9e25-522b3c5f7b06:CHS/master.m3u8
-#EXTINF:0 tvg-id="LasEstrellas.mx" tvg-name="MX || Las Estrellas HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Las_estrellas_2017.jpg" group-title="México",MX || Las Estrellas HD®"
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="MX || Las Estrellas HD®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Las_estrellas_2017.jpg" group-title="México",MX || Las Estrellas HD®"
 https://channel01.akamaized.net:443/hls/live/2022749/event01/index_6.m3u8
 #EXTINF:-1 tvg-id="DiscoveryKidsPanregional.us" tvg-name=" DISCOVERY KIDS ®" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1164px-2016_Discovery_Kids_logo.svg.png" group-title="México",Sᴾᴬ Pʳᵉᵐⁱᵘᵐ | DISCOVERY KIDS ®
 https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist.m3u8
